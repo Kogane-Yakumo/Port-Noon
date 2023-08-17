@@ -317,7 +317,7 @@ Add {G} or {U}.
       </prop>
       <tablerow>2</tablerow>
       <text>This spell has flash as long as it’s foretold.
-Foretell {U} (During your turn, you may pay {2} and exile this card from your hand face down. Cast it on a later turn for its foretell cost.)</text>
+Foretell {U} (During your turn, you may pay {2} and exile this card from your hand face down. Play it on a later turn for its foretell cost.)</text>
     </card>
     <card>
       <name>All Shall be Opened</name>
@@ -715,7 +715,7 @@ Induct. (Create a 0/1 Cleric creature token with “Sacrifice two other Clerics:
       </prop>
       <tablerow>3</tablerow>
       <text>Target creature you control gains hexproof until end of turn. If this spell was cast from exile, it gets +3/+3 until end of turn. 
-Foretell {G} (During your turn, you may pay {2} and exile this card from your hand face down. Cast it on a later turn for its foretell cost.)</text>
+Foretell {G} (During your turn, you may pay {2} and exile this card from your hand face down. Play it on a later turn for its foretell cost.)</text>
     </card>
     <card>
       <name>Cindered Tally</name>
@@ -730,7 +730,7 @@ Foretell {G} (During your turn, you may pay {2} and exile this card from your ha
       <tablerow>3</tablerow>
       <text>This spell has flash as long as it’s foretold.
 You draw two cards and lose 2 life.
-Foretell {B} (During your turn, you may pay {2} and exile this card from your hand face down. Cast it on a later turn for its foretell cost.)</text>
+Foretell {B} (During your turn, you may pay {2} and exile this card from your hand face down. Play it on a later turn for its foretell cost.)</text>
     </card>
     <card>
       <name>PTN Augury Raven</name>
@@ -745,7 +745,7 @@ Foretell {B} (During your turn, you may pay {2} and exile this card from your ha
       </prop>
       <tablerow>2</tablerow>
       <text>Flying
-Foretell 1U (During your turn, you may pay {2} and exile this card from your hand face down. Cast it on a later turn for its foretell cost.)</text>
+Foretell 1U (During your turn, you may pay {2} and exile this card from your hand face down. Play it on a later turn for its foretell cost.)</text>
     </card>
     <card>
       <name>PTN Iron Verdict</name>
@@ -759,7 +759,7 @@ Foretell 1U (During your turn, you may pay {2} and exile this card from your han
       </prop>
       <tablerow>3</tablerow>
       <text>Iron Verdict deals 5 damage to target tapped creature.
-Foretell {W} (During your turn, you may pay {2} and exile this card from your hand face down. Cast it on a later turn for its foretell cost.)</text>
+Foretell {W} (During your turn, you may pay {2} and exile this card from your hand face down. Play it on a later turn for its foretell cost.)</text>
     </card>
     <card>
       <name>Echoing Charger</name>
@@ -857,7 +857,7 @@ When River Drowner enters the battlefield, you may sacrifice a creature. If you 
       </prop>
       <tablerow>3</tablerow>
       <text>Destroy up to one target artifact or enchantment. If this spell was cast from exile, you gain 3 life and draw a card.
-Foretell 2W (During your turn, you may pay {2} and exile this card from your hand face down. Cast it on a later turn for its foretell cost.)</text>
+Foretell 2W (During your turn, you may pay {2} and exile this card from your hand face down. Play it on a later turn for its foretell cost.)</text>
     </card>
     <card>
       <name>Noonstone Amulet</name>
@@ -1126,7 +1126,7 @@ As long as you control a God, you may cast Verse: Illuminate from your graveyard
       <tablerow>3</tablerow>
       <text>This spell has flash as long as it’s foretold.
 Draw two cards.
-Foretell 1U (During your turn, you may pay {2} and exile this card from your hand face down. Cast it on a later turn for its foretell cost.)</text>
+Foretell 1U (During your turn, you may pay {2} and exile this card from your hand face down. Play it on a later turn for its foretell cost.)</text>
     </card>
     <card>
       <name>Nowhere Illuminator</name>
@@ -1185,7 +1185,7 @@ The first foretold spell you cast each turn costs {1} less to cast.</text>
       </prop>
       <tablerow>2</tablerow>
       <text>When Ancient Translator enters the battlefield, if it was cast from exile, return target instant or sorcery card from your graveyard to your hand. 
-Foretell 2U (During your turn, you may pay {2} and exile this card from your hand face down. Cast it on a later turn for its foretell cost.)</text>
+Foretell 2U (During your turn, you may pay {2} and exile this card from your hand face down. Play it on a later turn for its foretell cost.)</text>
     </card>
     <card>
       <name>Seven-Coil Shipbreaker</name>
@@ -1547,7 +1547,7 @@ Activated abilities of Sanctuaries you control cost {1} less to activate.</text>
       <text>BG,  Remove X +1/+1 counters from among creatures you control: Target creature gets -X/-X until end of turn. Activate only as a sorcery.</text>
     </card>
     <card>
-      <name>Mallery Phantasm</name>
+      <name>Malleary Phantasm</name>
       <set rarity="uncommon">PTN</set>
       <prop>
         <colors>WR</colors>
@@ -1572,7 +1572,7 @@ Activated abilities of Sanctuaries you control cost {1} less to activate.</text>
       </prop>
       <tablerow>1</tablerow>
       <text>The first time you cast a foretold spell each turn, induct. (Create a 0/1 Cleric creature token with “Sacrifice two other Clerics: Transform this creature.” It transforms into a 4/4 God Horror creature token that can’t block.)
-Foretell WU (During your turn, you may pay {2} and exile this card from your hand face down. Cast it on a later turn for its foretell cost.)</text>
+Foretell WU (During your turn, you may pay {2} and exile this card from your hand face down. Play it on a later turn for its foretell cost.)</text>
     </card>
     <card>
       <name>Nowhere Deathlord</name>
@@ -1774,7 +1774,7 @@ When Tattered Cyprian enters the battlefield, if an opponent lost life this turn
       <tablerow>2</tablerow>
       <text>Reach
 When Enflamed Caligine enters the battlefield, if it was cast from exile, Enflamed Caligine gains haste until end of turn.
-Foretell 3R (During your turn, you may pay {2} and exile this card from your hand face down. Cast it on a later turn for its foretell cost.)</text>
+Foretell 3R (During your turn, you may pay {2} and exile this card from your hand face down. Play it on a later turn for its foretell cost.)</text>
     </card>
     <card>
       <name>Lost Seraph</name>
@@ -1949,7 +1949,7 @@ When you sacrifice Nowhere Soul Collector, create a 1/1 black Skeleton creature 
       </prop>
       <tablerow>2</tablerow>
       <text>Foretold spells you cast cost {1} less to cast.
-Foretell 2UU (During your turn, you may pay {2} and exile this card from your hand face down. Cast it on a later turn for its foretell cost.)</text>
+Foretell 2UU (During your turn, you may pay {2} and exile this card from your hand face down. Play it on a later turn for its foretell cost.)</text>
     </card>
     <card>
       <name>Mind Control</name>
@@ -2079,7 +2079,7 @@ At the beginning of each of your main phases, you may have each opponent loses 1
       </prop>
       <tablerow>2</tablerow>
       <text>Whenever one or more cards you own are put into exile, Malleary Smeltor deals 1 damage to target creature an opponent controls.
-Foretell 1R (During your turn, you may pay {2} and exile this card from your hand face down. Cast it on a later turn for its foretell cost.)</text>
+Foretell 1R (During your turn, you may pay {2} and exile this card from your hand face down. Play it on a later turn for its foretell cost.)</text>
     </card>
     <card>
       <name>Opener of Glass</name>
@@ -2309,7 +2309,7 @@ The first time one or more cards you own are put into exile, you get a Scar. (It
       </prop>
       <tablerow>3</tablerow>
       <text>Prevent the next 4 damage that would be dealt to target permanent or player. If this spell was cast from exile, Sun-Scorched Tempering deals damage to any target equal to the damage prevented this way.
-Foretell {W} (During your turn, you may pay {2} and exile this card from your hand face down. Cast it on a later turn for its foretell cost.)</text>
+Foretell {W} (During your turn, you may pay {2} and exile this card from your hand face down. Play it on a later turn for its foretell cost.)</text>
     </card>
     <card>
       <name>Surrender to the Sea</name>
@@ -2336,7 +2336,7 @@ Foretell {W} (During your turn, you may pay {2} and exile this card from your ha
       </prop>
       <tablerow>3</tablerow>
       <text>Counter target permanent spell unless it controller pays {3}. If this spell was foretold, instead counter that spell, then scry 2.
-Foretell 1UU (During your turn, you may pay {2} and exile this card from your hand face down. Cast it on a later turn for its foretell cost.)</text>
+Foretell 1UU (During your turn, you may pay {2} and exile this card from your hand face down. Play it on a later turn for its foretell cost.)</text>
     </card>
     <card>
       <name>Eyes Everywhere</name>
@@ -2997,7 +2997,7 @@ Whenever The Forge of Days attacks, you may put a creature card you own in exile
       <tablerow>2</tablerow>
       <text>At the beginning of your end step, you may put a spore counter on target creature.
 If The Crowned Growth would die, exile it instead. It becomes foretold.
-Foretell—Sacrifice a creature with a spore counter on it. (During your turn, you may pay {2} and exile this card from your hand face down. Cast it on a later turn for its foretell cost.)</text>
+Foretell—Sacrifice a creature with a spore counter on it. (During your turn, you may pay {2} and exile this card from your hand face down. Play it on a later turn for its foretell cost.)</text>
     </card>
     <card>
       <name>The Thunderskin</name>
@@ -3115,7 +3115,7 @@ Activated abilities of sources with the chosen name can’t be activated unless 
     </card>
     <card>
       <name>The Witch-and-Sister</name>
-      <set rarity="mythic" splitterPath="/The Witch-and-Sister.jpg" >PTN</set>
+      <set rarity="mythic" splitterPath="/The Witch-and-Sister.png" >PTN</set>
       <prop>
         <colors>UR</colors>
         <manacost>1UR</manacost>
@@ -3134,7 +3134,7 @@ When this creature enters the battlefield or transforms into The Witch-and-Siste
     </card>
     <card>
       <name>The Sister-and-Witch</name>
-      <set rarity="mythic" splitterPath="/The Sister-and-Witch.jpg" >PTN</set>
+      <set rarity="mythic" splitterPath="/The Sister-and-Witch.png" >PTN</set>
       <prop>
         <colors>WU</colors>
         <manacost>1WU</manacost>
@@ -3318,7 +3318,7 @@ When you sacrifice Devoured Messenger, you may cast a noncreature spell with man
       </prop>
       <tablerow>3</tablerow>
       <text>Create a token that’s a copy of target creature. If this spell was cast from exile, create two of those tokens instead.
-Foretell 3UU (During your turn, you may pay {2} and exile this card from your hand face down. Cast it on a later turn for its foretell cost.)</text>
+Foretell 3UU (During your turn, you may pay {2} and exile this card from your hand face down. Play it on a later turn for its foretell cost.)</text>
     </card>
     <card>
       <name>Seven-Coil&apos;s Scion</name>
@@ -3539,7 +3539,7 @@ Other creatures you control have “Ward—-Pay 2 life.”</text>
       <text>Choose target creature you control, it gets +X/+0 until end of turn. Then, you may have it deals damage equal to its power to another target creature.</text>
     </card>
     <card>
-      <name>Malleus Spark Amulet</name>
+      <name>Malleaus Spark Amulet</name>
       <set rarity="rare">PTN</set>
       <prop>
         <colors>R</colors>
