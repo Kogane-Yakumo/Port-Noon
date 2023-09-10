@@ -3007,8 +3007,8 @@
 		1 Wolf-Splinter
 		1 Bringer of Glory
 		1 Unscared Wolf
-		1 Iron Verdict
-		1 Augury Raven
+		1 PTN Iron Verdict
+		1 PTN Augury Raven
 		1 Sea's Feasting
 		1 Seven-Coil Shipbreaker
 		1 Sky-Scar Angel
@@ -3125,8 +3125,8 @@
 		1 Wood's Deceiver
 		1 Bringer of Glory
 		1 Unscared Wolf
-		1 Iron Verdict
-		1 Augury Raven
+		1 PTN Iron Verdict
+		1 PTN Augury Raven
 		1 Sea's Feasting
 		1 Seven-Coil Shipbreaker
 		1 Sky-Scar Angel
@@ -3170,8 +3170,8 @@
 	[C2]
 		1 Bringer of Glory
 		1 Unscared Wolf
-		1 Iron Verdict
-		1 Augury Raven
+		1 PTN Iron Verdict
+		1 PTN Augury Raven
 		1 Sea's Feasting
 		1 Seven-Coil Shipbreaker
 		1 Sky-Scar Angel
