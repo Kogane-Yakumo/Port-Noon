@@ -293,7 +293,7 @@
 	        "name": "Rite Flamecaller",
 	        "rarity": "common",
 	        "mana_cost": "{R}",
-	        "type": "Creature — Human Cleric Shaman ",
+	        "type": "Creature — Cat Cleric Shaman ",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/Kogane-Yakumo/Port-Noon/main/PTN-files/Rite%20Flamecaller.png"
 	        }
@@ -681,7 +681,7 @@
 	    {
 	        "name": "Verse Illuminate",
 	        "rarity": "common",
-	        "mana_cost": "{W}",
+	        "mana_cost": "{1}{W}",
 	        "type": "Instant",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/Kogane-Yakumo/Port-Noon/main/PTN-files/Verse%20Illuminate.png"
@@ -727,7 +727,7 @@
 	    {
 	        "name": "Prison of Glass",
 	        "rarity": "common",
-	        "mana_cost": "{1}{U}",
+	        "mana_cost": "{2}{U}",
 	        "type": "Enchantment — Aura ",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/Kogane-Yakumo/Port-Noon/main/PTN-files/Prison%20of%20Glass.png"
@@ -773,7 +773,7 @@
 	        "name": "Dreamway Seer",
 	        "rarity": "common",
 	        "mana_cost": "{2}{U}",
-	        "type": "Creature — Human Cleric Shaman ",
+	        "type": "Creature — Spirit Cleric Shaman ",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/Kogane-Yakumo/Port-Noon/main/PTN-files/Dreamway%20Seer.png"
 	        }
@@ -1006,12 +1006,12 @@
 	        }
 	    },
 	    {
-	        "name": "The Watchman's Shadow",
+	        "name": "Root of Mercy",
 	        "rarity": "uncommon",
 	        "mana_cost": "{W}{B}",
 	        "type": "Sorcery",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Kogane-Yakumo/Port-Noon/main/PTN-files/The%20Watchman%27s%20Shadow.png"
+	            "en": "https://raw.githubusercontent.com/Kogane-Yakumo/Port-Noon/main/PTN-files/Root%20of%20Mercy.png"
 	        },
             "back": {
             "name": "Scar Boon",
@@ -1177,17 +1177,7 @@
 	        "type": "Creature — Vampire Cleric ",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/Kogane-Yakumo/Port-Noon/main/PTN-files/Tattered%20Cyprian.png"
-	        },
-            "back": {
-            "name": "Scar Boon",
-            "image_uris": {
-                "en": "https://raw.githubusercontent.com/Kogane-Yakumo/Port-Noon/main/PTN-files/Scar%20Boon.png"
-            },
-            "type": "Boon",
-            "subtypes": [
-                ""
-            ]
-		}
+	        }
 	    },
 	    {
 	        "name": "High Cyprian",
@@ -1407,12 +1397,12 @@
 	        }
 	    },
 	    {
-	        "name": "Malleary Smeltor",
+	        "name": "Malleary Smelter",
 	        "rarity": "uncommon",
 	        "mana_cost": "{3}{R}",
 	        "type": "Creature — Cleric Artificer ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Kogane-Yakumo/Port-Noon/main/PTN-files/Malleary%20Smeltor.png"
+	            "en": "https://raw.githubusercontent.com/Kogane-Yakumo/Port-Noon/main/PTN-files/Malleary%20Smelter.png"
 	        }
 	    },
 	    {
@@ -1427,21 +1417,11 @@
 	    {
 	        "name": "Self-Immolator",
 	        "rarity": "uncommon",
-	        "mana_cost": "{R}",
-	        "type": "Creature — Human Cleric ",
+	        "mana_cost": "{2}{R}",
+	        "type": "Creature — Elemental Cleric ",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/Kogane-Yakumo/Port-Noon/main/PTN-files/Self-Immolator.png"
-	        },
-            "back": {
-            "name": "Scar Boon",
-            "image_uris": {
-                "en": "https://raw.githubusercontent.com/Kogane-Yakumo/Port-Noon/main/PTN-files/Scar%20Boon.png"
-            },
-            "type": "Boon",
-            "subtypes": [
-                ""
-            ]
-		}
+	        }
 	    },
 	    {
 	        "name": "Cyprian Sacristan",
@@ -1790,7 +1770,7 @@
 	    {
 	        "name": "Forged Conflagration",
 	        "rarity": "uncommon",
-	        "mana_cost": "{2}{R}{W}",
+	        "mana_cost": "{R}{W}",
 	        "type": "Instant",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/Kogane-Yakumo/Port-Noon/main/PTN-files/Forged%20Conflagration.png"
@@ -1952,12 +1932,12 @@
 	        }
 	    },
 	    {
-	        "name": "Breaker of Wards",
+	        "name": "Sister of Venoms",
 	        "rarity": "uncommon",
 	        "mana_cost": "{1}{U}{R}",
 	        "type": "Creature — Human Shaman Cleric ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Kogane-Yakumo/Port-Noon/main/PTN-files/Breaker%20of%20Wards.png"
+	            "en": "https://raw.githubusercontent.com/Kogane-Yakumo/Port-Noon/main/PTN-files/Sister%20of%20Venoms.png"
 	        }
 	    },
 	    {
@@ -2201,7 +2181,7 @@
 	    {
 	        "name": "Merciless Illumination",
 	        "rarity": "rare",
-	        "mana_cost": "{2}{W}{W}",
+	        "mana_cost": "{3}{W}{W}",
 	        "type": "Sorcery",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/Kogane-Yakumo/Port-Noon/main/PTN-files/Merciless%20Illumination.png"
@@ -2808,7 +2788,7 @@
 	[Uncommon]
 		2 Drowning Cyprian
 		2 Percussigant
-		2 The Watchman's Shadow
+		2 Root of Mercy
 		2 Wound the World
 		2 Molting Visage
 		2 Malleary Phantasm
@@ -2831,7 +2811,7 @@
 		2 Monument of Rags
 		2 Carapace Guardian
 		2 The Vitulation
-		2 Malleary Smeltor
+		2 Malleary Smelter
 		2 Opener of Glass
 		2 Self-Immolator
 		2 Cyprian Sacristan
@@ -2886,7 +2866,7 @@
 		2 Debilitated Tragulari
 		2 Expeditionary Vessel
 		2 Occult Relocation
-		2 Breaker of Wards
+		2 Sister of Venoms
 		2 Moth's Yearning
 		2 Rarefied Illuminator
 	[A]
