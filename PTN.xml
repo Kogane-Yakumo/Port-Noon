@@ -762,7 +762,7 @@ At the beginning of each combat, if you have more life than an opponent, Gloriou
       <tablerow>2</tablerow>
       <text>Vigilance
 When Guided Crusader enters the battlefield, if it was cast from exile, create a 2/2 white Angel creature token with flying.
-Foretell 4WW (During your turn, you may pay {2} and exile this card from your hand face down. Cast it on a later turn for its foretell cost.)</text>
+Foretell 4WW (During your turn, you may pay {2} and exile this card from your hand face down. Play it on a later turn for its foretell cost.)</text>
     </card>
     <card>
       <name>Ragged Sun&apos;s Angel</name>
@@ -1927,7 +1927,7 @@ As long as you control a God, you may cast Verse Aggress from your graveyard. Th
       </prop>
       <tablerow>3</tablerow>
       <text>Target creature you control gains hexproof until end of turn. If this spell was cast from exile, it gets +3/+3 until end of turn. 
-Foretell {G} (During your turn, you may pay {2} and exile this card from your hand face down. Cast it on a later turn for its foretell cost.)</text>
+Foretell {G} (During your turn, you may pay {2} and exile this card from your hand face down. Play it on a later turn for its foretell cost.)</text>
     </card>
     <card>
       <name>Student of Defiance</name>
@@ -2026,7 +2026,7 @@ You get a Scar.  (It’s a boon with “When a creature you control dies, you ma
       </prop>
       <tablerow>3</tablerow>
       <text>This spell has flash as long as it’s foretold.
-You draw two cards and lose 2 life. If this spell was cast from exile surveil 2.
+You draw two cards and lose 2 life. If this spell was cast from exile, surveil 2.
 Foretell 1B (During your turn, you may pay {2} and exile this card from your hand face down. Play it on a later turn for its foretell cost.)</text>
     </card>
     <card>
@@ -2701,7 +2701,7 @@ Foretell 1UU (During your turn, you may pay {2} and exile this card from your ha
         <cmc>1</cmc>
         <type>Creature - Insect Human </type>
         <maintype>Creature</maintype>
-        <pt>!/1</pt>
+        <pt>1/1</pt>
       </prop>
       <tablerow>2</tablerow>
       <text>When Carapace Ancestor is put into a graveyard from anywhere, you get a Scar. (It’s a boon with “When a creature you control dies, you may pay {1}. If you do, draw a card.”)</text>
@@ -3204,7 +3204,7 @@ Whenever you exile one or more cards, you may pay 1R. If you do, return Reshapin
         <pt>3/3</pt>
       </prop>
       <tablerow>2</tablerow>
-      <text>At the beginning of your end step, if a creature card was put into your graveyard from anywhere, put a +1/+1 counter on Carapace Crusader.</text>
+      <text>At the beginning of your end step, if a creature card was put into your graveyard from anywhere this turn, put a +1/+1 counter on Carapace Crusader.</text>
     </card>
     <card>
       <name>Carapace Disciple</name>
@@ -3565,7 +3565,7 @@ If you would draw a card, instead mill three cards.
       </prop>
       <tablerow>1</tablerow>
       <text>The first time you cast a foretold spell each turn, induct. (Create a 0/1 Cleric creature token with “Sacrifice two other Clerics: Transform this creature.” It transforms into a 4/4 God Horror creature token that can’t block.)
-Foretell WU (During your turn, you may pay {2} and exile this card from your hand face down. Cast it on a later turn for its foretell cost.)</text>
+Foretell WU (During your turn, you may pay {2} and exile this card from your hand face down. Play it on a later turn for its foretell cost.)</text>
     </card>
     <card>
       <name>Breaching Vespera</name>
@@ -3792,7 +3792,7 @@ Creatures you control have haste and can’t be blocked by creature tokens.</tex
     </card>
     <card>
       <name>The Witch-and-Sister</name>
-      <set rarity="mythic" splitterPath="/The Witch-and-Sister.jpg" >PTN</set>
+      <set rarity="mythic" splitterPath="/The Witch-and-Sister.png" >PTN</set>
       <prop>
         <colors>UR</colors>
         <manacost>1UR</manacost>
@@ -3811,7 +3811,7 @@ When this creature enters the battlefield or transforms into The Witch-and-Siste
     </card>
     <card>
       <name>The Sister-and-Witch</name>
-      <set rarity="mythic" splitterPath="/The Sister-and-Witch.jpg" >PTN</set>
+      <set rarity="mythic" splitterPath="/The Sister-and-Witch.png" >PTN</set>
       <prop>
         <colors>WU</colors>
         <manacost>1WU</manacost>
@@ -3922,7 +3922,7 @@ Equip—Discard a card.</text>
 At the beginning of each upkeep, you may remove a charge counter from Sun Droplet. If you do, you gain 1 life.</text>
     </card>
     <card>
-      <name>The True Blood of Saint Janus</name>
+      <name>True Blood of Saint Janus</name>
       <set rarity="rare">PTN</set>
       <prop>
         <colors></colors>
@@ -3932,7 +3932,7 @@ At the beginning of each upkeep, you may remove a charge counter from Sun Drople
         <maintype>Artifact</maintype>
       </prop>
       <tablerow>1</tablerow>
-      <text>{3}, {T}, Exile The True Blood of Saint Janus: Until end of turn, Creatures you control gain lifelink and “When this creature dies, exile it. It becomes foretold.” (Its foretell cost is its mana cost if it isn’t already specified.)</text>
+      <text>{3}, {T}, Exile True Blood of Saint Janus: Until end of turn, Creatures you control gain lifelink and “When this creature dies, exile it. It becomes foretold.” (Its foretell cost is its mana cost if it isn’t already specified.)</text>
     </card>
     <card>
       <name>Skycombing Nyctodromist</name>
@@ -4022,7 +4022,6 @@ Angel spells and Human spells you cast cost {1} less to cast for each +1/+1 coun
       <tablerow>2</tablerow>
       <text>Sacrifice two Clerics: Transform this creature. Activate only as a sorcery.</text>
       <token>1</token>
-      <related attach="transform">God Horror Token</related>
       <reverse-related>Shattered Risen</reverse-related>
       <reverse-related>Bringer of Glory</reverse-related>
       <reverse-related>Defacement</reverse-related>
@@ -4083,7 +4082,6 @@ Angel spells and Human spells you cast cost {1} less to cast for each +1/+1 coun
       <tablerow>2</tablerow>
       <text>This creature can’t block.</text>
       <token>1</token>
-      <reverse-related>PTN Cleric Token</reverse-related>
       <reverse-related>Monument of Rags</reverse-related>
       <reverse-related>The Red Grail</reverse-related>
     </card>
