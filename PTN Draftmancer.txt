@@ -2542,18 +2542,18 @@
 	        "mana_cost": "{1}{U}{R}",
 	        "type": "Legendary Creature — Human God ",
 	        "image_uris": {
-	            "en": "The Witch-and-Sister.png"
+	            "en": "https://raw.githubusercontent.com/Kogane-Yakumo/Port-Noon/main/PTN-files/The%20Witch-and-Sister.png"
 	        },
 	        "printed names": {
 	            "en": "The Witch-and-Sister"
 	        },
 	        "back": {
-	            "name": "The Sister-and-Witch",
+	            "name": "The Witch-and-Sister",
 	            "printed_names": {
 	                "en": "The Sister-and-Witch"
 	            },
 	            "image_uris": {
-	                "en": "The Sister-and-Witch.png"
+	                "en": "https://raw.githubusercontent.com/Kogane-Yakumo/Port-Noon/main/PTN-files/The%20Sister-and-Witch.png"
 	            },
 	            "type": "Legendary Creature — Human God "
 	        }
@@ -2652,12 +2652,12 @@
 	        }
 	    },
 	    {
-	        "name": "The True Blood of Saint Janus",
+	        "name": "True Blood of Saint Janus",
 	        "rarity": "rare",
 	        "mana_cost": "{2}",
 	        "type": "Legendary Artifact",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Kogane-Yakumo/Port-Noon/main/PTN-files/The%20True%20Blood%20of%20Saint%20Janus.png"
+	            "en": "https://raw.githubusercontent.com/Kogane-Yakumo/Port-Noon/main/PTN-files/True%20Blood%20of%20Saint%20Janus.png"
 	        }
 	    },
 	    {
@@ -2795,7 +2795,7 @@
 		2 The Sun-In-Rags
 		2 The Watchman
 		2 The Geminiad
-		2 The True Blood of Saint Janus
+		2 True Blood of Saint Janus
 		2 Herald of War
 		1 Glorious Enforcer
 		1 The Horned-Axe
