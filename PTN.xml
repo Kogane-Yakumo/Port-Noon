@@ -2690,7 +2690,7 @@ Whenever you attack, put a stun counter on target creature you don’t control. 
       </prop>
       <tablerow>3</tablerow>
       <text>Counter target permanent spell unless it controller pays {3}. If this spell was foretold, instead counter that spell, then scry 2.
-Foretell 1UU (During your turn, you may pay {2} and exile this card from your hand face down. Play it on a later turn for its foretell cost.)</text>
+Foretell 1UU (During your turn, you may pay {2} and exile this card from your hand face down. Cast it on a later turn for its foretell cost.)</text>
     </card>
     <card>
       <name>Carapace Ancestor</name>
@@ -2767,7 +2767,7 @@ When you sacrifice Crowned Ghoul, you may search your library for a card named T
       </prop>
       <tablerow>2</tablerow>
       <text>If The Crowned Growth would die, exile it instead. It becomes foretold. (Its foretell cost is its mana cost if it isn’t already specified.)
-Foretell—BB, Sacrifice a creature. (During your turn, you may pay {2} and exile this card from your hand face down. Play it on a later turn for its foretell cost.)</text>
+Foretell—BB, Sacrifice a creature. (During your turn, you may pay {2} and exile this card from your hand face down. Cast it on a later turn for its foretell cost.)</text>
     </card>
     <card>
       <name>Bound Risen</name>
@@ -2879,8 +2879,8 @@ Whenever a creature you control dies, you gain 1 life.</text>
         <maintype>Artifact</maintype>
       </prop>
       <tablerow>1</tablerow>
-      <text>The Museum of Worms enters the battlefield with three worm counters on it.
-{B}, {T}: Destroy target creature that was dealt damage this turn. Create a 1/1 black Skeleton creature token then put a spore counter on it.</text>
+      <text>The Museum of Worms enters the battlefield with four worm counters on it.
+{B}, {T}: Destroy target creature that was dealt damage this turn. Create a 1/1 black Skeleton creature token.</text>
     </card>
     <card>
       <name>Rite of Watchman&apos;s Sorrow</name>
@@ -3305,7 +3305,7 @@ Whenever Seven-Coil Ambusher attacks, you may have it lose deathtouch until end 
         <pt>4/4</pt>
       </prop>
       <tablerow>2</tablerow>
-      <text>Whenever Flesh Weaver attacks surveil 1.
+      <text>Whenever Flesh Weaver attacks, surveil 1.
 1G, Exile a creature card from your graveyard: Induct (Create a 0/1 Cleric creature token with “Sacrifice two other Clerics: Transform this creature.” It transforms into a 4/4 God Horror creature token that can’t block.)</text>
     </card>
     <card>
@@ -3851,7 +3851,7 @@ When this creature enters the battlefield or transforms into The Sister-and-Witc
         <maintype>Enchantment</maintype>
       </prop>
       <tablerow>1</tablerow>
-      <text>Whenever one or more creatures you control deals combat damage to a player, draw a card and add {R}. Until end of turn, you don’t lose this mana as steps and phases end. </text>
+      <text>At the beginning of your postcombat main phase, draw a card and add {R} if an opponent was dealt combat damage this turn.</text>
     </card>
     <card>
       <name>Horomachist Ending</name>
@@ -3906,20 +3906,6 @@ Equip—Discard a card.</text>
       </prop>
       <tablerow>1</tablerow>
       <text>{2}, {T}: You get a Scar. (It’s a boon with “When a creature you control dies, you may pay {1}. If you do, draw a card.”)</text>
-    </card>
-    <card>
-      <name>Sun Droplet</name>
-      <set rarity="uncommon">PTN</set>
-      <prop>
-        <colors></colors>
-        <manacost>2</manacost>
-        <cmc>2</cmc>
-        <type>Artifact</type>
-        <maintype>Artifact</maintype>
-      </prop>
-      <tablerow>1</tablerow>
-      <text>Whenever you’re dealt damage, put that many charge counters on Sun Droplet.
-At the beginning of each upkeep, you may remove a charge counter from Sun Droplet. If you do, you gain 1 life.</text>
     </card>
     <card>
       <name>True Blood of Saint Janus</name>
@@ -4007,6 +3993,20 @@ Each other Angel you control gets +0/+1 and ward {1}. (Whenever this creature be
 Whenever Herald of War attacks, put a +1/+1 counter on it.
 Angel spells and Human spells you cast cost {1} less to cast for each +1/+1 counter on Herald of War.</text>
     </card>
+    <card>
+      <name>Vak, Tongue and Goddess</name>
+      <set rarity="rare">PTN</set>
+      <prop>
+        <colors>RG</colors>
+        <manacost>2RG</manacost>
+        <cmc>4</cmc>
+        <type>Legendary Artifact - Vehicle </type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>At the beginning of combat on your turn, for each nonlegendary creature that crewed it this turn, create a token that’s a copy of that creature. Those tokens have haste. Sacrifice all tokens created this way at the beginning of the next end step.
+Crew 4 (Tap any number of creatures you control with total power 4 or greater: This Vehicle becomes an artifact creature until end of turn.)</text>
+    </card>
 
     <!-->Tokens</-->
 
@@ -4022,6 +4022,7 @@ Angel spells and Human spells you cast cost {1} less to cast for each +1/+1 coun
       <tablerow>2</tablerow>
       <text>Sacrifice two Clerics: Transform this creature. Activate only as a sorcery.</text>
       <token>1</token>
+      <related attach="transform">God Horror Token </related>
       <reverse-related>Shattered Risen</reverse-related>
       <reverse-related>Bringer of Glory</reverse-related>
       <reverse-related>Defacement</reverse-related>
@@ -4173,8 +4174,7 @@ Angel spells and Human spells you cast cost {1} less to cast for each +1/+1 coun
         <maintype>Enchantment</maintype>
       </prop>
       <tablerow>1</tablerow>
-      <text>
-When a card becomes foretold its foretell cost is its mana cost if it doesn’t have one. (Its foretell cost is its mana cost if it isn’t already specified.)</text>
+      <text>When a card becomes foretold its foretell cost is its mana cost if it doesn’t have one. (Its foretell cost is its mana cost if it isn’t already specified.)</text>
       <token>1</token>
       <reverse-related>Extract Secrets</reverse-related>
       <reverse-related>Glass Guardian</reverse-related>

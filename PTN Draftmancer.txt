@@ -2257,6 +2257,15 @@
 	        }
 	    },
 	    {
+	        "name": "Vak, Tongue and Goddess",
+	        "rarity": "rare",
+	        "mana_cost": "{2}{R}{G}",
+	        "type": "Legendary Artifact — Vehicle ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kogane-Yakumo/Port-Noon/main/PTN-files/Vak,%20Tongue%20and%20Goddess.png"
+	        }
+	    },
+	    {
 	        "name": "The Chiliarch",
 	        "rarity": "rare",
 	        "mana_cost": "{2}{G}{G}",
@@ -2643,15 +2652,6 @@
 		}
 	    },
 	    {
-	        "name": "Sun Droplet",
-	        "rarity": "uncommon",
-	        "mana_cost": "{2}",
-	        "type": "Artifact",
-	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Kogane-Yakumo/Port-Noon/main/PTN-files/Sun%20Droplet.png"
-	        }
-	    },
-	    {
 	        "name": "True Blood of Saint Janus",
 	        "rarity": "rare",
 	        "mana_cost": "{2}",
@@ -2797,6 +2797,7 @@
 		2 The Geminiad
 		2 True Blood of Saint Janus
 		2 Herald of War
+		2 Vak, Tongue and Goddess
 		1 Glorious Enforcer
 		1 The Horned-Axe
 		1 The Crowned Growth
@@ -2894,7 +2895,6 @@
 		2 Wound the World
 		2 Horomachist Ending
 		2 Ritual Daggar
-		2 Sun Droplet
 		2 Skycombing Nyctodromist
 		2 Ragged Illuminator
 		2 Inhabit Nowhere
