@@ -762,7 +762,7 @@ At the beginning of each combat, if you have more life than an opponent, Gloriou
       <tablerow>2</tablerow>
       <text>Vigilance
 When Guided Crusader enters the battlefield, if it was cast from exile, create a 2/2 white Angel creature token with flying.
-Foretell 4WW (During your turn, you may pay {2} and exile this card from your hand face down. Play it on a later turn for its foretell cost.)</text>
+Foretell 4WW (During your turn, you may pay {2} and exile this card from your hand face down. Cast it on a later turn for its foretell cost.)</text>
     </card>
     <card>
       <name>Ragged Sun&apos;s Angel</name>
@@ -967,7 +967,7 @@ When Mountain of Evidence dies, draw a card.</text>
       <tablerow>3</tablerow>
       <text>This spell has flash as long as it’s foretold.
 Draw two cards.
-Foretell 1U (During your turn, you may pay {2} and exile this card from your hand face down. Play it on a later turn for its foretell cost.)</text>
+Foretell 1U (During your turn, you may pay {2} and exile this card from your hand face down. Cast it on a later turn for its foretell cost.)</text>
     </card>
     <card>
       <name>Legacy of the Wheel</name>
@@ -1707,7 +1707,7 @@ As long as you control a God, you may cast Verse Illuminate from your graveyard.
       </prop>
       <tablerow>2</tablerow>
       <text>This spell has flash as long as it’s foretold.
-Foretell 1U (During your turn, you may pay {2} and exile this card from your hand face down. Play it on a later turn for its foretell cost.)</text>
+Foretell 1U (During your turn, you may pay {2} and exile this card from your hand face down. Cast it on a later turn for its foretell cost.)</text>
     </card>
     <card>
       <name>PTN Augury Raven</name>
@@ -1839,7 +1839,7 @@ As long as you control a God, you may cast Verse Reshape from your graveyard. Th
       <tablerow>3</tablerow>
       <text>This spell has flash as long as it’s foretold.
 Subvert the Light deals 4 damage to target creature or planeswalker.
-Foretell {R} (During your turn, you may pay {2} and exile this card from your hand face down. Play it on a later turn for its foretell cost.)</text>
+Foretell {R} (During your turn, you may pay {2} and exile this card from your hand face down. Cast it on a later turn for its foretell cost.)</text>
     </card>
     <card>
       <name>Stained Silver</name>
@@ -2027,7 +2027,7 @@ You get a Scar.  (It’s a boon with “When a creature you control dies, you ma
       <tablerow>3</tablerow>
       <text>This spell has flash as long as it’s foretold.
 You draw two cards and lose 2 life. If this spell was cast from exile, surveil 2.
-Foretell 1B (During your turn, you may pay {2} and exile this card from your hand face down. Play it on a later turn for its foretell cost.)</text>
+Foretell 1B (During your turn, you may pay {2} and exile this card from your hand face down. Cast it on a later turn for its foretell cost.)</text>
     </card>
     <card>
       <name>Indulgent Cyprian</name>
@@ -2501,7 +2501,7 @@ As long as your control two or more Sanctuaries, Guardian Percussigant has vigil
         <maintype>Sorcery</maintype>
       </prop>
       <tablerow>3</tablerow>
-      <text>Exile all creatures. For each player, choose a card they own exiled this way. It becomes foretold. (Its foretell cost is its mana cost if it isn’t already specified.)</text>
+      <text>Exile all creatures. If a creature you controlled was exiled this way, exile the top card of your library face down. It becomes foretold. (Its foretell cost is its mana cost if it isn’t already specified.)</text>
     </card>
     <card>
       <name>Occult Explorer</name>
@@ -2617,7 +2617,7 @@ You control enchanted creature.</text>
       <tablerow>2</tablerow>
       <text>Flying
 Whenever you play a card from exile, choose one that hasn’t been chosen this turn —
-• Induct (Create a 0/1 Cleric creature token with “Sacrifice two other Clerics: Transform this creature.” It transforms into a 4/4 God Horror creature token that can’t block.)
+• Induct
 • You get a Scar. (It’s a boon with “When a creature you control dies, you may pay {1}. If you do, draw a card.”)
 • Mirrorwing Sphinx gains hexproof until your next turn.</text>
     </card>
@@ -2690,7 +2690,7 @@ Whenever you attack, put a stun counter on target creature you don’t control. 
       </prop>
       <tablerow>3</tablerow>
       <text>Counter target permanent spell unless it controller pays {3}. If this spell was foretold, instead counter that spell, then scry 2.
-Foretell 1UU (During your turn, you may pay {2} and exile this card from your hand face down. Cast it on a later turn for its foretell cost.)</text>
+Foretell 1UU (During your turn, you may pay {2} and exile this card from your hand face down. Play it on a later turn for its foretell cost.)</text>
     </card>
     <card>
       <name>Carapace Ancestor</name>
@@ -2767,7 +2767,7 @@ When you sacrifice Crowned Ghoul, you may search your library for a card named T
       </prop>
       <tablerow>2</tablerow>
       <text>If The Crowned Growth would die, exile it instead. It becomes foretold. (Its foretell cost is its mana cost if it isn’t already specified.)
-Foretell—BB, Sacrifice a creature. (During your turn, you may pay {2} and exile this card from your hand face down. Cast it on a later turn for its foretell cost.)</text>
+Foretell—BB, Sacrifice a creature. (During your turn, you may pay {2} and exile this card from your hand face down. Play it on a later turn for its foretell cost.)</text>
     </card>
     <card>
       <name>Bound Risen</name>
@@ -3400,14 +3400,14 @@ Boons you own trigger an additional time.</text>
       <set rarity="rare">PTN</set>
       <prop>
         <colors>G</colors>
-        <manacost>G</manacost>
-        <cmc>1</cmc>
+        <manacost>1G</manacost>
+        <cmc>2</cmc>
         <type>Instant</type>
         <maintype>Instant</maintype>
       </prop>
       <tablerow>3</tablerow>
-      <text>Snakes and Serpents you control gain hexproof until end of turn.
-Prevent all combat damage that would be dealt this turn.</text>
+      <text>As an additional cost to cast this spell, exile a creature you control.
+Search your library for a creature card with mana value equal to 1 plus the exiled creature’s mana value.</text>
     </card>
     <card>
       <name>Legacy of Coils</name>
@@ -3994,18 +3994,19 @@ Whenever Herald of War attacks, put a +1/+1 counter on it.
 Angel spells and Human spells you cast cost {1} less to cast for each +1/+1 counter on Herald of War.</text>
     </card>
     <card>
-      <name>Vak, Tongue and Goddess</name>
+      <name>Seven-Coil&apos;s Successor</name>
       <set rarity="rare">PTN</set>
       <prop>
         <colors>RG</colors>
-        <manacost>2RG</manacost>
-        <cmc>4</cmc>
-        <type>Legendary Artifact - Vehicle </type>
-        <maintype>Artifact</maintype>
+        <manacost>2RRG</manacost>
+        <cmc>5</cmc>
+        <type>Legendary Creature - Hydra Serpent </type>
+        <maintype>Creature</maintype>
+        <pt>5/4</pt>
       </prop>
-      <tablerow>1</tablerow>
-      <text>At the beginning of combat on your turn, for each nonlegendary creature that crewed it this turn, create a token that’s a copy of that creature. Those tokens have haste. Sacrifice all tokens created this way at the beginning of the next end step.
-Crew 4 (Tap any number of creatures you control with total power 4 or greater: This Vehicle becomes an artifact creature until end of turn.)</text>
+      <tablerow>2</tablerow>
+      <text>Trample
+Whenever Seven-Coil’s Successor attacks for the first time each turn, untap any number of creatures you control. Sacrifice those creatures at the beginning of the next end step. After this phase, there is an additional combat phase.</text>
     </card>
 
     <!-->Tokens</-->
