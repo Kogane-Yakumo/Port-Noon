@@ -4023,7 +4023,7 @@ Whenever Seven-Coil’s Successor attacks for the first time each turn, untap an
       <tablerow>2</tablerow>
       <text>Sacrifice two Clerics: Transform this creature. Activate only as a sorcery.</text>
       <token>1</token>
-      <related attach="transform">God Horror Token </related>
+      <related attach="transform">God Horror Token</related>
       <reverse-related>Shattered Risen</reverse-related>
       <reverse-related>Bringer of Glory</reverse-related>
       <reverse-related>Defacement</reverse-related>

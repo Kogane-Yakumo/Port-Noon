@@ -2257,12 +2257,12 @@
 	        }
 	    },
 	    {
-	        "name": "Vak, Tongue and Goddess",
+	        "name": "Seven-Coil’s Successor",
 	        "rarity": "rare",
 	        "mana_cost": "{2}{R}{G}",
 	        "type": "Legendary Artifact — Vehicle ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Kogane-Yakumo/Port-Noon/main/PTN-files/Vak,%20Tongue%20and%20Goddess.png"
+	            "en": "https://raw.githubusercontent.com/Kogane-Yakumo/Port-Noon/main/PTN-files/Seven-Coil’s%20Successor.png"
 	        }
 	    },
 	    {
@@ -2797,7 +2797,7 @@
 		2 The Geminiad
 		2 True Blood of Saint Janus
 		2 Herald of War
-		2 Vak, Tongue and Goddess
+		2 Seven-Coil’s Successor
 		1 Glorious Enforcer
 		1 The Horned-Axe
 		1 The Crowned Growth
