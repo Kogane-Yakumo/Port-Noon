@@ -1624,12 +1624,12 @@
 	        }
 	    },
 	    {
-	        "name": "Alms Collector",
+	        "name": "Occult Explorer",
 	        "rarity": "rare",
 	        "mana_cost": "{3}{W}",
 	        "type": "Creature — Cat Cleric ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Kogane-Yakumo/Port-Noon/main/PTN-files/Alms%20Collector.png"
+	            "en": "https://raw.githubusercontent.com/Kogane-Yakumo/Port-Noon/main/PTN-files/Occult%20Explorer.png"
 	        }
 	    },
 	    {
@@ -1687,12 +1687,12 @@
 	        }
 	    },
 	    {
-	        "name": "Occult Explorer",
+	        "name": "Horomachist Sacrifice",
 	        "rarity": "uncommon",
 	        "mana_cost": "{1}{W}",
 	        "type": "Creature — Human Scout ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Kogane-Yakumo/Port-Noon/main/PTN-files/Occult%20Explorer.png"
+	            "en": "https://raw.githubusercontent.com/Kogane-Yakumo/Port-Noon/main/PTN-files/Horomachist%20Sacrifice.png"
 	        }
 	    },
 	    {
@@ -1869,12 +1869,12 @@
 	        }
 	    },
 	    {
-	        "name": "Bound Risen",
+	        "name": "Angel of Eclipse",
 	        "rarity": "uncommon",
 	        "mana_cost": "{1}{B}",
 	        "type": "Creature — Zombie Cleric ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Kogane-Yakumo/Port-Noon/main/PTN-files/Bound%20Risen.png"
+	            "en": "https://raw.githubusercontent.com/Kogane-Yakumo/Port-Noon/main/PTN-files/Angel%20of%20Eclipse.png"
 	        }
 	    },
 	    {
@@ -2670,12 +2670,12 @@
 	        }
 	    },
 	    {
-	        "name": "Ragged Illuminator",
+	        "name": "Vengeful Restorer",
 	        "rarity": "uncommon",
 	        "mana_cost": "{1}{W}{B}",
 	        "type": "Creature — Angel ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Kogane-Yakumo/Port-Noon/main/PTN-files/Ragged%20Illuminator.png"
+	            "en": "https://raw.githubusercontent.com/Kogane-Yakumo/Port-Noon/main/PTN-files/Vengeful%20Restorer.png"
 	        }
 	    },
 	    {
@@ -2697,12 +2697,12 @@
 	        }
 	    },
 	    {
-	        "name": "Herald of War",
+	        "name": "Apostle Entheate",
 	        "rarity": "rare",
 	        "mana_cost": "{3}{W}{W}",
 	        "type": "Creature — Angel ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Kogane-Yakumo/Port-Noon/main/PTN-files/Herald%20of%20War.png"
+	            "en": "https://raw.githubusercontent.com/Kogane-Yakumo/Port-Noon/main/PTN-files/Apostle%20Entheate.png"
 	        }
 	    }
 	]
@@ -2761,7 +2761,7 @@
 		2 Tireless Recruiter
 		2 Horned Watcher
 		2 Planer Lockdown
-		2 Alms Collector
+		2 Occult Explorer
 		2 Brought Back
 		2 Cat o'lic Priests
 		2 Legacy of Amber
@@ -2796,7 +2796,7 @@
 		2 The Watchman
 		2 The Geminiad
 		2 True Blood of Saint Janus
-		2 Herald of War
+		2 Apostle Entheate
 		2 Seven-Coil’s Successor
 		1 Glorious Enforcer
 		1 The Horned-Axe
@@ -2849,7 +2849,7 @@
 		2 Misguiding Lighthouse
 		2 Banisher Priest
 		2 Guardian Percussigant
-		2 Occult Explorer
+		2 Horomachist Sacrifice
 		2 Rarefied Illuminator
 		2 The Sky, The Soul
 		2 Sun-Scorched Tempering
@@ -2861,7 +2861,7 @@
 		2 Skin's Division
 		2 Carapace Ancestor
 		2 Carapace Guardian
-		2 Bound Risen
+		2 Angel of Eclipse
 		2 Cyprian Haemomancer
 		2 Flesh Asunder
 		2 Monument of Rags
@@ -2896,7 +2896,7 @@
 		2 Horomachist Ending
 		2 Ritual Daggar
 		2 Skycombing Nyctodromist
-		2 Ragged Illuminator
+		2 Vengeful Restorer
 		2 Inhabit Nowhere
 		2 Secluded Courtyard
 	[A]
