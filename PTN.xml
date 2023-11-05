@@ -275,15 +275,15 @@ Add {G} or {U}.
       <set rarity="uncommon">PTN</set>
       <prop>
         <colors>U</colors>
-        <manacost>2UU</manacost>
-        <cmc>4</cmc>
+        <manacost>1UU</manacost>
+        <cmc>3</cmc>
         <type>Creature - Merfolk Wizard </type>
         <maintype>Creature</maintype>
-        <pt>2/4</pt>
+        <pt>2/2</pt>
       </prop>
       <tablerow>2</tablerow>
       <text>Flash
-When Silent Drowner enters the battlefield, you may sacrifice a creature. If you do, counter target spell or activated ability, or triggered ability.</text>
+{U}, Sacrifice Silent Drowner: Counter target spell or ability unless its controller pays {3}.</text>
     </card>
     <card>
       <name>River Drowner</name>
@@ -342,7 +342,7 @@ When you sacrifice Devoured Messenger, you may cast a noncreature spell with man
         <pt>2/1</pt>
       </prop>
       <tablerow>2</tablerow>
-      <text>Whenever you sacrifice another creature, put a +1/+1 counter on Nowhere Soul Collector.
+      <text>Whenever you sacrifice another permanent, put a +1/+1 counter on Nowhere Soul Collector.
 When you sacrifice Nowhere Soul Collector, draw a card.</text>
     </card>
     <card>
@@ -762,7 +762,7 @@ At the beginning of each combat, if you have more life than an opponent, Gloriou
       <tablerow>2</tablerow>
       <text>Vigilance
 When Guided Crusader enters the battlefield, if it was cast from exile, create a 2/2 white Angel creature token with flying.
-Foretell 4WW (During your turn, you may pay {2} and exile this card from your hand face down. Cast it on a later turn for its foretell cost.)</text>
+Foretell 4WW (During your turn, you may pay {2} and exile this card from your hand face down. Play it on a later turn for its foretell cost.)</text>
     </card>
     <card>
       <name>Ragged Sun&apos;s Angel</name>
@@ -967,7 +967,7 @@ When Mountain of Evidence dies, draw a card.</text>
       <tablerow>3</tablerow>
       <text>This spell has flash as long as it’s foretold.
 Draw two cards.
-Foretell 1U (During your turn, you may pay {2} and exile this card from your hand face down. Cast it on a later turn for its foretell cost.)</text>
+Foretell 1U (During your turn, you may pay {2} and exile this card from your hand face down. Play it on a later turn for its foretell cost.)</text>
     </card>
     <card>
       <name>Legacy of the Wheel</name>
@@ -1707,7 +1707,7 @@ As long as you control a God, you may cast Verse Illuminate from your graveyard.
       </prop>
       <tablerow>2</tablerow>
       <text>This spell has flash as long as it’s foretold.
-Foretell 1U (During your turn, you may pay {2} and exile this card from your hand face down. Cast it on a later turn for its foretell cost.)</text>
+Foretell 1U (During your turn, you may pay {2} and exile this card from your hand face down. Play it on a later turn for its foretell cost.)</text>
     </card>
     <card>
       <name>PTN Augury Raven</name>
@@ -1839,7 +1839,7 @@ As long as you control a God, you may cast Verse Reshape from your graveyard. Th
       <tablerow>3</tablerow>
       <text>This spell has flash as long as it’s foretold.
 Subvert the Light deals 4 damage to target creature or planeswalker.
-Foretell {R} (During your turn, you may pay {2} and exile this card from your hand face down. Cast it on a later turn for its foretell cost.)</text>
+Foretell {R} (During your turn, you may pay {2} and exile this card from your hand face down. Play it on a later turn for its foretell cost.)</text>
     </card>
     <card>
       <name>Stained Silver</name>
@@ -2027,7 +2027,7 @@ You get a Scar.  (It’s a boon with “When a creature you control dies, you ma
       <tablerow>3</tablerow>
       <text>This spell has flash as long as it’s foretold.
 You draw two cards and lose 2 life. If this spell was cast from exile, surveil 2.
-Foretell 1B (During your turn, you may pay {2} and exile this card from your hand face down. Cast it on a later turn for its foretell cost.)</text>
+Foretell 1B (During your turn, you may pay {2} and exile this card from your hand face down. Play it on a later turn for its foretell cost.)</text>
     </card>
     <card>
       <name>Indulgent Cyprian</name>
@@ -2083,7 +2083,7 @@ When Indulgent Cyprian enters the battlefield induct. (Create a 0/1 Cleric creat
         <maintype>Sorcery</maintype>
       </prop>
       <tablerow>3</tablerow>
-      <text>Target creature with power 2 or less can’t be blocked this turn.
+      <text>Target creature with power 3 or less can’t be blocked this turn.
 As long as you control a God, you may cast Verse Open from your graveyard. Then exile it.</text>
     </card>
     <card>
@@ -2257,7 +2257,7 @@ Whenever Malleary Novice attacks, target creature you control gets +1/+0 until e
         <pt>2/2</pt>
       </prop>
       <tablerow>2</tablerow>
-      <text>Haste
+      <text>Menace, haste
 Whenever Raw Prophet attacks, you may discard a card. If you do, draw a card.</text>
     </card>
     <card>
@@ -2333,21 +2333,6 @@ Faceless Apprentice can’t block and can’t be blocked.
 When Faceless Apprentice dies, put a +1/+1 counter on a creature you control.</text>
     </card>
     <card>
-      <name>Horned Watcher</name>
-      <set rarity="rare">PTN</set>
-      <prop>
-        <colors></colors>
-        <manacost>3</manacost>
-        <cmc>3</cmc>
-        <type>Creature - Elk Spirit </type>
-        <maintype>Creature</maintype>
-        <pt>3/3</pt>
-      </prop>
-      <tablerow>2</tablerow>
-      <text>When Horned Watcher enters the battlefield, return all planeswalkers to their owner’s hands.
-Players can’t cast planeswalker spells.</text>
-    </card>
-    <card>
       <name>The Horned-Axe</name>
       <set rarity="mythic">PTN</set>
       <prop>
@@ -2403,22 +2388,23 @@ When Misguiding Lighthouse enters the battlefield, destroy target tapped artifac
       </prop>
       <tablerow>1</tablerow>
       <text>As Planer Lockdown enters the battlefield, choose a card name.
-Activated abilities of sources with the chosen name can’t be activated unless they’re mana abilities.</text>
+Activated abilities of sources with the chosen name can’t be activated unless they’re mana abilities.
+Players can’t cast planeswalker spells.</text>
     </card>
     <card>
-      <name>Alms Collector</name>
-      <set rarity="rare">PTN</set>
+      <name>Horomachist Sacrifice</name>
+      <set rarity="uncommon">PTN</set>
       <prop>
         <colors>W</colors>
-        <manacost>3W</manacost>
-        <cmc>4</cmc>
-        <type>Creature - Cat Cleric </type>
+        <manacost>W</manacost>
+        <cmc>1</cmc>
+        <type>Creature - Angel </type>
         <maintype>Creature</maintype>
-        <pt>3/4</pt>
+        <pt>1/2</pt>
       </prop>
       <tablerow>2</tablerow>
-      <text>Flash
-If an opponent would draw two or more cards, instead you and that player each draw a card.</text>
+      <text>When Horomachist Sacrifice dies, you gain 3 life.
+{W}, Sacrifice Horomachist Sacrifice: Exile target noncreature artifact or noncreature enchantment.</text>
     </card>
     <card>
       <name>Banisher Priest</name>
@@ -2452,15 +2438,15 @@ If an opponent would draw two or more cards, instead you and that player each dr
       <set rarity="rare">PTN</set>
       <prop>
         <colors>W</colors>
-        <manacost>W</manacost>
-        <cmc>1</cmc>
+        <manacost>3W</manacost>
+        <cmc>4</cmc>
         <type>Creature - Cat Cleric </type>
         <maintype>Creature</maintype>
-        <pt>1/1</pt>
+        <pt>3/4</pt>
       </prop>
       <tablerow>2</tablerow>
       <text>Flash
-Sacrifice Cat o’lic Priests or a Sanctuary: Until end of turn, if a nontoken creature would enter the battlefield and it wasn’t cast, exile it instead.</text>
+Whenever an opponent draws their second, fourth, or sixth card each turn, you draw a card.</text>
     </card>
     <card>
       <name>Guardian Percussigant</name>
@@ -2474,8 +2460,8 @@ Sacrifice Cat o’lic Priests or a Sanctuary: Until end of turn, if a nontoken c
         <pt>2/3</pt>
       </prop>
       <tablerow>2</tablerow>
-      <text>Guardian Percussigant gets +1/+1 for each Sanctuary you control.
-As long as your control two or more Sanctuaries, Guardian Percussigant has vigilance and first strike.</text>
+      <text>Guardian Percussigant gets +1/+1 for each Sanctuary you control and Sanctuary card in your graveyard.
+Gods you control have vigilance.</text>
     </card>
     <card>
       <name>Legacy of Amber</name>
@@ -2501,21 +2487,24 @@ As long as your control two or more Sanctuaries, Guardian Percussigant has vigil
         <maintype>Sorcery</maintype>
       </prop>
       <tablerow>3</tablerow>
-      <text>Exile all creatures. If a creature you controlled was exiled this way, exile the top card of your library face down. It becomes foretold. (Its foretell cost is its mana cost if it isn’t already specified.)</text>
+      <text>Choose one —
+• Exile all creatures. 
+• Exile all artifacts and enchantments.
+1W: Discard Merciless Illumination: Exile the top card of your library face down. It becomes foretold. (Its foretell cost is its mana cost if it isn’t already specified.)</text>
     </card>
     <card>
       <name>Occult Explorer</name>
-      <set rarity="uncommon">PTN</set>
+      <set rarity="rare">PTN</set>
       <prop>
         <colors>W</colors>
         <manacost>1W</manacost>
         <cmc>2</cmc>
         <type>Creature - Human Scout </type>
         <maintype>Creature</maintype>
-        <pt>1/2</pt>
+        <pt>2/2</pt>
       </prop>
       <tablerow>2</tablerow>
-      <text>When Occult Explorer enters the battlefield, search your library for a Plains or Sanctuary card, exile it, then shuffle. It becomes foretold. (Its foretell cost is its mana cost if it isn’t already specified.)</text>
+      <text>Sanctuaries you control have “{1}, Sacrifice this land: Search your library for a basic land card, put that card onto the battlefield, then shuffle.”</text>
     </card>
     <card>
       <name>Rarefied Illuminator</name>
@@ -2718,9 +2707,7 @@ Foretell 1UU (During your turn, you may pay {2} and exile this card from your ha
         <pt>4/3</pt>
       </prop>
       <tablerow>2</tablerow>
-      <text>When Carapace Guardian enters the battlefield, choose one —
-• Each opponent loses X life, where X is the greatest number of creatures cards in your graveyard that have a creature type in common.
-• You gain X life, where X is the greatest number of creatures in your graveyard that have a creature type in common.</text>
+      <text>When Carapace Guardian enters the battlefield, each opponent loses X life, where X is the greatest number of creatures cards in your graveyard that have a creature type in common.</text>
     </card>
     <card>
       <name>Zulfiya, Carapace Toxifier</name>
@@ -2770,18 +2757,19 @@ When you sacrifice Crowned Ghoul, you may search your library for a card named T
 Foretell—BB, Sacrifice a creature. (During your turn, you may pay {2} and exile this card from your hand face down. Play it on a later turn for its foretell cost.)</text>
     </card>
     <card>
-      <name>Bound Risen</name>
+      <name>Angel of Eclipse</name>
       <set rarity="uncommon">PTN</set>
       <prop>
         <colors>B</colors>
-        <manacost>1B</manacost>
-        <cmc>2</cmc>
-        <type>Creature - Zombie Cleric </type>
+        <manacost>3B</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Angel Cleric </type>
         <maintype>Creature</maintype>
-        <pt>2/1</pt>
+        <pt>2/3</pt>
       </prop>
       <tablerow>2</tablerow>
-      <text>Whenever you sacrifice another permanent, you may pay {3}. If you do, create a token that’s a copy of Bound Risen.</text>
+      <text>Flying
+Whenever Angel of Eclipse attacks, attacking Angels get +1/+1 until end of turn.</text>
     </card>
     <card>
       <name>Cyprian Haemomancer</name>
@@ -2880,7 +2868,7 @@ Whenever a creature you control dies, you gain 1 life.</text>
       </prop>
       <tablerow>1</tablerow>
       <text>The Museum of Worms enters the battlefield with four worm counters on it.
-{B}, {T}: Destroy target creature that was dealt damage this turn. Create a 1/1 black Skeleton creature token.</text>
+{B}, {T}, Remove a worm counter from The Museum of Worms: Destroy target creature that was dealt damage this turn.</text>
     </card>
     <card>
       <name>Rite of Watchman&apos;s Sorrow</name>
@@ -2902,12 +2890,12 @@ Whenever a creature you control dies, you gain 1 life.</text>
         <colors>B</colors>
         <manacost>B</manacost>
         <cmc>1</cmc>
-        <type>Artifact - Equipment </type>
+        <type>Artifact</type>
         <maintype>Artifact</maintype>
       </prop>
       <tablerow>1</tablerow>
-      <text>Whenever a player loses life for the first time each turn, put a +1/+1 counter on equipped creature.
-Equip 1B</text>
+      <text>Whenever you sacrifice a permanent, put a grave counter on Throat of Remnants.
+{X}, Sacrifice Throat of Remnants: Put target creature card with mana value X from your graveyard onto the battlefield tapped. This ability costs {1} less for each grave counter on Throat of Remnants.</text>
     </card>
     <card>
       <name>The Vitulation</name>
@@ -2975,7 +2963,7 @@ Whenever a creature you control becomes blocked, you may have that creature deal
         <pt>2/2</pt>
       </prop>
       <tablerow>2</tablerow>
-      <text>Whenever a player loses life for the first time each turn, Cyprian Sacristan gets +1/+0 and gains first strike until end of turn.</text>
+      <text>Whenever a player loses life for the first time each turn, Cyprian Sacristan gets +1/+0 and gains first strike and trample until end of turn.</text>
     </card>
     <card>
       <name>Ghirbi, the Gatekeeper</name>
@@ -3044,9 +3032,9 @@ Players can’t search libraries. Any player may pay {2} for that player to igno
         <pt>7/4</pt>
       </prop>
       <tablerow>2</tablerow>
-      <text>Ward—-Pay 2 life.
+      <text>Ward—Pay 2 life.
 This spell costs {1} less to cast for each 1 life your opponents have lost this turn.
-Other creatures you control have “Ward—-Pay 2 life.”</text>
+Other creatures you control have “Ward—Pay 2 life.”</text>
     </card>
     <card>
       <name>Legacy of Flint</name>
@@ -3117,8 +3105,8 @@ Equip {1}</text>
         <pt>3/3</pt>
       </prop>
       <tablerow>2</tablerow>
-      <text>Menace
-When Nowhere Razer enters the battlefield, put a devastation counter on target nonbasic land. That land is a Mountain for as long as it has a devastation counter on it.</text>
+      <text>Haste
+Whenever Nowhere Razer attacks, put a devastation counter on target nonbasic land. That land is a Mountain for as long as it has a devastation counter on it.</text>
     </card>
     <card>
       <name>Preemptive Purge</name>
@@ -3287,11 +3275,11 @@ Whenever Seven-Coil Ambusher attacks, you may have it lose deathtouch until end 
         <colors>G</colors>
         <manacost>1G</manacost>
         <cmc>2</cmc>
-        <type>Sorcery</type>
-        <maintype>Sorcery</maintype>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
       </prop>
       <tablerow>3</tablerow>
-      <text>Mill four cards. You may put a permanent card from among the cards milled this way into your hand. </text>
+      <text>Until end of turn, target creature gets +3/+3 and gains “Whenever this creature attacks, you get a Scar.” (It’s a boon with “When a creature you control dies, you may pay {1}. If you do, draw a card.”)</text>
     </card>
     <card>
       <name>Flesh Weaver</name>
@@ -3335,20 +3323,20 @@ When you sacrifice Ordeal of Defiance, you may have target creature you control 
         <pt>2/2</pt>
       </prop>
       <tablerow>2</tablerow>
-      <text>When Self-Snipping Dapple is put into a graveyard from anywhere, you may pay 1G. If you do, destroy target artifact or enchantment.</text>
+      <text>When Self-Snipping Dapple is put into a graveyard from anywhere, you may pay {G}. If you do, destroy target artifact or enchantment.</text>
     </card>
     <card>
       <name>Sendings of the Skin</name>
       <set rarity="rare">PTN</set>
       <prop>
         <colors>G</colors>
-        <manacost>2G</manacost>
-        <cmc>3</cmc>
+        <manacost>2GG</manacost>
+        <cmc>4</cmc>
         <type>Enchantment</type>
         <maintype>Enchantment</maintype>
       </prop>
       <tablerow>1</tablerow>
-      <text>Whenever a creature enters the battlefield under your control, if it has the same name as a creature card in your graveyard draw a card. Otherwise, mill two cards.</text>
+      <text>Whenever a creature enters the battlefield under your control, if it has the same name as a creature card in your graveyard, draw a card. Otherwise, mill two cards.</text>
     </card>
     <card>
       <name>Yew-Horned Carapace</name>
@@ -3476,10 +3464,11 @@ Draw cards equal to the sacrificed creature’s power.</text>
         <cmc>3</cmc>
         <type>Creature - Cat </type>
         <maintype>Creature</maintype>
-        <pt>3/2</pt>
+        <pt>2/2</pt>
       </prop>
       <tablerow>2</tablerow>
-      <text>Creatures with power less than Skaptodon Cub’s power can’t block it.</text>
+      <text>Creatures with power less than Skaptodon Cub’s power can’t block it.
+Whenever a boon you control triggers, put a +1/+1 counter on Skaptodon Cub.</text>
     </card>
     <card>
       <name>Imago of Fet</name>
@@ -3529,11 +3518,11 @@ If you would draw a card while your library has no cards in it, each opponent lo
       <set rarity="mythic">PTN</set>
       <prop>
         <colors>BG</colors>
-        <manacost>1BG</manacost>
-        <cmc>3</cmc>
+        <manacost>2BG</manacost>
+        <cmc>4</cmc>
         <type>Legendary Creature - Insect God </type>
         <maintype>Creature</maintype>
-        <pt>3/3</pt>
+        <pt>3/4</pt>
       </prop>
       <tablerow>2</tablerow>
       <text>Reach
@@ -3792,7 +3781,7 @@ Creatures you control have haste and can’t be blocked by creature tokens.</tex
     </card>
     <card>
       <name>The Witch-and-Sister</name>
-      <set rarity="mythic" splitterPath="/The Witch-and-Sister.png" >PTN</set>
+      <set rarity="mythic" splitterPath="/The Witch-and-Sister.jpg" >PTN</set>
       <prop>
         <colors>UR</colors>
         <manacost>1UR</manacost>
@@ -3811,7 +3800,7 @@ When this creature enters the battlefield or transforms into The Witch-and-Siste
     </card>
     <card>
       <name>The Sister-and-Witch</name>
-      <set rarity="mythic" splitterPath="/The Sister-and-Witch.png" >PTN</set>
+      <set rarity="mythic" splitterPath="/The Sister-and-Witch.jpg" >PTN</set>
       <prop>
         <colors>WU</colors>
         <manacost>1WU</manacost>
@@ -3935,7 +3924,7 @@ Equip—Discard a card.</text>
       <text>{1}: Target unblocked creature you control gets +1/-1 until end of turn.</text>
     </card>
     <card>
-      <name>Ragged Illuminator</name>
+      <name>Vengeful Restorer</name>
       <set rarity="uncommon">PTN</set>
       <prop>
         <colors>WB</colors>
@@ -3947,7 +3936,7 @@ Equip—Discard a card.</text>
       </prop>
       <tablerow>2</tablerow>
       <text>Flash; flying
-Each other Angel you control gets +0/+1 and ward {1}. (Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays {1}.)</text>
+Each other Angel you control gets +1/+0 and ward {1}. (Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays {1}.)</text>
     </card>
     <card>
       <name>Inhabit Nowhere</name>
@@ -3978,20 +3967,19 @@ Each other Angel you control gets +0/+1 and ward {1}. (Whenever this creature be
 {T}: Add one mana of any color. Spend this mana only to cast a creature spell of the chosen type or activate an ability of a creature or creature card of the chosen type.</text>
     </card>
     <card>
-      <name>Herald of War</name>
+      <name>Apostle Entheate</name>
       <set rarity="rare">PTN</set>
       <prop>
         <colors>W</colors>
         <manacost>3WW</manacost>
         <cmc>5</cmc>
-        <type>Creature - Angel </type>
+        <type>Creature - Angel Cleric </type>
         <maintype>Creature</maintype>
         <pt>3/3</pt>
       </prop>
       <tablerow>2</tablerow>
       <text>Flying
-Whenever Herald of War attacks, put a +1/+1 counter on it.
-Angel spells and Human spells you cast cost {1} less to cast for each +1/+1 counter on Herald of War.</text>
+If one or more tokens would be created under your control or you would get one or more boons, you may create that many 2/2 white Angel creature tokens with flying instead.</text>
     </card>
     <card>
       <name>Seven-Coil&apos;s Successor</name>
