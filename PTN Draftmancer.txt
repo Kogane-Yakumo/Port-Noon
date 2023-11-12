@@ -2251,9 +2251,9 @@
 	        "name": "Seven-Coil’s Successor",
 	        "rarity": "rare",
 	        "mana_cost": "{2}{R}{G}",
-	        "type": "Legendary Artifact — Vehicle ",
+	        "type": "Legendary Creature — Hydra Serpent ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Kogane-Yakumo/Port-Noon/main/PTN-files/Seven-Coil’s%20Successor.png"
+	            "en": "https://raw.githubusercontent.com/Kogane-Yakumo/Port-Noon/main/PTN-files/Seven-Coil's%20Successor.png"
 	        }
 	    },
 	    {
