@@ -1579,15 +1579,6 @@
 	        }
 	    },
 	    {
-	        "name": "Horned Watcher",
-	        "rarity": "rare",
-	        "mana_cost": "{3}",
-	        "type": "Creature — Elk Spirit ",
-	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Kogane-Yakumo/Port-Noon/main/PTN-files/Horned%20Watcher.png"
-	        }
-	    },
-	    {
 	        "name": "The Horned-Axe",
 	        "rarity": "mythic",
 	        "mana_cost": "{5}",
@@ -2759,7 +2750,6 @@
 		2 Mother of Ants
 		2 King Crucible
 		2 Tireless Recruiter
-		2 Horned Watcher
 		2 Planer Lockdown
 		2 Occult Explorer
 		2 Brought Back
