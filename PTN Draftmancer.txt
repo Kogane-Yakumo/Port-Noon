@@ -1606,12 +1606,12 @@
 	        }
 	    },
 	    {
-	        "name": "Planer Lockdown",
+	        "name": "Planar Lockdown",
 	        "rarity": "rare",
 	        "mana_cost": "{1}",
 	        "type": "Enchantment",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Kogane-Yakumo/Port-Noon/main/PTN-files/Planer%20Lockdown.png"
+	            "en": "https://raw.githubusercontent.com/Kogane-Yakumo/Port-Noon/main/PTN-files/Planar%20Lockdown.png"
 	        }
 	    },
 	    {
@@ -2750,7 +2750,7 @@
 		2 Mother of Ants
 		2 King Crucible
 		2 Tireless Recruiter
-		2 Planer Lockdown
+		2 Planar Lockdown
 		2 Occult Explorer
 		2 Brought Back
 		2 Cat o'lic Priests
