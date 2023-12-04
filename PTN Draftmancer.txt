@@ -2714,7 +2714,7 @@
 				"Uncommon": 3,
   				"A": 3,
   				"AC1": 2,
-  				"B": 2,
+  				"B": 2,	
   				"BC1": 1,
   				"C1": 2,
   				"Basic": 1
@@ -2890,322 +2890,322 @@
 		2 Inhabit Nowhere
 		2 Secluded Courtyard
 	[A]
-		1 Nowhere Wormhost
-		1 Names of the Dead
-		1 Dreamway Key
-		1 Forgotten Tongues
-		1 Nowhere Illuminator
-		1 Perfect Stillness
-		1 Seaside Smuggler
-		1 Take Prisoners
-		1 Twins' Guardian
-		1 Veil of Dreams
-		1 Verse Open
-		1 White Reaper
-		1 Blazing Crescendo
-		1 Callidate Invocation
-		1 Crucible Rite
-		1 High Cyprian
-		1 Kindled Fury
-		1 Malleary Seer
-		1 Open the Self
-		1 Raw Prophet
-		1 Rite Flamecaller
-		1 Tattered Cyprian
-		1 Traitorous Blood
-		1 Verse Reshape
-		1 Carapace Disciple
-		1 Discover the Stone Gods
-		1 Carapace Threadbearer
-		1 Map's Edge Explorer
-		1 The Old Forms
-		1 Ring-Yew's Chosen
-		1 Student of Defiance
-		1 Thyrsine Tracker
-		1 Verse Aggress
-		1 Way to the Wood
-		1 Wildwood Containment
-		1 Wolf-Splinter
+		2 Nowhere Wormhost
+		2 Names of the Dead
+		2 Dreamway Key
+		2 Forgotten Tongues
+		2 Nowhere Illuminator
+		2 Perfect Stillness
+		2 Seaside Smuggler
+		2 Take Prisoners
+		2 Twins' Guardian
+		2 Veil of Dreams
+		2 Verse Open
+		2 White Reaper
+		2 Blazing Crescendo
+		2 Callidate Invocation
+		2 Crucible Rite
+		2 High Cyprian
+		2 Kindled Fury
+		2 Malleary Seer
+		2 Open the Self
+		2 Raw Prophet
+		2 Rite Flamecaller
+		2 Tattered Cyprian
+		2 Traitorous Blood
+		2 Verse Reshape
+		2 Carapace Disciple
+		2 Discover the Stone Gods
+		2 Carapace Threadbearer
+		2 Map's Edge Explorer
+		2 The Old Forms
+		2 Ring-Yew's Chosen
+		2 Student of Defiance
+		2 Thyrsine Tracker
+		2 Verse Aggress
+		2 Way to the Wood
+		2 Wildwood Containment
+		2 Wolf-Splinter
 	[AC1]
-		1 Nowhere Wormhost
-		1 Names of the Dead
-		1 Dreamway Key
-		1 Forgotten Tongues
-		1 Nowhere Illuminator
-		1 Perfect Stillness
-		1 Seaside Smuggler
-		1 Take Prisoners
-		1 Twins' Guardian
-		1 Veil of Dreams
-		1 Verse Open
-		1 White Reaper
-		1 Blazing Crescendo
-		1 Callidate Invocation
-		1 Crucible Rite
-		1 High Cyprian
-		1 Kindled Fury
-		1 Malleary Seer
-		1 Open the Self
-		1 Raw Prophet
-		1 Rite Flamecaller
-		1 Tattered Cyprian
-		1 Traitorous Blood
-		1 Verse Reshape
-		1 Carapace Disciple
-		1 Discover the Stone Gods
-		1 Carapace Threadbearer
-		1 Map's Edge Explorer
-		1 The Old Forms
-		1 Ring-Yew's Chosen
-		1 Student of Defiance
-		1 Thyrsine Tracker
-		1 Verse Aggress
-		1 Way to the Wood
-		1 Wildwood Containment
-		1 Wolf-Splinter
-		1 Bars Across the Sun
-		1 Forge Secretkeeper
-		1 Glassgarden Seer
-		1 Guided Crusader
-		1 Ancient Translator
-		1 Moonlit Deceiver
-		1 Prison of Glass
-		1 River Drowner
-		1 Cyprian Ophiomancer
-		1 Gloom Sower
-		1 Nowhere Ascender
-		1 Seven-Coil Invocation
-		1 Entry Consultant
-		1 Malleary Novice
-		1 Stained Silver
-		1 Wandering Immolator
-		1 Carapace Crusader
-		1 Cartographed Risen
-		1 Seven-Coil Ambusher
-		1 Unceasing Initiation
-		1 Lost Seraph
-		1 Roost Messengers
-		1 Shattered Risen
-		1 Mountain of Evidence
-		1 Society Headquarters
+		2 Nowhere Wormhost
+		2 Names of the Dead
+		2 Dreamway Key
+		2 Forgotten Tongues
+		2 Nowhere Illuminator
+		2 Perfect Stillness
+		2 Seaside Smuggler
+		2 Take Prisoners
+		2 Twins' Guardian
+		2 Veil of Dreams
+		2 Verse Open
+		2 White Reaper
+		2 Blazing Crescendo
+		2 Callidate Invocation
+		2 Crucible Rite
+		2 High Cyprian
+		2 Kindled Fury
+		2 Malleary Seer
+		2 Open the Self
+		2 Raw Prophet
+		2 Rite Flamecaller
+		2 Tattered Cyprian
+		2 Traitorous Blood
+		2 Verse Reshape
+		2 Carapace Disciple
+		2 Discover the Stone Gods
+		2 Carapace Threadbearer
+		2 Map's Edge Explorer
+		2 The Old Forms
+		2 Ring-Yew's Chosen
+		2 Student of Defiance
+		2 Thyrsine Tracker
+		2 Verse Aggress
+		2 Way to the Wood
+		2 Wildwood Containment
+		2 Wolf-Splinter
+		2 Bars Across the Sun
+		2 Forge Secretkeeper
+		2 Glassgarden Seer
+		2 Guided Crusader
+		2 Ancient Translator
+		2 Moonlit Deceiver
+		2 Prison of Glass
+		2 River Drowner
+		2 Cyprian Ophiomancer
+		2 Gloom Sower
+		2 Nowhere Ascender
+		2 Seven-Coil Invocation
+		2 Entry Consultant
+		2 Malleary Novice
+		2 Stained Silver
+		2 Wandering Immolator
+		2 Carapace Crusader
+		2 Cartographed Risen
+		2 Seven-Coil Ambusher
+		2 Unceasing Initiation
+		2 Lost Seraph
+		2 Roost Messengers
+		2 Shattered Risen
+		2 Mountain of Evidence
+		2 Society Headquarters
 	[AC2]
-		1 Nowhere Wormhost
-		1 Names of the Dead
-		1 Dreamway Key
-		1 Forgotten Tongues
-		1 Nowhere Illuminator
-		1 Perfect Stillness
-		1 Seaside Smuggler
-		1 Take Prisoners
-		1 Twins' Guardian
-		1 Veil of Dreams
-		1 Verse Open
-		1 White Reaper
-		1 Blazing Crescendo
-		1 Callidate Invocation
-		1 Crucible Rite
-		1 High Cyprian
-		1 Kindled Fury
-		1 Malleary Seer
-		1 Open the Self
-		1 Raw Prophet
-		1 Rite Flamecaller
-		1 Tattered Cyprian
-		1 Traitorous Blood
-		1 Verse Reshape
-		1 Carapace Disciple
-		1 Discover the Stone Gods
-		1 Carapace Threadbearer
-		1 Map's Edge Explorer
-		1 The Old Forms
-		1 Ring-Yew's Chosen
-		1 Student of Defiance
-		1 Thyrsine Tracker
-		1 Verse Aggress
-		1 Way to the Wood
-		1 Wildwood Containment
-		1 Wolf-Splinter
-		1 Bringer of Glory
-		1 Unscarred Wolf
-		1 PTN Iron Verdict
-		1 PTN Augury Raven
-		1 Sea's Feasting
-		1 Seven-Coil Shipbreaker
-		1 Sky-Scar Angel
-		1 Spread Agony
-		1 Escape from Nowhere
-		1 Enflamed Caligine
-		1 Subvert the Light
-		1 Subverting Insurgent
-		1 Seven-Coiled Strength
-		1 Wolven Hatred
-		1 Wood's Devourer
-		1 Noon Delver Serpent
-		1 Covert Cloak
-		1 Noonstone Amulet
+		2 Nowhere Wormhost
+		2 Names of the Dead
+		2 Dreamway Key
+		2 Forgotten Tongues
+		2 Nowhere Illuminator
+		2 Perfect Stillness
+		2 Seaside Smuggler
+		2 Take Prisoners
+		2 Twins' Guardian
+		2 Veil of Dreams
+		2 Verse Open
+		2 White Reaper
+		2 Blazing Crescendo
+		2 Callidate Invocation
+		2 Crucible Rite
+		2 High Cyprian
+		2 Kindled Fury
+		2 Malleary Seer
+		2 Open the Self
+		2 Raw Prophet
+		2 Rite Flamecaller
+		2 Tattered Cyprian
+		2 Traitorous Blood
+		2 Verse Reshape
+		2 Carapace Disciple
+		2 Discover the Stone Gods
+		2 Carapace Threadbearer
+		2 Map's Edge Explorer
+		2 The Old Forms
+		2 Ring-Yew's Chosen
+		2 Student of Defiance
+		2 Thyrsine Tracker
+		2 Verse Aggress
+		2 Way to the Wood
+		2 Wildwood Containment
+		2 Wolf-Splinter
+		2 Bringer of Glory
+		2 Unscarred Wolf
+		2 PTN Iron Verdict
+		2 PTN Augury Raven
+		2 Sea's Feasting
+		2 Seven-Coil Shipbreaker
+		2 Sky-Scar Angel
+		2 Spread Agony
+		2 Escape from Nowhere
+		2 Enflamed Caligine
+		2 Subvert the Light
+		2 Subverting Insurgent
+		2 Seven-Coiled Strength
+		2 Wolven Hatred
+		2 Wood's Devourer
+		2 Noon Delver Serpent
+		2 Covert Cloak
+		2 Noonstone Amulet
 	[B]
-		1 Broken Sun-Servant
-		1 Echoing Charger
-		1 Extract Secrets
-		1 Glass Guardian
-		1 Glassgarden Elder
-		1 Glassgarden Prophet
-		1 Ignite Fervor
-		1 Lended Light
-		1 Mystical Trail
-		1 Subverted Cyprian
-		1 Pulsing Vitality
-		1 Verse Illuminate
-		1 Carapace Scavenger
-		1 Carapace Shearer
-		1 Cindered Tally
-		1 Despairing Devotee
-		1 Escape into the Night
-		1 Herald of Loss
-		1 Indulgent Cyprian
-		1 Paradoxical Inquiry
-		1 Sensation Ascender
-		1 Implant the Seeds
-		1 Verse Change
-		1 Wood's Deceiver
+		3 Broken Sun-Servant
+		3 Echoing Charger
+		3 Extract Secrets
+		3 Glass Guardian
+		3 Glassgarden Elder
+		3 Glassgarden Prophet
+		3 Ignite Fervor
+		3 Lended Light
+		3 Mystical Trail
+		3 Subverted Cyprian
+		3 Pulsing Vitality
+		3 Verse Illuminate
+		3 Carapace Scavenger
+		3 Carapace Shearer
+		3 Cindered Tally
+		3 Despairing Devotee
+		3 Escape into the Night
+		3 Herald of Loss
+		3 Indulgent Cyprian
+		3 Paradoxical Inquiry
+		3 Sensation Ascender
+		3 Implant the Seeds
+		3 Verse Change
+		3 Wood's Deceiver
 	[BC1]
-		1 Broken Sun-Servant
-		1 Echoing Charger
-		1 Extract Secrets
-		1 Glass Guardian
-		1 Glassgarden Elder
-		1 Glassgarden Prophet
-		1 Ignite Fervor
-		1 Lended Light
-		1 Mystical Trail
-		1 Subverted Cyprian
-		1 Pulsing Vitality
-		1 Verse Illuminate
-		1 Carapace Scavenger
-		1 Carapace Shearer
-		1 Cindered Tally
-		1 Despairing Devotee
-		1 Escape into the Night
-		1 Herald of Loss
-		1 Indulgent Cyprian
-		1 Paradoxical Inquiry
-		1 Sensation Ascender
-		1 Implant the Seeds
-		1 Verse Change
-		1 Wood's Deceiver
-		1 Bars Across the Sun
-		1 Forge Secretkeeper
-		1 Glassgarden Seer
-		1 Guided Crusader
-		1 Ancient Translator
-		1 Moonlit Deceiver
-		1 Prison of Glass
-		1 River Drowner
-		1 Cyprian Ophiomancer
-		1 Gloom Sower
-		1 Nowhere Ascender
-		1 Seven-Coil Invocation
-		1 Entry Consultant
-		1 Malleary Novice
-		1 Stained Silver
-		1 Wandering Immolator
-		1 Carapace Crusader
-		1 Cartographed Risen
-		1 Seven-Coil Ambusher
-		1 Unceasing Initiation
-		1 Lost Seraph
-		1 Roost Messengers
-		1 Shattered Risen
-		1 Mountain of Evidence
-		1 Society Headquarters
+		3 Broken Sun-Servant
+		3 Echoing Charger
+		3 Extract Secrets
+		3 Glass Guardian
+		3 Glassgarden Elder
+		3 Glassgarden Prophet
+		3 Ignite Fervor
+		3 Lended Light
+		3 Mystical Trail
+		3 Subverted Cyprian
+		3 Pulsing Vitality
+		3 Verse Illuminate
+		3 Carapace Scavenger
+		3 Carapace Shearer
+		3 Cindered Tally
+		3 Despairing Devotee
+		3 Escape into the Night
+		3 Herald of Loss
+		3 Indulgent Cyprian
+		3 Paradoxical Inquiry
+		3 Sensation Ascender
+		3 Implant the Seeds
+		3 Verse Change
+		3 Wood's Deceiver
+		3 Bars Across the Sun
+		3 Forge Secretkeeper
+		3 Glassgarden Seer
+		3 Guided Crusader
+		3 Ancient Translator
+		3 Moonlit Deceiver
+		3 Prison of Glass
+		3 River Drowner
+		3 Cyprian Ophiomancer
+		3 Gloom Sower
+		3 Nowhere Ascender
+		3 Seven-Coil Invocation
+		3 Entry Consultant
+		3 Malleary Novice
+		3 Stained Silver
+		3 Wandering Immolator
+		3 Carapace Crusader
+		3 Cartographed Risen
+		3 Seven-Coil Ambusher
+		3 Unceasing Initiation
+		3 Lost Seraph
+		3 Roost Messengers
+		3 Shattered Risen
+		3 Mountain of Evidence
+		3 Society Headquarters
 	[BC2]
-		1 Broken Sun-Servant
-		1 Echoing Charger
-		1 Extract Secrets
-		1 Glass Guardian
-		1 Glassgarden Elder
-		1 Glassgarden Prophet
-		1 Ignite Fervor
-		1 Lended Light
-		1 Mystical Trail
-		1 Subverted Cyprian
-		1 Pulsing Vitality
-		1 Verse Illuminate
-		1 Carapace Scavenger
-		1 Carapace Shearer
-		1 Cindered Tally
-		1 Despairing Devotee
-		1 Escape into the Night
-		1 Herald of Loss
-		1 Indulgent Cyprian
-		1 Paradoxical Inquiry
-		1 Sensation Ascender
-		1 Implant the Seeds
-		1 Verse Change
-		1 Wood's Deceiver
-		1 Bringer of Glory
-		1 Unscarred Wolf
-		1 PTN Iron Verdict
-		1 PTN Augury Raven
-		1 Sea's Feasting
-		1 Seven-Coil Shipbreaker
-		1 Sky-Scar Angel
-		1 Spread Agony
-		1 Escape from Nowhere
-		1 Enflamed Caligine
-		1 Subvert the Light
-		1 Subverting Insurgent
-		1 Seven-Coiled Strength
-		1 Wolven Hatred
-		1 Wood's Devourer
-		1 Noon Delver Serpent
-		1 Covert Cloak
-		1 Noonstone Amulet
+		3 Broken Sun-Servant
+		3 Echoing Charger
+		3 Extract Secrets
+		3 Glass Guardian
+		3 Glassgarden Elder
+		3 Glassgarden Prophet
+		3 Ignite Fervor
+		3 Lended Light
+		3 Mystical Trail
+		3 Subverted Cyprian
+		3 Pulsing Vitality
+		3 Verse Illuminate
+		3 Carapace Scavenger
+		3 Carapace Shearer
+		3 Cindered Tally
+		3 Despairing Devotee
+		3 Escape into the Night
+		3 Herald of Loss
+		3 Indulgent Cyprian
+		3 Paradoxical Inquiry
+		3 Sensation Ascender
+		3 Implant the Seeds
+		3 Verse Change
+		3 Wood's Deceiver
+		3 Bringer of Glory
+		3 Unscarred Wolf
+		3 PTN Iron Verdict
+		3 PTN Augury Raven
+		3 Sea's Feasting
+		3 Seven-Coil Shipbreaker
+		3 Sky-Scar Angel
+		3 Spread Agony
+		3 Escape from Nowhere
+		3 Enflamed Caligine
+		3 Subvert the Light
+		3 Subverting Insurgent
+		3 Seven-Coiled Strength
+		3 Wolven Hatred
+		3 Wood's Devourer
+		3 Noon Delver Serpent
+		3 Covert Cloak
+		3 Noonstone Amulet
 	[C1]
-		1 Bars Across the Sun
-		1 Forge Secretkeeper
-		1 Glassgarden Seer
-		1 Guided Crusader
-		1 Ancient Translator
-		1 Moonlit Deceiver
-		1 Prison of Glass
-		1 River Drowner
-		1 Cyprian Ophiomancer
-		1 Gloom Sower
-		1 Nowhere Ascender
-		1 Seven-Coil Invocation
-		1 Entry Consultant
-		1 Malleary Novice
-		1 Stained Silver
-		1 Wandering Immolator
-		1 Carapace Crusader
-		1 Cartographed Risen
-		1 Seven-Coil Ambusher
-		1 Unceasing Initiation
-		1 Lost Seraph
-		1 Roost Messengers
-		1 Shattered Risen
-		1 Mountain of Evidence
-		1 Society Headquarters
+		2 Bars Across the Sun
+		2 Forge Secretkeeper
+		2 Glassgarden Seer
+		2 Guided Crusader
+		2 Ancient Translator
+		2 Moonlit Deceiver
+		2 Prison of Glass
+		2 River Drowner
+		2 Cyprian Ophiomancer
+		2 Gloom Sower
+		2 Nowhere Ascender
+		2 Seven-Coil Invocation
+		2 Entry Consultant
+		2 Malleary Novice
+		2 Stained Silver
+		2 Wandering Immolator
+		2 Carapace Crusader
+		2 Cartographed Risen
+		2 Seven-Coil Ambusher
+		2 Unceasing Initiation
+		2 Lost Seraph
+		2 Roost Messengers
+		2 Shattered Risen
+		2 Mountain of Evidence
+		2 Society Headquarters
 	[C2]
-		1 Bringer of Glory
-		1 Unscarred Wolf
-		1 PTN Iron Verdict
-		1 PTN Augury Raven
-		1 Sea's Feasting
-		1 Seven-Coil Shipbreaker
-		1 Sky-Scar Angel
-		1 Spread Agony
-		1 Escape from Nowhere
-		1 Enflamed Caligine
-		1 Subvert the Light
-		1 Subverting Insurgent
-		1 Seven-Coiled Strength
-		1 Wolven Hatred
-		1 Wood's Devourer
-		1 Noon Delver Serpent
-		1 Covert Cloak
-		1 Noonstone Amulet
+		3 Bringer of Glory
+		3 Unscarred Wolf
+		3 PTN Iron Verdict
+		3 PTN Augury Raven
+		3 Sea's Feasting
+		3 Seven-Coil Shipbreaker
+		3 Sky-Scar Angel
+		3 Spread Agony
+		3 Escape from Nowhere
+		3 Enflamed Caligine
+		3 Subvert the Light
+		3 Subverting Insurgent
+		3 Seven-Coiled Strength
+		3 Wolven Hatred
+		3 Wood's Devourer
+		3 Noon Delver Serpent
+		3 Covert Cloak
+		3 Noonstone Amulet
 	[Basic]
 		3 Sanctuary of Enlightenment
 		3 Sanctuary of Glory

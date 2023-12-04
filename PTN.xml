@@ -541,7 +541,7 @@ Ward {2} (Whenever this creature becomes the target of a spell or ability an opp
         <pt>2/2</pt>
       </prop>
       <tablerow>2</tablerow>
-      <text>When Percussigant enters the battlefield, return target Sanctuary land card from your graveyard to the battlefield.
+      <text>When Percussigant enters the battlefield, search your library and/or graveyard for a Sanctuary card, put that card onto the battlefield tapped. If you search your library this way, shuffle.
 Activated abilities of Sanctuaries you control cost {1} less to activate.</text>
     </card>
     <card>
@@ -762,7 +762,7 @@ At the beginning of each combat, if you have more life than an opponent, Gloriou
       <tablerow>2</tablerow>
       <text>Vigilance
 When Guided Crusader enters the battlefield, if it was cast from exile, create a 2/2 white Angel creature token with flying.
-Foretell 4WW (During your turn, you may pay {2} and exile this card from your hand face down. Play it on a later turn for its foretell cost.)</text>
+Foretell 4WW (During your turn, you may pay {2} and exile this card from your hand face down. Cast it on a later turn for its foretell cost.)</text>
     </card>
     <card>
       <name>Ragged Sun&apos;s Angel</name>
@@ -937,7 +937,7 @@ When Sky-Scar Angel enters the battlefield, choose one —
       </prop>
       <tablerow>2</tablerow>
       <text>Whenever The Vagabond attacks, draw a card.
-3GGU: Creatures you control get +X/+X until end of turn. Where X is the number of cards you’ve drawn this turn.</text>
+3GGU: Creatures you control get +X/+X until end of turn, where X is the number of cards you’ve drawn this turn.</text>
     </card>
     <card>
       <name>Mountain of Evidence</name>
@@ -967,7 +967,7 @@ When Mountain of Evidence dies, draw a card.</text>
       <tablerow>3</tablerow>
       <text>This spell has flash as long as it’s foretold.
 Draw two cards.
-Foretell 1U (During your turn, you may pay {2} and exile this card from your hand face down. Play it on a later turn for its foretell cost.)</text>
+Foretell 1U (During your turn, you may pay {2} and exile this card from your hand face down. Cast it on a later turn for its foretell cost.)</text>
     </card>
     <card>
       <name>Legacy of the Wheel</name>
@@ -1485,7 +1485,7 @@ Enchanted creature can’t attack, block, or be sacrificed.</text>
       </prop>
       <tablerow>3</tablerow>
       <text>Destroy up to one target artifact or enchantment. If this spell was cast from exile, you gain 3 life and draw a card.
-Foretell 2W (During your turn, you may pay {2} and exile this card from your hand face down. Play it on a later turn for its foretell cost.)</text>
+Foretell 2W (During your turn, you may pay {2} and exile this card from your hand face down. Cast it on a later turn for its foretell cost.)</text>
     </card>
     <card>
       <name>PTN Iron Verdict</name>
@@ -1499,7 +1499,7 @@ Foretell 2W (During your turn, you may pay {2} and exile this card from your han
       </prop>
       <tablerow>3</tablerow>
       <text>Iron Verdict deals 5 damage to target tapped creature.
-Foretell {W} (During your turn, you may pay {2} and exile this card from your hand face down. Play it on a later turn for its foretell cost.)</text>
+Foretell {W} (During your turn, you may pay {2} and exile this card from your hand face down. Cast it on a later turn for its foretell cost.)</text>
     </card>
     <card>
       <name>Glassgarden Seer</name>
@@ -1555,7 +1555,9 @@ Exile target creature or enchantment.</text>
         <pt>2/1</pt>
       </prop>
       <tablerow>2</tablerow>
-      <text>When Subverted Cyprian enters the battlefield, you gain 1 life and exile the top card of your library face down. It becomes foretold.  (Its foretell cost is its mana cost if it isn’t already specified.)</text>
+      <text>When Subverted Cyprian enters the battlefield, choose one—
+• Return target land card from your graveyard to your hand. You gain 2 life.
+• Put a +1/+1 counter on Subverted Cyprian.</text>
     </card>
     <card>
       <name>Forge Secretkeeper</name>
@@ -1673,13 +1675,13 @@ As long as you control a God, you may cast Verse Illuminate from your graveyard.
       <set rarity="common">PTN</set>
       <prop>
         <colors>U</colors>
-        <manacost>3U</manacost>
-        <cmc>4</cmc>
+        <manacost>2U</manacost>
+        <cmc>3</cmc>
         <type>Instant</type>
         <maintype>Instant</maintype>
       </prop>
       <tablerow>3</tablerow>
-      <text>Put target attacking creature on top of its owner’s library.</text>
+      <text>Put target creature on top of its owner’s library if its attacking or you control a God.</text>
     </card>
     <card>
       <name>Perfect Stillness</name>
@@ -1707,7 +1709,7 @@ As long as you control a God, you may cast Verse Illuminate from your graveyard.
       </prop>
       <tablerow>2</tablerow>
       <text>This spell has flash as long as it’s foretold.
-Foretell 1U (During your turn, you may pay {2} and exile this card from your hand face down. Play it on a later turn for its foretell cost.)</text>
+Foretell 1U (During your turn, you may pay {2} and exile this card from your hand face down. Cast it on a later turn for its foretell cost.)</text>
     </card>
     <card>
       <name>PTN Augury Raven</name>
@@ -1737,7 +1739,7 @@ Foretell 1U (During your turn, you may pay {2} and exile this card from your han
       </prop>
       <tablerow>2</tablerow>
       <text>When Ancient Translator enters the battlefield, if it was cast from exile, return target instant or sorcery card from your graveyard to your hand. 
-Foretell 2U (During your turn, you may pay {2} and exile this card from your hand face down. Play it on a later turn for its foretell cost.)</text>
+Foretell 2U (During your turn, you may pay {2} and exile this card from your hand face down. Cast it on a later turn for its foretell cost.)</text>
     </card>
     <card>
       <name>Prison of Glass</name>
@@ -1791,12 +1793,12 @@ Exile the top card of your library. Until the end of your next turn, you may pla
         <cmc>5</cmc>
         <type>Creature - Elemental </type>
         <maintype>Creature</maintype>
-        <pt>4/4</pt>
+        <pt>5/4</pt>
       </prop>
       <tablerow>2</tablerow>
       <text>Reach
-When Enflamed Caligine enters the battlefield, if it was cast from exile, Enflamed Caligine gains haste until end of turn.
-Foretell 3R (During your turn, you may pay {2} and exile this card from your hand face down. Play it on a later turn for its foretell cost.)</text>
+When Enflamed Caligine enters the battlefield, if it was cast from exile, it deals 2 damage to each opponent.
+Foretell 3R (During your turn, you may pay {2} and exile this card from your hand face down. Cast it on a later turn for its foretell cost.)</text>
     </card>
     <card>
       <name>Malleary Seer</name>
@@ -1839,7 +1841,7 @@ As long as you control a God, you may cast Verse Reshape from your graveyard. Th
       <tablerow>3</tablerow>
       <text>This spell has flash as long as it’s foretold.
 Subvert the Light deals 4 damage to target creature or planeswalker.
-Foretell {R} (During your turn, you may pay {2} and exile this card from your hand face down. Play it on a later turn for its foretell cost.)</text>
+Foretell {R} (During your turn, you may pay {2} and exile this card from your hand face down. Cast it on a later turn for its foretell cost.)</text>
     </card>
     <card>
       <name>Stained Silver</name>
@@ -1927,7 +1929,7 @@ As long as you control a God, you may cast Verse Aggress from your graveyard. Th
       </prop>
       <tablerow>3</tablerow>
       <text>Target creature you control gains hexproof until end of turn. If this spell was cast from exile, it gets +3/+3 until end of turn. 
-Foretell {G} (During your turn, you may pay {2} and exile this card from your hand face down. Play it on a later turn for its foretell cost.)</text>
+Foretell {G} (During your turn, you may pay {2} and exile this card from your hand face down. Cast it on a later turn for its foretell cost.)</text>
     </card>
     <card>
       <name>Student of Defiance</name>
@@ -2027,7 +2029,7 @@ You get a Scar.  (It’s a boon with “When a creature you control dies, you ma
       <tablerow>3</tablerow>
       <text>This spell has flash as long as it’s foretold.
 You draw two cards and lose 2 life. If this spell was cast from exile, surveil 2.
-Foretell 1B (During your turn, you may pay {2} and exile this card from your hand face down. Play it on a later turn for its foretell cost.)</text>
+Foretell 1B (During your turn, you may pay {2} and exile this card from your hand face down. Cast it on a later turn for its foretell cost.)</text>
     </card>
     <card>
       <name>Indulgent Cyprian</name>
@@ -2083,7 +2085,7 @@ When Indulgent Cyprian enters the battlefield induct. (Create a 0/1 Cleric creat
         <maintype>Sorcery</maintype>
       </prop>
       <tablerow>3</tablerow>
-      <text>Target creature with power 3 or less can’t be blocked this turn.
+      <text>Until end of turn, target creature gains “Whenever this creature deals combat damage to a player, draw a card.”
 As long as you control a God, you may cast Verse Open from your graveyard. Then exile it.</text>
     </card>
     <card>
@@ -2227,7 +2229,7 @@ When Cyprian Ophiomancer enters the battlefield, it deals 1 damage to any target
         <maintype>Instant</maintype>
       </prop>
       <tablerow>3</tablerow>
-      <text>Discard a card. If you do, draw a card.
+      <text>Exile the top card of your library. Until the end of your next turn, you may play that card.
 You get a Scar. (It’s a boon with “When a creature you control dies, you may pay {1}. If you do, draw a card.”)</text>
     </card>
     <card>
@@ -2296,11 +2298,11 @@ Whenever Raw Prophet attacks, you may discard a card. If you do, draw a card.</t
         <cmc>6</cmc>
         <type>Creature - Wolf Demon Horror </type>
         <maintype>Creature</maintype>
-        <pt>5/5</pt>
+        <pt>6/5</pt>
       </prop>
       <tablerow>2</tablerow>
       <text>Trample
-Whenever Wood’s Devourer attacks, until end of turn, it gets “When this creature dies, draw a card”.</text>
+Whenever Wood’s Devourer attacks, if you own a boon, put a +1/+1 counter on Wood’s Devourer.</text>
     </card>
     <card>
       <name>Wolf-Splinter</name>
@@ -2377,7 +2379,7 @@ When Faceless Apprentice dies, put a +1/+1 counter on a creature you control.</t
 When Misguiding Lighthouse enters the battlefield, destroy target tapped artifact or creature an opponent controls.</text>
     </card>
     <card>
-      <name>Planer Lockdown</name>
+      <name>Planar Lockdown</name>
       <set rarity="rare">PTN</set>
       <prop>
         <colors></colors>
@@ -2387,7 +2389,7 @@ When Misguiding Lighthouse enters the battlefield, destroy target tapped artifac
         <maintype>Enchantment</maintype>
       </prop>
       <tablerow>1</tablerow>
-      <text>As Planer Lockdown enters the battlefield, choose a card name.
+      <text>As Planar Lockdown enters the battlefield, choose a card name.
 Activated abilities of sources with the chosen name can’t be activated unless they’re mana abilities.
 Players can’t cast planeswalker spells.</text>
     </card>
@@ -2547,7 +2549,7 @@ Whenever you cast a creature of the chosen type, induct. (Create a 0/1 Cleric cr
       </prop>
       <tablerow>3</tablerow>
       <text>Prevent the next 4 damage that would be dealt to target permanent or player. If this spell was cast from exile, Sun-Scorched Tempering deals damage to any target equal to the damage prevented this way.
-Foretell {W} (During your turn, you may pay {2} and exile this card from your hand face down. Play it on a later turn for its foretell cost.)</text>
+Foretell {W} (During your turn, you may pay {2} and exile this card from your hand face down. Cast it on a later turn for its foretell cost.)</text>
     </card>
     <card>
       <name>Eyes Everywhere</name>
@@ -2576,7 +2578,7 @@ Foretell {W} (During your turn, you may pay {2} and exile this card from your ha
       </prop>
       <tablerow>2</tablerow>
       <text>Foretold spells you cast cost {1} less to cast.
-Foretell 2UU (During your turn, you may pay {2} and exile this card from your hand face down. Play it on a later turn for its foretell cost.)</text>
+Foretell 2UU (During your turn, you may pay {2} and exile this card from your hand face down. Cast it on a later turn for its foretell cost.)</text>
     </card>
     <card>
       <name>Mind Control</name>
@@ -2635,7 +2637,7 @@ Whenever you play a card from exile, choose one that hasn’t been chosen this t
       </prop>
       <tablerow>3</tablerow>
       <text>Create a token that’s a copy of target creature. If this spell was cast from exile, create two of those tokens instead.
-Foretell 3UU (During your turn, you may pay {2} and exile this card from your hand face down. Play it on a later turn for its foretell cost.)</text>
+Foretell 3UU (During your turn, you may pay {2} and exile this card from your hand face down. Cast it on a later turn for its foretell cost.)</text>
     </card>
     <card>
       <name>Seven-Coil Glider</name>
@@ -2679,7 +2681,7 @@ Whenever you attack, put a stun counter on target creature you don’t control. 
       </prop>
       <tablerow>3</tablerow>
       <text>Counter target permanent spell unless it controller pays {3}. If this spell was foretold, instead counter that spell, then scry 2.
-Foretell 1UU (During your turn, you may pay {2} and exile this card from your hand face down. Play it on a later turn for its foretell cost.)</text>
+Foretell 1UU (During your turn, you may pay {2} and exile this card from your hand face down. Cast it on a later turn for its foretell cost.)</text>
     </card>
     <card>
       <name>Carapace Ancestor</name>
@@ -2754,7 +2756,7 @@ When you sacrifice Crowned Ghoul, you may search your library for a card named T
       </prop>
       <tablerow>2</tablerow>
       <text>If The Crowned Growth would die, exile it instead. It becomes foretold. (Its foretell cost is its mana cost if it isn’t already specified.)
-Foretell—BB, Sacrifice a creature. (During your turn, you may pay {2} and exile this card from your hand face down. Play it on a later turn for its foretell cost.)</text>
+Foretell—BB, Sacrifice a creature. (During your turn, you may pay {2} and exile this card from your hand face down. Cast it on a later turn for its foretell cost.)</text>
     </card>
     <card>
       <name>Angel of Eclipse</name>
@@ -3062,7 +3064,7 @@ Other creatures you control have “Ward—Pay 2 life.”</text>
       </prop>
       <tablerow>2</tablerow>
       <text>Whenever you exile one or more cards, Malleary Smelter deals 1 damage to target creature an opponent controls.
-Foretell RR (During your turn, you may pay {2} and exile this card from your hand face down. Play it on a later turn for its foretell cost.)</text>
+Foretell RR (During your turn, you may pay {2} and exile this card from your hand face down. Cast it on a later turn for its foretell cost.)</text>
     </card>
     <card>
       <name>Malleary-Forged Yew</name>
@@ -3073,11 +3075,11 @@ Foretell RR (During your turn, you may pay {2} and exile this card from your han
         <cmc>5</cmc>
         <type>Creature - Treefolk Elemental </type>
         <maintype>Creature</maintype>
-        <pt>5/5</pt>
+        <pt>4/5</pt>
       </prop>
       <tablerow>2</tablerow>
       <text>Reach
-Whenever Malleary-Forged Yew attacks, if you control a God, exile the top two cards of your library. You may play those cards this turn.</text>
+Whenever Malleary-Forged Yew or a God you control attacks, it deals 1 damage to any target.</text>
     </card>
     <card>
       <name>Malleus Spark Amulet</name>
@@ -3450,10 +3452,11 @@ Draw cards equal to the sacrificed creature’s power.</text>
         <cmc>5</cmc>
         <type>Creature - Wolf Berserker </type>
         <maintype>Creature</maintype>
-        <pt>4/5</pt>
+        <pt>4/4</pt>
       </prop>
       <tablerow>2</tablerow>
-      <text>Whenever Ravenous Unmaker and another creature with power 3 or greater attack, draw a card.</text>
+      <text>When Ravenous Unmaker enters the battlefield, you get a Scar. (It’s a boon with “When a creature you control dies, you may pay {1}. If you do, draw a card.”)
+Whenever Ravenous Unmaker attacks, if you control a boon, creatures you control get +1/+1 and gain trample until end of turn.</text>
     </card>
     <card>
       <name>Skaptodon Cub</name>
@@ -3540,7 +3543,7 @@ If you would draw a card, instead mill three cards.
         <maintype>Enchantment</maintype>
       </prop>
       <tablerow>1</tablerow>
-      <text>{B/R}, Sacrifice Agonizing Existence: Deal X damage to target creature, where X is the amount of life target opponent lost this turn.</text>
+      <text>{B/R}, Sacrifice Agonizing Existence: It deals X damage to target creature, where X is the amount of life target opponent lost this turn.</text>
     </card>
     <card>
       <name>The Allure&apos;s Light</name>
@@ -3554,7 +3557,7 @@ If you would draw a card, instead mill three cards.
       </prop>
       <tablerow>1</tablerow>
       <text>The first time you cast a foretold spell each turn, induct. (Create a 0/1 Cleric creature token with “Sacrifice two other Clerics: Transform this creature.” It transforms into a 4/4 God Horror creature token that can’t block.)
-Foretell WU (During your turn, you may pay {2} and exile this card from your hand face down. Play it on a later turn for its foretell cost.)</text>
+Foretell WU (During your turn, you may pay {2} and exile this card from your hand face down. Cast it on a later turn for its foretell cost.)</text>
     </card>
     <card>
       <name>Breaching Vespera</name>
