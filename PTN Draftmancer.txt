@@ -2708,7 +2708,7 @@
 	        }
 	    },
 	    {
-	        "name": "Seven-Coil's Successor",
+	        "name": "Seven-Coil’s Successor",
 	        "rarity": "rare",
 	        "mana_cost": "{2}{R}{R}{G}",
 	        "type": "Legendary Creature — Hydra Serpent ",
