@@ -165,7 +165,7 @@
 	    {
 	        "name": "Silent Drowner",
 	        "rarity": "uncommon",
-	        "mana_cost": "{2}{U}{U}",
+	        "mana_cost": "{1}{U}{U}",
 	        "type": "Creature — Merfolk Wizard ",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/Kogane-Yakumo/Port-Noon/main/PTN-files/Silent%20Drowner.png"
@@ -481,7 +481,7 @@
 	    {
 	        "name": "Ragged Sun's Angel",
 	        "rarity": "uncommon",
-	        "mana_cost": "{3}{W}{W}",
+	        "mana_cost": "{4}{W}{W}",
 	        "type": "Creature — Angel ",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/Kogane-Yakumo/Port-Noon/main/PTN-files/Ragged%20Sun%27s%20Angel.png"
@@ -518,8 +518,8 @@
 	    {
 	        "name": "Root of Mercy",
 	        "rarity": "uncommon",
-	        "mana_cost": "{1}{W}{W}",
-	        "type": "Instant",
+	        "mana_cost": "{1}{W}",
+	        "type": "Sorcery",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/Kogane-Yakumo/Port-Noon/main/PTN-files/Root%20of%20Mercy.png"
 	        },
@@ -719,7 +719,7 @@
 	    {
 	        "name": "Sister of Venoms",
 	        "rarity": "uncommon",
-	        "mana_cost": "{1}{U}{R}",
+	        "mana_cost": "{U}{R}",
 	        "type": "Creature — Human Shaman Cleric ",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/Kogane-Yakumo/Port-Noon/main/PTN-files/Sister%20of%20Venoms.png"
@@ -755,7 +755,7 @@
 	    {
 	        "name": "King Crucible",
 	        "rarity": "rare",
-	        "mana_cost": "{4}{R}{W}",
+	        "mana_cost": "{2}{R}{R}{W}",
 	        "type": "Legendary Creature — Elemental God ",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/Kogane-Yakumo/Port-Noon/main/PTN-files/King%20Crucible.png"
@@ -1097,7 +1097,7 @@
 	    {
 	        "name": "Sea's Feasting",
 	        "rarity": "common",
-	        "mana_cost": "{3}{U}",
+	        "mana_cost": "{2}{U}",
 	        "type": "Instant",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/Kogane-Yakumo/Port-Noon/main/PTN-files/Sea%27s%20Feasting.png"
@@ -1581,7 +1581,7 @@
 	    {
 	        "name": "The Horned-Axe",
 	        "rarity": "mythic",
-	        "mana_cost": "{5}",
+	        "mana_cost": "{4}",
 	        "type": "Legendary Creature — God ",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/Kogane-Yakumo/Port-Noon/main/PTN-files/The%20Horned-Axe.png"
@@ -1615,12 +1615,12 @@
 	        }
 	    },
 	    {
-	        "name": "Occult Explorer",
-	        "rarity": "rare",
-	        "mana_cost": "{3}{W}",
-	        "type": "Creature — Cat Cleric ",
+	        "name": "Horomachist Sacrifice",
+	        "rarity": "uncommon",
+	        "mana_cost": "{W}",
+	        "type": "Creature — Angel ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Kogane-Yakumo/Port-Noon/main/PTN-files/Occult%20Explorer.png"
+	            "en": "https://raw.githubusercontent.com/Kogane-Yakumo/Port-Noon/main/PTN-files/Horomachist%20Sacrifice.png"
 	        }
 	    },
 	    {
@@ -1644,7 +1644,7 @@
 	    {
 	        "name": "Cat o'lic Priests",
 	        "rarity": "rare",
-	        "mana_cost": "{W}",
+	        "mana_cost": "{3}{W}",
 	        "type": "Creature — Cat Cleric ",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/Kogane-Yakumo/Port-Noon/main/PTN-files/Cat%20o%27lic%20Priests.png"
@@ -1678,12 +1678,12 @@
 	        }
 	    },
 	    {
-	        "name": "Horomachist Sacrifice",
-	        "rarity": "uncommon",
+	        "name": "Occult Explorer",
+	        "rarity": "rare",
 	        "mana_cost": "{1}{W}",
 	        "type": "Creature — Human Scout ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Kogane-Yakumo/Port-Noon/main/PTN-files/Horomachist%20Sacrifice.png"
+	            "en": "https://raw.githubusercontent.com/Kogane-Yakumo/Port-Noon/main/PTN-files/Occult%20Explorer.png"
 	        }
 	    },
 	    {
@@ -1826,7 +1826,7 @@
 	    {
 	        "name": "Carapace Guardian",
 	        "rarity": "uncommon",
-	        "mana_cost": "{3}{B}",
+	        "mana_cost": "{2}{B}",
 	        "type": "Creature — Insect ",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/Kogane-Yakumo/Port-Noon/main/PTN-files/Carapace%20Guardian.png"
@@ -1853,7 +1853,7 @@
 	    {
 	        "name": "The Crowned Growth",
 	        "rarity": "mythic",
-	        "mana_cost": "{3}{B}",
+	        "mana_cost": "{4}{B}{B}",
 	        "type": "Legendary Creature — Fungus God ",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/Kogane-Yakumo/Port-Noon/main/PTN-files/The%20Crowned%20Growth.png"
@@ -1862,8 +1862,8 @@
 	    {
 	        "name": "Angel of Eclipse",
 	        "rarity": "uncommon",
-	        "mana_cost": "{1}{B}",
-	        "type": "Creature — Zombie Cleric ",
+	        "mana_cost": "{3}{B}",
+	        "type": "Creature — Angel Cleric ",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/Kogane-Yakumo/Port-Noon/main/PTN-files/Angel%20of%20Eclipse.png"
 	        }
@@ -1934,8 +1934,8 @@
 	    {
 	        "name": "Rite of Watchman's Sorrow",
 	        "rarity": "rare",
-	        "mana_cost": "{1}{B}",
-	        "type": "Sorcery",
+	        "mana_cost": "{B}",
+	        "type": "Instant",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/Kogane-Yakumo/Port-Noon/main/PTN-files/Rite%20of%20Watchman%27s%20Sorrow.png"
 	        }
@@ -1944,7 +1944,7 @@
 	        "name": "Throat of Remnants",
 	        "rarity": "uncommon",
 	        "mana_cost": "{B}",
-	        "type": "Artifact — Equipment ",
+	        "type": "Artifact",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/Kogane-Yakumo/Port-Noon/main/PTN-files/Throat%20of%20Remnants.png"
 	        }
@@ -2197,10 +2197,20 @@
 	        "name": "The Old Forms",
 	        "rarity": "common",
 	        "mana_cost": "{1}{G}",
-	        "type": "Sorcery",
+	        "type": "Instant",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/Kogane-Yakumo/Port-Noon/main/PTN-files/The%20Old%20Forms.png"
-	        }
+	        },
+            "back": {
+            "name": "Scar Boon",
+            "image_uris": {
+                "en": "https://raw.githubusercontent.com/Kogane-Yakumo/Port-Noon/main/PTN-files/Scar%20Boon.png"
+            },
+            "type": "Boon",
+            "subtypes": [
+                ""
+            ]
+		}
 	    },
 	    {
 	        "name": "Flesh Weaver",
@@ -2232,7 +2242,7 @@
 	    {
 	        "name": "Sendings of the Skin",
 	        "rarity": "rare",
-	        "mana_cost": "{2}{G}",
+	        "mana_cost": "{2}{G}{G}",
 	        "type": "Enchantment",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/Kogane-Yakumo/Port-Noon/main/PTN-files/Sendings%20of%20the%20Skin.png"
@@ -2245,15 +2255,6 @@
 	        "type": "Creature — Insect Treefolk ",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/Kogane-Yakumo/Port-Noon/main/PTN-files/Yew-Horned%20Carapace.png"
-	        }
-	    },
-	    {
-	        "name": "Seven-Coil’s Successor",
-	        "rarity": "rare",
-	        "mana_cost": "{2}{R}{G}",
-	        "type": "Legendary Creature — Hydra Serpent ",
-	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Kogane-Yakumo/Port-Noon/main/PTN-files/Seven-Coil's%20Successor.png"
 	        }
 	    },
 	    {
@@ -2297,7 +2298,7 @@
 	    {
 	        "name": "Flee from History",
 	        "rarity": "rare",
-	        "mana_cost": "{G}",
+	        "mana_cost": "{1}{G}",
 	        "type": "Instant",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/Kogane-Yakumo/Port-Noon/main/PTN-files/Flee%20from%20History.png"
@@ -2337,7 +2338,17 @@
 	        "type": "Creature — Wolf Berserker ",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/Kogane-Yakumo/Port-Noon/main/PTN-files/Ravenous%20Unmaker.png"
-	        }
+	        },
+            "back": {
+            "name": "Scar Boon",
+            "image_uris": {
+                "en": "https://raw.githubusercontent.com/Kogane-Yakumo/Port-Noon/main/PTN-files/Scar%20Boon.png"
+            },
+            "type": "Boon",
+            "subtypes": [
+                ""
+            ]
+		}
 	    },
 	    {
 	        "name": "Skaptodon Cub",
@@ -2378,7 +2389,7 @@
 	    {
 	        "name": "The Moth",
 	        "rarity": "mythic",
-	        "mana_cost": "{1}{B}{G}",
+	        "mana_cost": "{2}{B}{G}",
 	        "type": "Legendary Creature — Insect God ",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/Kogane-Yakumo/Port-Noon/main/PTN-files/The%20Moth.png"
@@ -2450,7 +2461,7 @@
 	    {
 	        "name": "The Mirror-Queen",
 	        "rarity": "mythic",
-	        "mana_cost": "{2}{U}{R}",
+	        "mana_cost": "{1}{U}{R}",
 	        "type": "Legendary Creature — God ",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/Kogane-Yakumo/Port-Noon/main/PTN-files/The%20Mirror-Queen.png"
@@ -2459,7 +2470,7 @@
 	    {
 	        "name": "The Red Grail",
 	        "rarity": "mythic",
-	        "mana_cost": "{3}{B}{R}",
+	        "mana_cost": "{2}{B}{R}",
 	        "type": "Legendary Creature — Vampire God ",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/Kogane-Yakumo/Port-Noon/main/PTN-files/The%20Red%20Grail.png"
@@ -2486,7 +2497,7 @@
 	    {
 	        "name": "The Sun-In-Rags",
 	        "rarity": "rare",
-	        "mana_cost": "{2}{W}{W}{B}{B}",
+	        "mana_cost": "{3}{W}{B}{B}",
 	        "type": "Legendary Creature — God ",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/Kogane-Yakumo/Port-Noon/main/PTN-files/The%20Sun-In-Rags.png"
@@ -2513,7 +2524,7 @@
 	    {
 	        "name": "Vision of Other Histories",
 	        "rarity": "uncommon",
-	        "mana_cost": "{1}{G}{U}",
+	        "mana_cost": "{2}{G}{U}",
 	        "type": "Enchantment",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/Kogane-Yakumo/Port-Noon/main/PTN-files/Vision%20of%20Other%20Histories.png"
@@ -2548,7 +2559,7 @@
 	            "en": "The Witch-and-Sister"
 	        },
 	        "back": {
-	            "name": "The Witch-and-Sister",
+	            "name": "The Sister-and-Witch",
 	            "printed_names": {
 	                "en": "The Sister-and-Witch"
 	            },
@@ -2645,7 +2656,7 @@
 	    {
 	        "name": "True Blood of Saint Janus",
 	        "rarity": "rare",
-	        "mana_cost": "{2}",
+	        "mana_cost": "{1}",
 	        "type": "Legendary Artifact",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/Kogane-Yakumo/Port-Noon/main/PTN-files/True%20Blood%20of%20Saint%20Janus.png"
@@ -2691,9 +2702,18 @@
 	        "name": "Apostle Entheate",
 	        "rarity": "rare",
 	        "mana_cost": "{3}{W}{W}",
-	        "type": "Creature — Angel ",
+	        "type": "Creature — Angel Cleric ",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/Kogane-Yakumo/Port-Noon/main/PTN-files/Apostle%20Entheate.png"
+	        }
+	    },
+	    {
+	        "name": "Seven-Coil's Successor",
+	        "rarity": "rare",
+	        "mana_cost": "{2}{R}{R}{G}",
+	        "type": "Legendary Creature — Hydra Serpent ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kogane-Yakumo/Port-Noon/main/PTN-files/Seven-Coil%27s%20Successor.png"
 	        }
 	    }
 	]
