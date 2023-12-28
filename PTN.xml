@@ -2727,8 +2727,8 @@ Foretell 1UU (During your turn, you may pay {2} and exile this card from your ha
       </prop>
       <tablerow>2</tablerow>
       <text>Deathtouch
-Whenever an Insect you control dies, you may mill two cards.
-3B: Exile target Insect card in your graveyard. Create a token that’s a copy of it except it enters with a +1/+1 counter on it and has deathtouch.</text>
+Other Insects you control have deathtouch and “When this creature dies, you may mill two cards”.
+{1}{B}{B}, {T}: Exile target creature card in your graveyard. Create a token that’s a copy of it except its a 4/3 black Insect.</text>
     </card>
     <card>
       <name>Crowned Ghoul</name>
@@ -2744,7 +2744,7 @@ Whenever an Insect you control dies, you may mill two cards.
       <tablerow>2</tablerow>
       <text>Flying
 At the beginning of your end step, each player sacrifices a creature. 
-When you sacrifice Crowned Ghoul, you may search your library for a card named The Crowned Growth and put it onto the battlefield tapped.</text>
+When you sacrifice Crowned Ghoul, you may search your library for a card named The Crowned Growth exile it, it becomes foretold.</text>
     </card>
     <card>
       <name>The Crowned Growth</name>
@@ -3768,8 +3768,7 @@ At the beginning of your end step, put a card from your hand on the bottom of yo
       </prop>
       <tablerow>2</tablerow>
       <text>You may look at the top card of your library any time.
-You may foretell cards from the top of your library as if they were in your hand.
-{3}, {T}: Exile the top card of your library face down. It becomes foretold. (Its foretell cost is its mana cost if it isn’t already specified.)</text>
+1WU: Exile the top card of your library face down. It becomes foretold. (Its foretell cost is its mana cost if it isn’t already specified.)</text>
     </card>
     <card>
       <name>Wildfires of War</name>
