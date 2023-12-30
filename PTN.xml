@@ -2684,7 +2684,7 @@ Whenever you attack, put a stun counter on target creature you don’t control. 
       </prop>
       <tablerow>3</tablerow>
       <text>Counter target permanent spell unless it controller pays {3}. If this spell was foretold, instead counter that spell, then scry 2.
-Foretell 1UU (During your turn, you may pay {2} and exile this card from your hand face down. Play it on a later turn for its foretell cost.)</text>
+Foretell 1U (During your turn, you may pay {2} and exile this card from your hand face down. Play it on a later turn for its foretell cost.)</text>
     </card>
     <card>
       <name>Carapace Ancestor</name>
