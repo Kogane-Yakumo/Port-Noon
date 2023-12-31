@@ -37,7 +37,7 @@ When Dry-Soul Angel enters the battlefield, each player sacrifices a creature.</
       </prop>
       <tablerow>2</tablerow>
       <text>Whenever you sacrifice a creature, note its name. 
-{T}: You may cast target card from your graveyard with a named noted by The Elegiast.</text>
+{T}: You may cast target card from your graveyard with a name noted by The Elegiast.</text>
     </card>
     <card>
       <name>Nowhere Deathlord</name>
@@ -1085,7 +1085,7 @@ Subverting Insurgent can’t block.</text>
       </prop>
       <tablerow>2</tablerow>
       <text>1UR: Return an unblocked attacker you control to hand: Put this card onto the battlefield from your hand tapped and attacking.
-Whenever Mother of Ants deals combat damage to a player, untap another target creature you control. After this combat phase, there is an additional combat phase.</text>
+Whenever Mother of Ants deals combat damage to a player for the first time each turn, untap another target creature you control. After this combat phase, there is an additional combat phase.</text>
     </card>
     <card>
       <name>Sister of Venoms</name>
