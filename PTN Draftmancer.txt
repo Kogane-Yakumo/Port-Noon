@@ -1732,12 +1732,12 @@
 	        }
 	    },
 	    {
-	        "name": "Mind Control",
+	        "name": "Expose Mortality",
 	        "rarity": "uncommon",
-	        "mana_cost": "{3}{U}{U}",
-	        "type": "Enchantment — Aura ",
+	        "mana_cost": "{1}{U}",
+	        "type": "Instant",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Kogane-Yakumo/Port-Noon/main/PTN-files/Mind%20Control.png"
+	            "en": "https://raw.githubusercontent.com/Kogane-Yakumo/Port-Noon/main/PTN-files/Expose%20Mortality.png"
 	        }
 	    },
 	    {
@@ -2865,7 +2865,7 @@
 		2 Sun-Scorched Tempering
 		2 Eyes Everywhere
 		2 Greater Deceiver
-		2 Mind Control
+		2 Expose Mortality
 		2 Moonlit Augury
 		2 Seven-Coil Glider
 		2 Skin's Division

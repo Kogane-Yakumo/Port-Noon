@@ -279,11 +279,10 @@ Add {G} or {U}.
         <cmc>3</cmc>
         <type>Creature - Merfolk Wizard </type>
         <maintype>Creature</maintype>
-        <pt>2/2</pt>
+        <pt>2/3</pt>
       </prop>
       <tablerow>2</tablerow>
-      <text>Flash
-{U}, Sacrifice Silent Drowner: Counter target spell or ability unless its controller pays {3}.</text>
+      <text>Whenever a sacrifice a permanent, tap target nonland permanent.</text>
     </card>
     <card>
       <name>River Drowner</name>
@@ -358,7 +357,7 @@ When you sacrifice Nowhere Soul Collector, draw a card.</text>
       </prop>
       <tablerow>2</tablerow>
       <text>1U: Twins’ Guardian gets +2/-2 until end of turn.
-When Twins’ Guardian dies, surveil 1.</text>
+When Twins’ Guardian dies, induct. (Create a 0/1 Cleric creature token with “Sacrifice two other Clerics: Transform this creature.” It transforms into a 4/4 God Horror creature token that can’t block.)</text>
     </card>
     <card>
       <name>White Reaper</name>
@@ -2110,7 +2109,7 @@ Whenever Dreamway Key deals combat damage to a player, untap up to one target cr
         <colors>U</colors>
         <manacost>2U</manacost>
         <cmc>3</cmc>
-        <type>Creature - Skeleton Guide </type>
+        <type>Creature - Skeleton </type>
         <maintype>Creature</maintype>
         <pt>2/2</pt>
       </prop>
@@ -2187,8 +2186,7 @@ As long as you control a God, you may cast Verse Change from your graveyard. The
       </prop>
       <tablerow>2</tablerow>
       <text>Deathtouch
-This spell has flash as long as an opponent lost life this turn.
-When Cyprian Ophiomancer enters the battlefield, it deals 1 damage to any target that was dealt damage this turn. </text>
+1B, Discard Cyprian Ophiomancer: Target creature you control gains deathtouch until end of turn, induct. (Create a 0/1 Cleric creature token with “Sacrifice two other Clerics: Transform this creature.” It transforms into a 4/4 God Horror creature token that can’t block.)</text>
     </card>
     <card>
       <name>Wandering Immolator</name>
@@ -2274,7 +2272,7 @@ Whenever Raw Prophet attacks, you may discard a card. If you do, draw a card.</t
         <pt>1/1</pt>
       </prop>
       <tablerow>2</tablerow>
-      <text>Whenever Rite Flamecaller becomes blocked, you may have it deal 1 damage to any target.</text>
+      <text>Whenever Rite Flamecaller becomes blocked, induct (Create a 0/1 Cleric creature token with “Sacrifice two other Clerics: Transform this creature.” It transforms into a 4/4 God Horror creature token that can’t block.)</text>
     </card>
     <card>
       <name>Kindled Fury</name>
@@ -2361,7 +2359,7 @@ When Faceless Apprentice dies, put a +1/+1 counter on a creature you control.</t
         <pt>2/2</pt>
       </prop>
       <tablerow>2</tablerow>
-      <text>Whenever a nonbasic land enters the battlefield under an opponent’s control, Until your next end step, Mirrored Wolf gains menace. Put a +1/+1 counter on it.</text>
+      <text>Whenever a nonbasic land enters the battlefield under an opponent’s control, put a +1/+1 counter on Mirrored Wolf. It gains menace until your next end step. </text>
     </card>
     <card>
       <name>Misguiding Lighthouse</name>
@@ -2580,22 +2578,22 @@ Foretell {W} (During your turn, you may pay {2} and exile this card from your ha
         <pt>5/4</pt>
       </prop>
       <tablerow>2</tablerow>
-      <text>Foretold spells you cast cost {1} less to cast.
-Foretell 2UU (During your turn, you may pay {2} and exile this card from your hand face down. Play it on a later turn for its foretell cost.)</text>
+      <text>Flash
+When Greater Deceiver enters the battlefield, counter target artifact or creature spell.
+Foretell 2UU (During your turn, you may pay {2} and exile this card from your hand face down. Cast it on a later turn for its foretell cost.)</text>
     </card>
     <card>
-      <name>Mind Control</name>
+      <name>Expose Mortality</name>
       <set rarity="uncommon">PTN</set>
       <prop>
         <colors>U</colors>
-        <manacost>3UU</manacost>
-        <cmc>5</cmc>
-        <type>Enchantment - Aura </type>
-        <maintype>Enchantment</maintype>
+        <manacost>1U</manacost>
+        <cmc>2</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
       </prop>
-      <tablerow>1</tablerow>
-      <text>Enchant creature
-You control enchanted creature.</text>
+      <tablerow>3</tablerow>
+      <text>Until end of turn, target creature loses all abilities and becomes a Cleric with base power and toughness 0/1. </text>
     </card>
     <card>
       <name>Mirrorwing Sphinx</name>
@@ -2622,11 +2620,11 @@ Whenever you play a card from exile, choose one that hasn’t been chosen this t
         <colors>U</colors>
         <manacost>2U</manacost>
         <cmc>3</cmc>
-        <type>Instant</type>
-        <maintype>Instant</maintype>
+        <type>Enchantment</type>
+        <maintype>Enchantment</maintype>
       </prop>
-      <tablerow>3</tablerow>
-      <text>Draw two cards. Then discard a card. If you discarded a God, Cleric or Angel card, induct. (Create a 0/1 Cleric creature token with “Sacrifice two other Clerics: Transform this creature.” It transforms into a 4/4 God Horror creature token that can’t block.)</text>
+      <tablerow>1</tablerow>
+      <text>Whenever you draw your second card each turn, induct. (Create a 0/1 Cleric creature token with “Sacrifice two other Clerics: Transform this creature.” It transforms into a 4/4 God Horror creature token that can’t block.)</text>
     </card>
     <card>
       <name>Rite of Twins&apos; Union</name>
@@ -2723,12 +2721,12 @@ Foretell 1U (During your turn, you may pay {2} and exile this card from your han
         <cmc>4</cmc>
         <type>Legendary Creature - Insect Warrior </type>
         <maintype>Creature</maintype>
-        <pt>4/4</pt>
+        <pt>4/3</pt>
       </prop>
       <tablerow>2</tablerow>
       <text>Deathtouch
 Other Insects you control have deathtouch and “When this creature dies, you may mill two cards”.
-{1}{B}{B}, {T}: Exile target creature card in your graveyard. Create a token that’s a copy of it except its a 4/3 black Insect.</text>
+1BB, {T}: Exile target creature card in your graveyard. Create a token that’s a copy of it except its a 4/3 black Insect.</text>
     </card>
     <card>
       <name>Crowned Ghoul</name>
@@ -3052,7 +3050,7 @@ Other creatures you control have “Ward—Pay 2 life.”</text>
         <maintype>Enchantment</maintype>
       </prop>
       <tablerow>1</tablerow>
-      <text>Whenever you attack, exile the top card of your library. Until the end turn, you may play that card.</text>
+      <text>Whenever you attack, exile the top card of your library. Until end of turn, you may play that card.</text>
     </card>
     <card>
       <name>Malleary Smelter</name>
@@ -3267,7 +3265,7 @@ When Carapace Threadbearer enters the battlefield, if there are three or more cr
         <cmc>3</cmc>
         <type>Creature - Serpent Warrior </type>
         <maintype>Creature</maintype>
-        <pt>3/1</pt>
+        <pt>3/2</pt>
       </prop>
       <tablerow>2</tablerow>
       <text>Deathtouch
@@ -3400,7 +3398,7 @@ Boons you own trigger an additional time.</text>
       </prop>
       <tablerow>3</tablerow>
       <text>As an additional cost to cast this spell, exile a creature you control.
-Search your library for a creature card with mana value equal to 1 plus the exiled creature’s mana value.</text>
+Search your library for a creature card with mana value equal to 1 plus the exiled creature’s mana value put it onto the battlefield tapped, then shuffle.</text>
     </card>
     <card>
       <name>Legacy of Coils</name>
@@ -3941,7 +3939,7 @@ Equip—Discard a card.</text>
       </prop>
       <tablerow>2</tablerow>
       <text>Flash; flying
-Each other Angel you control gets +1/+0 and ward {1}. (Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays {1}.)</text>
+Each other Angel you control gets +1/+0 and has ward {1}. (Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays {1}.)</text>
     </card>
     <card>
       <name>Inhabit Nowhere</name>
@@ -4062,8 +4060,8 @@ Whenever Seven-Coil’s Successor attacks for the first time each turn, untap an
       <tablerow>2</tablerow>
       <text>Flying</text>
       <token>1</token>
+      <reverse-related>Apostle Entheate</reverse-related>
       <reverse-related>Guided Crusader</reverse-related>
-      <reverse-related> Sunset Rite</reverse-related>
     </card>
     <card>
       <name>God Horror Token</name>
@@ -4122,6 +4120,8 @@ Whenever Seven-Coil’s Successor attacks for the first time each turn, untap an
       <reverse-related>Carapace Disciple</reverse-related>
       <reverse-related>The Chiliarch</reverse-related>
       <reverse-related>Debilitated Tragulari</reverse-related>
+      <reverse-related>The Old Forms</reverse-related>
+      <reverse-related>Ravenous Unmaker</reverse-related>
       <reverse-related>Wolven Hatred</reverse-related>
       <reverse-related>Horomachist Ending</reverse-related>
       <reverse-related>Nowhere Deathlord</reverse-related>
@@ -4195,7 +4195,7 @@ Whenever Seven-Coil’s Successor attacks for the first time each turn, untap an
       <reverse-related>The Allure&apos;s Light</reverse-related>
       <reverse-related>The Watchman</reverse-related>
       <reverse-related>Noonstone Amulet</reverse-related>
-      <reverse-related>The True Blood of Saint Janus</reverse-related>
+      <reverse-related>True Blood of Saint Janus</reverse-related>
     </card>
 
   </cards>
