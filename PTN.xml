@@ -493,11 +493,11 @@ When Roost Messengers enters the battlefield, you may search your library for a 
         <colors>R</colors>
         <manacost>3RR</manacost>
         <cmc>5</cmc>
-        <type>Sorcery</type>
-        <maintype>Sorcery</maintype>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
       </prop>
       <tablerow>3</tablerow>
-      <text>Callidate Invocation deals 5 damage to target creature or planeswalker. If you control a Sanctuary or God, induct. (Create a 0/1 Cleric creature token with “Sacrifice two other Clerics: Transform this creature.” It transforms into a 4/4 God Horror creature token that can’t block.)</text>
+      <text>Callidate Invocation deals 5 damage to target creature or planeswalker. Induct. (Create a 0/1 Cleric creature token with “Sacrifice two other Clerics: Transform this creature.” It transforms into a 4/4 God Horror creature token that can’t block.)</text>
     </card>
     <card>
       <name>Discover the Stone Gods</name>
@@ -585,7 +585,7 @@ GW, {T}: Return target land card from your graveyard to the battlefield tapped.<
       </prop>
       <tablerow>0</tablerow>
       <text>{T}: Add {C}.
-{2}, {T}, Exile target Sanctuary card in your graveyard: Target non-God creature becomes a God in addition to its other types. Put two +1/+1 counters on it. Activate only as a Sorcery.</text>
+{2}, {T}: Until end of turn, Target creature becomes a God in addition to its other types and gets +X/+X, where X is the number of Sanctuaries you control. Activate only as a sorcery.</text>
     </card>
     <card>
       <name>Sanctuary of Mysteries</name>
@@ -656,7 +656,8 @@ Whenever enchanted land becomes tapped, induct.” (Create a 0/1 Cleric creature
         <pt>4/3</pt>
       </prop>
       <tablerow>2</tablerow>
-      <text>When Thyrsine Hunter enters the battlefield, if you control a Sanctuary or there is a Sanctuary card in your graveyard, you may have it fight target creature. (Each deals damage equal to its power to the other.)</text>
+      <text>Reach
+When Thyrsine Hunter enters the battlefield, if you control a Sanctuary or there is a Sanctuary card in your graveyard, you may have it fight target creature. (Each deals damage equal to its power to the other.)</text>
     </card>
     <card>
       <name>Thyrsine Tracker</name>
@@ -833,7 +834,8 @@ When Sunshard Protector or another Angel enters the battlefield under your contr
         <pt>1/1</pt>
       </prop>
       <tablerow>2</tablerow>
-      <text>When Herald of Loss enters the battlefield, each opponent sends a foretold card or a card from their hand to the graveyard.</text>
+      <text>Reach
+When Herald of Loss enters the battlefield, each opponent sends a foretold card or a card from their hand to the graveyard.</text>
     </card>
     <card>
       <name>Nowhere Ascender</name>
@@ -1928,7 +1930,7 @@ As long as you control a God, you may cast Verse Aggress from your graveyard. Th
       </prop>
       <tablerow>3</tablerow>
       <text>Target creature you control gains hexproof until end of turn. If this spell was cast from exile, it gets +3/+3 until end of turn. 
-Foretell {G} (During your turn, you may pay {2} and exile this card from your hand face down. Cast it on a later turn for its foretell cost.)</text>
+Foretell {G} (During your turn, you may pay {2} and exile this card from your hand face down. Play it on a later turn for its foretell cost.)</text>
     </card>
     <card>
       <name>Student of Defiance</name>
@@ -2200,7 +2202,7 @@ As long as you control a God, you may cast Verse Change from your graveyard. The
         <pt>2/3</pt>
       </prop>
       <tablerow>2</tablerow>
-      <text>Trample
+      <text>Wandering Immolator has trample as long as you control a Sanctuary or God.
 1R: Wandering Immolator gets +1/+0 until end of turn.</text>
     </card>
     <card>
@@ -2474,10 +2476,10 @@ Gods you control have vigilance.</text>
         <maintype>Enchantment</maintype>
       </prop>
       <tablerow>1</tablerow>
-      <text>At the beginning of your upkeep, exile target card in a graveyard.
-Choose one —
-• That card becomes foretold. (Its foretell cost is its mana cost if it isn’t already specified.)
-• You gain 2 life.</text>
+      <text>At the beginning of your upkeep, choose two —
+• Exile target card in a graveyard.
+• You gain 2 life.
+• A card exiled by Legacy of Amber this turn becomes foretold. (Its foretell cost is its mana cost if it isn’t already specified.)</text>
     </card>
     <card>
       <name>Merciless Illumination</name>
@@ -2580,7 +2582,7 @@ Foretell {W} (During your turn, you may pay {2} and exile this card from your ha
       <tablerow>2</tablerow>
       <text>Flash
 When Greater Deceiver enters the battlefield, counter target artifact or creature spell.
-Foretell 2UU (During your turn, you may pay {2} and exile this card from your hand face down. Cast it on a later turn for its foretell cost.)</text>
+Foretell 2UU (During your turn, you may pay {2} and exile this card from your hand face down. Play it on a later turn for its foretell cost.)</text>
     </card>
     <card>
       <name>Expose Mortality</name>
@@ -2726,7 +2728,7 @@ Foretell 1U (During your turn, you may pay {2} and exile this card from your han
       <tablerow>2</tablerow>
       <text>Deathtouch
 Other Insects you control have deathtouch and “When this creature dies, you may mill two cards”.
-1BB, {T}: Exile target creature card in your graveyard. Create a token that’s a copy of it except its a 4/3 black Insect.</text>
+1BB, {T}, Exile target creature card in your graveyard: Target insect you control becomes a copy of the exile card.</text>
     </card>
     <card>
       <name>Crowned Ghoul</name>
@@ -2939,7 +2941,7 @@ Whenever a creature you control becomes blocked, you may have that creature deal
         <maintype>Instant</maintype>
       </prop>
       <tablerow>3</tablerow>
-      <text>Choose target creature you control, it gets +X/+0 until end of turn. Then, you may have it deals damage equal to its power to another target creature.</text>
+      <text>Target creature you control gets +X/+0 until end of turn. Then, you may have it deal damage equal to its power to another target creature.</text>
     </card>
     <card>
       <name>Corrivality</name>
@@ -3333,13 +3335,13 @@ When you sacrifice Ordeal of Defiance, you may have target creature you control 
       <set rarity="rare">PTN</set>
       <prop>
         <colors>G</colors>
-        <manacost>2GG</manacost>
-        <cmc>4</cmc>
+        <manacost>2G</manacost>
+        <cmc>3</cmc>
         <type>Enchantment</type>
         <maintype>Enchantment</maintype>
       </prop>
       <tablerow>1</tablerow>
-      <text>Whenever a creature enters the battlefield under your control, if it has the same name as a creature card in your graveyard, draw a card. Otherwise, mill two cards.</text>
+      <text>Whenever a creature enters the battlefield under your control, if it has the same name as a creature card in your graveyard, draw a card. Otherwise, mill a card.</text>
     </card>
     <card>
       <name>Yew-Horned Carapace</name>
@@ -3558,7 +3560,7 @@ If you would draw a card, instead mill three cards.
       </prop>
       <tablerow>1</tablerow>
       <text>The first time you cast a foretold spell each turn, induct. (Create a 0/1 Cleric creature token with “Sacrifice two other Clerics: Transform this creature.” It transforms into a 4/4 God Horror creature token that can’t block.)
-Foretell WU (During your turn, you may pay {2} and exile this card from your hand face down. Cast it on a later turn for its foretell cost.)</text>
+Foretell WU (During your turn, you may pay {2} and exile this card from your hand face down. Play it on a later turn for its foretell cost.)</text>
     </card>
     <card>
       <name>Breaching Vespera</name>
@@ -3595,7 +3597,7 @@ Menace</text>
         <colors>BR</colors>
         <manacost>3BR</manacost>
         <cmc>5</cmc>
-        <type>Legendary Creature - God Horror </type>
+        <type>Legendary Creature - Vampire God </type>
         <maintype>Creature</maintype>
         <pt>3/4</pt>
       </prop>
