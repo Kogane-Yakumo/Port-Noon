@@ -165,7 +165,7 @@
 	    {
 	        "name": "Silent Drowner",
 	        "rarity": "uncommon",
-	        "mana_cost": "{1}{U}{U}",
+	        "mana_cost": "{2}{U}",
 	        "type": "Creature — Merfolk Wizard ",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/Kogane-Yakumo/Port-Noon/main/PTN-files/Silent%20Drowner.png"
@@ -301,7 +301,7 @@
 	        "name": "Callidate Invocation",
 	        "rarity": "common",
 	        "mana_cost": "{3}{R}{R}",
-	        "type": "Sorcery",
+	        "type": "Instant",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/Kogane-Yakumo/Port-Noon/main/PTN-files/Callidate%20Invocation.png"
 	        }
@@ -519,7 +519,7 @@
 	        "name": "Root of Mercy",
 	        "rarity": "uncommon",
 	        "mana_cost": "{1}{W}",
-	        "type": "Sorcery",
+	        "type": "Instant",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/Kogane-Yakumo/Port-Noon/main/PTN-files/Root%20of%20Mercy.png"
 	        },
@@ -593,7 +593,7 @@
 	        "name": "Ring-Yew's Chosen",
 	        "rarity": "common",
 	        "mana_cost": "{1}{G}",
-	        "type": "Creature — Cleric Druid ",
+	        "type": "Creature — Human Cleric Druid ",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/Kogane-Yakumo/Port-Noon/main/PTN-files/Ring-Yew%27s%20Chosen.png"
 	        }
@@ -638,7 +638,7 @@
 	        "name": "Legacy of the Wheel",
 	        "rarity": "rare",
 	        "mana_cost": "{2}{U}{U}",
-	        "type": "Tribal Enchantment — God ",
+	        "type": "Kindred Enchantment — God ",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/Kogane-Yakumo/Port-Noon/main/PTN-files/Legacy%20of%20the%20Wheel.png"
 	        }
@@ -655,7 +655,7 @@
 	    {
 	        "name": "Ophidian Soul",
 	        "rarity": "rare",
-	        "mana_cost": "{1}{U}",
+	        "mana_cost": "{2}{U}",
 	        "type": "Creature — Snake Spirit ",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/Kogane-Yakumo/Port-Noon/main/PTN-files/Ophidian%20Soul.png"
@@ -674,7 +674,7 @@
 	        "name": "Opener of Realities",
 	        "rarity": "uncommon",
 	        "mana_cost": "{1}{U}",
-	        "type": "Creature — Cleric ",
+	        "type": "Creature — Shapeshifter Cleric ",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/Kogane-Yakumo/Port-Noon/main/PTN-files/Opener%20of%20Realities.png"
 	        },
@@ -792,7 +792,7 @@
 	        "name": "Tireless Recruiter",
 	        "rarity": "rare",
 	        "mana_cost": "{2}{G}",
-	        "type": "Creature — Cleric Scout ",
+	        "type": "Creature — Spirit Cleric Scout ",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/Kogane-Yakumo/Port-Noon/main/PTN-files/Tireless%20Recruiter.png"
 	        }
@@ -1418,7 +1418,7 @@
 	        "name": "Nowhere Wormhost",
 	        "rarity": "common",
 	        "mana_cost": "{2}{U}",
-	        "type": "Creature — Skeleton Guide ",
+	        "type": "Creature — Skeleton ",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/Kogane-Yakumo/Port-Noon/main/PTN-files/Nowhere%20Wormhost.png"
 	        },
@@ -1543,12 +1543,12 @@
 	        }
 	    },
 	    {
-	        "name": "Kindled Fury",
+	        "name": "Lessons of Strife",
 	        "rarity": "common",
 	        "mana_cost": "{R}",
 	        "type": "Instant",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Kogane-Yakumo/Port-Noon/main/PTN-files/Kindled%20Fury.png"
+	            "en": "https://raw.githubusercontent.com/Kogane-Yakumo/Port-Noon/main/PTN-files/Lessons%20of%20Strife.png"
 	        }
 	    },
 	    {
@@ -1573,7 +1573,7 @@
 	        "name": "Faceless Apprentice",
 	        "rarity": "uncommon",
 	        "mana_cost": "{1}",
-	        "type": "Creature — Cleric ",
+	        "type": "Creature — Shapeshifter Cleric ",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/Kogane-Yakumo/Port-Noon/main/PTN-files/Faceless%20Apprentice.png"
 	        }
@@ -1581,7 +1581,7 @@
 	    {
 	        "name": "The Horned-Axe",
 	        "rarity": "mythic",
-	        "mana_cost": "{4}",
+	        "mana_cost": "{5}",
 	        "type": "Legendary Creature — God ",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/Kogane-Yakumo/Port-Noon/main/PTN-files/The%20Horned-Axe.png"
@@ -1644,7 +1644,7 @@
 	    {
 	        "name": "Cat o'lic Priests",
 	        "rarity": "rare",
-	        "mana_cost": "{3}{W}",
+	        "mana_cost": "{1}{W}{W}",
 	        "type": "Creature — Cat Cleric ",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/Kogane-Yakumo/Port-Noon/main/PTN-files/Cat%20o%27lic%20Priests.png"
@@ -1663,7 +1663,7 @@
 	        "name": "Legacy of Amber",
 	        "rarity": "rare",
 	        "mana_cost": "{2}{W}{W}",
-	        "type": "Tribal Enchantment — God ",
+	        "type": "Kindred Enchantment — God ",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/Kogane-Yakumo/Port-Noon/main/PTN-files/Legacy%20of%20Amber.png"
 	        }
@@ -1743,27 +1743,17 @@
 	    {
 	        "name": "Mirrorwing Sphinx",
 	        "rarity": "rare",
-	        "mana_cost": "{4}{U}",
+	        "mana_cost": "{4}{U}{U}",
 	        "type": "Creature — Sphinx ",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/Kogane-Yakumo/Port-Noon/main/PTN-files/Mirrorwing%20Sphinx.png"
-	        },
-            "back": {
-            "name": "Scar Boon",
-            "image_uris": {
-                "en": "https://raw.githubusercontent.com/Kogane-Yakumo/Port-Noon/main/PTN-files/Scar%20Boon.png"
-            },
-            "type": "Boon",
-            "subtypes": [
-                ""
-            ]
-		}
+	        }
 	    },
 	    {
 	        "name": "Moonlit Augury",
 	        "rarity": "uncommon",
 	        "mana_cost": "{2}{U}",
-	        "type": "Instant",
+	        "type": "Enchantment",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/Kogane-Yakumo/Port-Noon/main/PTN-files/Moonlit%20Augury.png"
 	        }
@@ -1811,17 +1801,7 @@
 	        "type": "Creature — Insect Human ",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/Kogane-Yakumo/Port-Noon/main/PTN-files/Carapace%20Ancestor.png"
-	        },
-            "back": {
-            "name": "Scar Boon",
-            "image_uris": {
-                "en": "https://raw.githubusercontent.com/Kogane-Yakumo/Port-Noon/main/PTN-files/Scar%20Boon.png"
-            },
-            "type": "Boon",
-            "subtypes": [
-                ""
-            ]
-		}
+	        }
 	    },
 	    {
 	        "name": "Carapace Guardian",
@@ -1878,15 +1858,6 @@
 	        }
 	    },
 	    {
-	        "name": "Destructive Cyprian",
-	        "rarity": "rare",
-	        "mana_cost": "{B}",
-	        "type": "Creature — Vampire ",
-	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Kogane-Yakumo/Port-Noon/main/PTN-files/Destructive%20Cyprian.png"
-	        }
-	    },
-	    {
 	        "name": "Dream Whisperer",
 	        "rarity": "rare",
 	        "mana_cost": "{4}{B}{B}",
@@ -1908,7 +1879,7 @@
 	        "name": "Legacy of Tides",
 	        "rarity": "rare",
 	        "mana_cost": "{2}{B}{B}",
-	        "type": "Tribal Enchantment — God ",
+	        "type": "Kindred Enchantment — God ",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/Kogane-Yakumo/Port-Noon/main/PTN-files/Legacy%20of%20Tides.png"
 	        }
@@ -1925,7 +1896,7 @@
 	    {
 	        "name": "The Museum of Worms",
 	        "rarity": "mythic",
-	        "mana_cost": "{2}{B}",
+	        "mana_cost": "{1}{B}{B}",
 	        "type": "Legendary Artifact",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/Kogane-Yakumo/Port-Noon/main/PTN-files/The%20Museum%20of%20Worms.png"
@@ -1959,12 +1930,12 @@
 	        }
 	    },
 	    {
-	        "name": "Burst Open",
+	        "name": "Forces of Opening",
 	        "rarity": "rare",
-	        "mana_cost": "{1}{R}{R}",
+	        "mana_cost": "{2}{R}",
 	        "type": "Enchantment",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Kogane-Yakumo/Port-Noon/main/PTN-files/Burst%20Open.png"
+	            "en": "https://raw.githubusercontent.com/Kogane-Yakumo/Port-Noon/main/PTN-files/Forces%20of%20Opening.png"
 	        }
 	    },
 	    {
@@ -1997,8 +1968,8 @@
 	    {
 	        "name": "Ghirbi, the Gatekeeper",
 	        "rarity": "rare",
-	        "mana_cost": "{2}{R}",
-	        "type": "Legendary Artifact Creature — Human Wall ",
+	        "mana_cost": "{2}{R}{R}",
+	        "type": "Legendary Artifact Creature — Human Cleric Wall ",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/Kogane-Yakumo/Port-Noon/main/PTN-files/Ghirbi%2c%20the%20Gatekeeper.png"
 	        }
@@ -2022,12 +1993,12 @@
 	        }
 	    },
 	    {
-	        "name": "Ignite Soul",
+	        "name": "Foul Alteration",
 	        "rarity": "uncommon",
 	        "mana_cost": "{1}{R}{R}",
 	        "type": "Instant",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Kogane-Yakumo/Port-Noon/main/PTN-files/Ignite%20Soul.png"
+	            "en": "https://raw.githubusercontent.com/Kogane-Yakumo/Port-Noon/main/PTN-files/Foul%20Alteration.png"
 	        }
 	    },
 	    {
@@ -2043,7 +2014,7 @@
 	        "name": "Legacy of Flint",
 	        "rarity": "rare",
 	        "mana_cost": "{2}{R}{R}",
-	        "type": "Tribal Enchantment — God ",
+	        "type": "Kindred Enchantment — God ",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/Kogane-Yakumo/Port-Noon/main/PTN-files/Legacy%20of%20Flint.png"
 	        }
@@ -2052,7 +2023,7 @@
 	        "name": "Malleary Smelter",
 	        "rarity": "uncommon",
 	        "mana_cost": "{3}{R}",
-	        "type": "Creature — Cleric Artificer ",
+	        "type": "Creature — Shapeshifter Cleric Artificer ",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/Kogane-Yakumo/Port-Noon/main/PTN-files/Malleary%20Smelter.png"
 	        }
@@ -2064,15 +2035,6 @@
 	        "type": "Creature — Treefolk Elemental ",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/Kogane-Yakumo/Port-Noon/main/PTN-files/Malleary-Forged%20Yew.png"
-	        }
-	    },
-	    {
-	        "name": "Malleus Spark Amulet",
-	        "rarity": "rare",
-	        "mana_cost": "{1}{R}",
-	        "type": "Artifact — Equipment ",
-	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Kogane-Yakumo/Port-Noon/main/PTN-files/Malleus%20Spark%20Amulet.png"
 	        }
 	    },
 	    {
@@ -2112,12 +2074,12 @@
 	        }
 	    },
 	    {
-	        "name": "Self-Immolator",
+	        "name": "Smoldering Pack",
 	        "rarity": "uncommon",
 	        "mana_cost": "{2}{R}",
-	        "type": "Creature — Elemental Cleric ",
+	        "type": "Creature — Elemental Wolf ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Kogane-Yakumo/Port-Noon/main/PTN-files/Self-Immolator.png"
+	            "en": "https://raw.githubusercontent.com/Kogane-Yakumo/Port-Noon/main/PTN-files/Smoldering%20Pack.png"
 	        }
 	    },
 	    {
@@ -2215,7 +2177,7 @@
 	    {
 	        "name": "Flesh Weaver",
 	        "rarity": "uncommon",
-	        "mana_cost": "{3}{G}",
+	        "mana_cost": "{2}{G}{G}",
 	        "type": "Creature — Elk Horror ",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/Kogane-Yakumo/Port-Noon/main/PTN-files/Flesh%20Weaver.png"
@@ -2242,7 +2204,7 @@
 	    {
 	        "name": "Sendings of the Skin",
 	        "rarity": "rare",
-	        "mana_cost": "{2}{G}{G}",
+	        "mana_cost": "{2}{G}",
 	        "type": "Enchantment",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/Kogane-Yakumo/Port-Noon/main/PTN-files/Sendings%20of%20the%20Skin.png"
@@ -2296,19 +2258,19 @@
 		}
 	    },
 	    {
-	        "name": "Flee from History",
+	        "name": "Carapace Voyager",
 	        "rarity": "rare",
-	        "mana_cost": "{1}{G}",
-	        "type": "Instant",
+	        "mana_cost": "{G}",
+	        "type": "Creature — Insect Cleric ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Kogane-Yakumo/Port-Noon/main/PTN-files/Flee%20from%20History.png"
+	            "en": "https://raw.githubusercontent.com/Kogane-Yakumo/Port-Noon/main/PTN-files/Carapace%20Voyager.png"
 	        }
 	    },
 	    {
 	        "name": "Legacy of Coils",
 	        "rarity": "rare",
 	        "mana_cost": "{2}{G}{G}",
-	        "type": "Tribal Enchantment — God ",
+	        "type": "Kindred Enchantment — God ",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/Kogane-Yakumo/Port-Noon/main/PTN-files/Legacy%20of%20Coils.png"
 	        }
@@ -2360,12 +2322,12 @@
 	        }
 	    },
 	    {
-	        "name": "Imago of Fet",
+	        "name": "Carapace Root Herald",
 	        "rarity": "uncommon",
-	        "mana_cost": "{1}{B}{G}",
+	        "mana_cost": "{2}{B}{G}",
 	        "type": "Creature — Insect ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Kogane-Yakumo/Port-Noon/main/PTN-files/Imago%20of%20Fet.png"
+	            "en": "https://raw.githubusercontent.com/Kogane-Yakumo/Port-Noon/main/PTN-files/Carapace%20Root%20Herald.png"
 	        }
 	    },
 	    {
@@ -2389,25 +2351,25 @@
 	    {
 	        "name": "The Moth",
 	        "rarity": "mythic",
-	        "mana_cost": "{2}{B}{G}",
+	        "mana_cost": "{3}{B}{G}",
 	        "type": "Legendary Creature — Insect God ",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/Kogane-Yakumo/Port-Noon/main/PTN-files/The%20Moth.png"
 	        }
 	    },
 	    {
-	        "name": "Agonizing Existence",
+	        "name": "Acolyte of Agony",
 	        "rarity": "uncommon",
 	        "mana_cost": "{B}{R}",
-	        "type": "Enchantment",
+	        "type": "Creature — Human Warrior ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Kogane-Yakumo/Port-Noon/main/PTN-files/Agonizing%20Existence.png"
+	            "en": "https://raw.githubusercontent.com/Kogane-Yakumo/Port-Noon/main/PTN-files/Acolyte%20of%20Agony.png"
 	        }
 	    },
 	    {
 	        "name": "The Allure's Light",
 	        "rarity": "uncommon",
-	        "mana_cost": "{1}{W}{U}",
+	        "mana_cost": "{2}{W}{U}",
 	        "type": "Enchantment",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/Kogane-Yakumo/Port-Noon/main/PTN-files/The%20Allure%27s%20Light.png"
@@ -2435,7 +2397,7 @@
 	        "name": "Ezeem, the Second Thirstly",
 	        "rarity": "rare",
 	        "mana_cost": "{3}{B}{R}",
-	        "type": "Legendary Creature — God Horror ",
+	        "type": "Legendary Creature — Vampire God ",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/Kogane-Yakumo/Port-Noon/main/PTN-files/Ezeem%2c%20the%20Second%20Thirstly.png"
 	        }
@@ -2482,7 +2444,7 @@
 	        "mana_cost": "{W}{U}",
 	        "type": "Creature — Bird ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Kogane-Yakumo/Port-Noon/main/PTN-files/Roost%20Augur.png"
+	            "en": "https://raw.githubusercontent.com/Kogane-Yakumo/Port-Noon/main/PTN-files/%20Roost%20Augur.png"
 	        }
 	    },
 	    {
@@ -2506,7 +2468,7 @@
 	    {
 	        "name": "Teferi's Banishment",
 	        "rarity": "mythic",
-	        "mana_cost": "{W}{U}{U}",
+	        "mana_cost": "{1}{W}{U}",
 	        "type": "Instant",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/Kogane-Yakumo/Port-Noon/main/PTN-files/Teferi%27s%20Banishment.png"
@@ -2522,18 +2484,18 @@
 	        }
 	    },
 	    {
-	        "name": "Vision of Other Histories",
+	        "name": "Jekadu, Hooded Prince",
 	        "rarity": "uncommon",
 	        "mana_cost": "{2}{G}{U}",
-	        "type": "Enchantment",
+	        "type": "Legendary Creature — Serpent Noble ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Kogane-Yakumo/Port-Noon/main/PTN-files/Vision%20of%20Other%20Histories.png"
+	            "en": "https://raw.githubusercontent.com/Kogane-Yakumo/Port-Noon/main/PTN-files/Jekadu%2c%20Hooded%20Prince.png"
 	        }
 	    },
 	    {
 	        "name": "The Watchman",
 	        "rarity": "rare",
-	        "mana_cost": "{W}{U}",
+	        "mana_cost": "{2}{W}{U}",
 	        "type": "Legendary Creature — Human God ",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/Kogane-Yakumo/Port-Noon/main/PTN-files/The%20Watchman.png"
@@ -2701,19 +2663,55 @@
 	    {
 	        "name": "Apostle Entheate",
 	        "rarity": "rare",
-	        "mana_cost": "{3}{W}{W}",
+	        "mana_cost": "{4}{W}",
 	        "type": "Creature — Angel Cleric ",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/Kogane-Yakumo/Port-Noon/main/PTN-files/Apostle%20Entheate.png"
 	        }
 	    },
 	    {
-	        "name": "Seven-Coil’s Successor",
+	        "name": "Seven-Coil's Successor",
 	        "rarity": "rare",
 	        "mana_cost": "{2}{R}{R}{G}",
 	        "type": "Legendary Creature — Hydra Serpent ",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/Kogane-Yakumo/Port-Noon/main/PTN-files/Seven-Coil%27s%20Successor.png"
+	        }
+	    },
+	    {
+	        "name": "Glassgarden Watcheye",
+	        "rarity": "rare",
+	        "mana_cost": "{3}{W}",
+	        "type": "Creature — Human Cleric ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kogane-Yakumo/Port-Noon/main/PTN-files/Glassgarden%20Watcheye.png"
+	        }
+	    },
+	    {
+	        "name": "Roost Nyctodromist",
+	        "rarity": "rare",
+	        "mana_cost": "{2}{U}",
+	        "type": "Creature — Bird Cleric ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kogane-Yakumo/Port-Noon/main/PTN-files/Roost%20Nyctodromist.png"
+	        }
+	    },
+	    {
+	        "name": "Herald of Nowhere",
+	        "rarity": "rare",
+	        "mana_cost": "{4}{B}",
+	        "type": "Creature — Skeleton Cleric Warrior ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kogane-Yakumo/Port-Noon/main/PTN-files/Herald%20of%20Nowhere.png"
+	        }
+	    },
+	    {
+	        "name": "Malleary Augmenter",
+	        "rarity": "rare",
+	        "mana_cost": "{1}{R}",
+	        "type": "Creature — Elemental Cleric ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kogane-Yakumo/Port-Noon/main/PTN-files/Malleary%20Augmenter.png"
 	        }
 	    }
 	]
@@ -2771,32 +2769,30 @@
 		2 King Crucible
 		2 Tireless Recruiter
 		2 Planar Lockdown
-		2 Occult Explorer
 		2 Brought Back
 		2 Cat o'lic Priests
 		2 Legacy of Amber
 		2 Merciless Illumination
+		2 Occult Explorer
 		2 Mirrorwing Sphinx
 		2 Rite of Twins' Union
 		2 Seven-Coil's Scion
 		2 Zulfiya, Carapace Toxifier
 		2 Crowned Ghoul
-		2 Destructive Cyprian
 		2 Dream Whisperer
 		2 Legacy of Tides
 		2 Rite of Watchman's Sorrow
-		2 Burst Open
+		2 Forces of Opening
 		2 Carnal Thirst
 		2 Ghirbi, the Gatekeeper
 		2 Harsh Mentor
 		2 Ironsmoke Caligine
 		2 Legacy of Flint
-		2 Malleus Spark Amulet
 		2 Reshaping Phoenix
 		2 Sendings of the Skin
 		2 Yew-Horned Carapace
 		2 The Chiliarch
-		2 Flee from History
+		2 Carapace Voyager
 		2 Legacy of Coils
 		2 Life's Legacy
 		2 The Lionsmith
@@ -2807,7 +2803,11 @@
 		2 The Geminiad
 		2 True Blood of Saint Janus
 		2 Apostle Entheate
-		2 Seven-Coil’s Successor
+		2 Seven-Coil's Successor
+		2 Glassgarden Watcheye
+		2 Roost Nyctodromist
+		2 Herald of Nowhere
+		2 Malleary Augmenter
 		1 Glorious Enforcer
 		1 The Horned-Axe
 		1 The Crowned Growth
@@ -2857,9 +2857,9 @@
 		2 Faceless Apprentice
 		2 Mirrored Wolf
 		2 Misguiding Lighthouse
+		2 Horomachist Sacrifice
 		2 Banisher Priest
 		2 Guardian Percussigant
-		2 Horomachist Sacrifice
 		2 Rarefied Illuminator
 		2 The Sky, The Soul
 		2 Sun-Scorched Tempering
@@ -2879,12 +2879,12 @@
 		2 The Vitulation
 		2 Corrivality
 		2 Cyprian Sacristan
-		2 Ignite Soul
+		2 Foul Alteration
 		2 Malleary Smelter
 		2 Malleary-Forged Yew
 		2 Nowhere Razer
 		2 Preemptive Purge
-		2 Self-Immolator
+		2 Smoldering Pack
 		2 Unlucky Witness
 		2 Carapace Youngling
 		2 Flesh Weaver
@@ -2893,14 +2893,14 @@
 		2 Debilitated Tragulari
 		2 Ravenous Unmaker
 		2 Skaptodon Cub
-		2 Imago of Fet
+		2 Carapace Root Herald
 		2 Moth's Yearning
-		2 Agonizing Existence
+		2 Acolyte of Agony
 		2 The Allure's Light
 		2 Drowning Cyprian
 		2 Roost Augur
 		2 Spirit of Defiance
-		2 Vision of Other Histories
+		2 Jekadu, Hooded Prince
 		2 Wildfires of War
 		2 Wound the World
 		2 Horomachist Ending
@@ -2926,7 +2926,7 @@
 		2 Callidate Invocation
 		2 Crucible Rite
 		2 High Cyprian
-		2 Kindled Fury
+		2 Lessons of Strife
 		2 Malleary Seer
 		2 Open the Self
 		2 Raw Prophet
@@ -2963,7 +2963,7 @@
 		2 Callidate Invocation
 		2 Crucible Rite
 		2 High Cyprian
-		2 Kindled Fury
+		2 Lessons of Strife
 		2 Malleary Seer
 		2 Open the Self
 		2 Raw Prophet
@@ -3025,7 +3025,7 @@
 		2 Callidate Invocation
 		2 Crucible Rite
 		2 High Cyprian
-		2 Kindled Fury
+		2 Lessons of Strife
 		2 Malleary Seer
 		2 Open the Self
 		2 Raw Prophet
