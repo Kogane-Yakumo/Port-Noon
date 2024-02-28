@@ -1273,7 +1273,7 @@ Tap two creatures you control: Expeditionary Vessel becomes an artifact creature
         <maintype>Instant</maintype>
       </prop>
       <tablerow>3</tablerow>
-      <text>Exile target creature with mana value 3 or less. Its controller may induct. (Create a 0/1 Cleric creature token with “Sacrifice two other Clerics: Transform this creature.” It transforms into a 4/4 God Horror creature token that can’t block.)</text>
+      <text>Exile target creature with mana value 4 or less. Its controller may induct. (Create a 0/1 Cleric creature token with “Sacrifice two other Clerics: Transform this creature.” It transforms into a 4/4 God Horror creature token that can’t block.)</text>
     </card>
     <card>
       <name>Glassgarden Elder</name>
@@ -1842,7 +1842,7 @@ As long as you control a God, you may cast Verse Reshape from your graveyard. Th
       </prop>
       <tablerow>3</tablerow>
       <text>This spell has flash as long as it’s foretold.
-Subvert the Light deals 4 damage to target creature or planeswalker.
+Subvert the Light deals 3 damage to target creature or planeswalker.
 Foretell {R} (During your turn, you may pay {2} and exile this card from your hand face down. Play it on a later turn for its foretell cost.)</text>
     </card>
     <card>
@@ -2482,8 +2482,8 @@ Gods you control have vigilance.</text>
       <set rarity="rare">PTN</set>
       <prop>
         <colors>W</colors>
-        <manacost>3WW</manacost>
-        <cmc>5</cmc>
+        <manacost>4WW</manacost>
+        <cmc>6</cmc>
         <type>Sorcery</type>
         <maintype>Sorcery</maintype>
       </prop>
@@ -2491,7 +2491,7 @@ Gods you control have vigilance.</text>
       <text>Choose one —
 • Exile all creatures. 
 • Exile all artifacts and enchantments.
-WU: Discard Merciless Illumination: Exile the top card of your library face down. It becomes foretold. (Its foretell cost is its mana cost if it isn’t already specified.)</text>
+1W: Discard Merciless Illumination: Exile the top card of your library face down. It becomes foretold. (Its foretell cost is its mana cost if it isn’t already specified.)</text>
     </card>
     <card>
       <name>Occult Explorer</name>
@@ -2663,7 +2663,7 @@ Whenever you play a card from exile, put a +1/+1 counter on Seven-Coil Glider.</
         <pt>7/7</pt>
       </prop>
       <tablerow>2</tablerow>
-      <text>Ward {3} (Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays {3}.)
+      <text>Ward {2} (Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays {2}.)
 Whenever you attack, put a stun counter on target creature you don’t control.  (If a permanent with a stun counter would become untapped, remove one from it instead.)</text>
     </card>
     <card>
@@ -2722,8 +2722,8 @@ Foretell 1U (During your turn, you may pay {2} and exile this card from your han
       </prop>
       <tablerow>2</tablerow>
       <text>Deathtouch
-Insects you control have deathtouch.
-1BB, {T}: Exile target creature card from a graveyard. Target Insect you control becomes a copy of that card, except its still an Insect.</text>
+Other Insects you control have deathtouch.
+1BB, {T}: Exile target creature card from a graveyard. Target Insect you control becomes a copy of that card, except its still an Insect. Activate only during a player’s main phase. (This effect lasts indefinitely.)</text>
     </card>
     <card>
       <name>Crowned Ghoul</name>
@@ -2909,7 +2909,7 @@ At the beginning of your upkeep, each opponent loses 1 life and you gain 1 life.
       </prop>
       <tablerow>1</tablerow>
       <text>Whenever a creature you control deals damage combat damage to a player, exile the top card of that player’s library.
-Whenever one or more creatures you control become blocked, you may cast a spell from among cards exiled with it without paying its mana cost.</text>
+Whenever one or more creatures you control become blocked, you may cast a spell from among cards exiled with Forces of Opening without paying its mana cost.</text>
     </card>
     <card>
       <name>Carnal Thirst</name>
@@ -3532,7 +3532,7 @@ If you would draw a card, instead mill three cards.
         <maintype>Enchantment</maintype>
       </prop>
       <tablerow>1</tablerow>
-      <text>The first time you cast a foretold spell each turn, draw a card, gain 2 life, then induct. (Create a 0/1 Cleric creature token with “Sacrifice two other Clerics: Transform this creature.” It transforms into a 4/4 God Horror creature token that can’t block.)</text>
+      <text>Whenever you cast a foretold spell each turn, draw a card, gain 2 life, then induct. (Create a 0/1 Cleric creature token with “Sacrifice two other Clerics: Transform this creature.” It transforms into a 4/4 God Horror creature token that can’t block.)</text>
     </card>
     <card>
       <name>Breaching Vespera</name>
@@ -3737,7 +3737,7 @@ As long as you’ve drawn two or more cards, you may play an additional land thi
         <cmc>4</cmc>
         <type>Legendary Creature - Human God </type>
         <maintype>Creature</maintype>
-        <pt>2/4</pt>
+        <pt>4/3</pt>
       </prop>
       <tablerow>2</tablerow>
       <text>Whenever The Watchman becomes the target of a spell, you may exile a card from your hand face down, it becomes foretold. (Its foretell cost is its mana cost if it isn’t already specified.)
