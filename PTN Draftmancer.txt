@@ -2826,89 +2826,89 @@
 		1 The Wolf Divided
 		1 The Frangiclave
 	[Uncommon]
-		2 Dry-Soul Angel
-		2 Nowhere Deathlord
-		2 Nowhere Dreadsteed
-		2 Field of Ruin
-		2 Students of Rememberance
-		2 Silent Drowner
-		2 Nowhere Soul Collector
-		2 Yew Colossus
-		2 Percussigant
-		2 Places of Peace
-		2 Sanctuary of Mysteries
-		2 Occult Relocation
-		2 Thyrsine Hunter
-		2 Ragged Sun's Angel
-		2 Sunshard Protector
-		2 Root of Mercy
-		2 Ascent from Snakes
-		2 Lorescale Coatl
-		2 Map's Edge Monstrosity
-		2 Opener of Realities
-		2 Opener of Glass
-		2 Sister of Venoms
-		2 Ignus Rites
-		2 Forged Conflagration
-		2 Malleary Phantasm
-		2 Expeditionary Vessel
-		2 Scarring Servitude
-		2 Defacement
-		2 Faceless Apprentice
-		2 Mirrored Wolf
-		2 Misguiding Lighthouse
-		2 Horomachist Sacrifice
-		2 Banisher Priest
-		2 Guardian Percussigant
-		2 Rarefied Illuminator
-		2 The Sky, The Soul
-		2 Sun-Scorched Tempering
-		2 Eyes Everywhere
-		2 Greater Deceiver
-		2 Expose Mortality
-		2 Moonlit Augury
-		2 Seven-Coil Glider
-		2 Skin's Division
-		2 Carapace Ancestor
-		2 Carapace Guardian
-		2 Angel of Eclipse
-		2 Cyprian Haemomancer
-		2 Flesh Asunder
-		2 Monument of Rags
-		2 Throat of Remnants
-		2 The Vitulation
-		2 Corrivality
-		2 Cyprian Sacristan
-		2 Foul Alteration
-		2 Malleary Smelter
-		2 Malleary-Forged Yew
-		2 Nowhere Razer
-		2 Preemptive Purge
-		2 Smoldering Pack
-		2 Unlucky Witness
-		2 Carapace Youngling
-		2 Flesh Weaver
-		2 Ordeal of Defiance
-		2 Self-Snipping Dapple
-		2 Debilitated Tragulari
-		2 Ravenous Unmaker
-		2 Skaptodon Cub
-		2 Carapace Root Herald
-		2 Moth's Yearning
-		2 Acolyte of Agony
-		2 The Allure's Light
-		2 Drowning Cyprian
-		2 Roost Augur
-		2 Spirit of Defiance
-		2 Jekadu, Hooded Prince
-		2 Wildfires of War
-		2 Wound the World
-		2 Horomachist Ending
-		2 Ritual Daggar
-		2 Skycombing Nyctodromist
-		2 Vengeful Restorer
-		2 Inhabit Nowhere
-		2 Secluded Courtyard
+		3 Dry-Soul Angel
+		3 Nowhere Deathlord
+		3 Nowhere Dreadsteed
+		3 Field of Ruin
+		3 Students of Rememberance
+		3 Silent Drowner
+		3 Nowhere Soul Collector
+		3 Yew Colossus
+		3 Percussigant
+		3 Places of Peace
+		3 Sanctuary of Mysteries
+		3 Occult Relocation
+		3 Thyrsine Hunter
+		3 Ragged Sun's Angel
+		3 Sunshard Protector
+		3 Root of Mercy
+		3 Ascent from Snakes
+		3 Lorescale Coatl
+		3 Map's Edge Monstrosity
+		3 Opener of Realities
+		3 Opener of Glass
+		3 Sister of Venoms
+		3 Ignus Rites
+		3 Forged Conflagration
+		3 Malleary Phantasm
+		3 Expeditionary Vessel
+		3 Scarring Servitude
+		3 Defacement
+		3 Faceless Apprentice
+		3 Mirrored Wolf
+		3 Misguiding Lighthouse
+		3 Horomachist Sacrifice
+		3 Banisher Priest
+		3 Guardian Percussigant
+		3 Rarefied Illuminator
+		3 The Sky, The Soul
+		3 Sun-Scorched Tempering
+		3 Eyes Everywhere
+		3 Greater Deceiver
+		3 Expose Mortality
+		3 Moonlit Augury
+		3 Seven-Coil Glider
+		3 Skin's Division
+		3 Carapace Ancestor
+		3 Carapace Guardian
+		3 Angel of Eclipse
+		3 Cyprian Haemomancer
+		3 Flesh Asunder
+		3 Monument of Rags
+		3 Throat of Remnants
+		3 The Vitulation
+		3 Corrivality
+		3 Cyprian Sacristan
+		3 Foul Alteration
+		3 Malleary Smelter
+		3 Malleary-Forged Yew
+		3 Nowhere Razer
+		3 Preemptive Purge
+		3 Smoldering Pack
+		3 Unlucky Witness
+		3 Carapace Youngling
+		3 Flesh Weaver
+		3 Ordeal of Defiance
+		3 Self-Snipping Dapple
+		3 Debilitated Tragulari
+		3 Ravenous Unmaker
+		3 Skaptodon Cub
+		3 Carapace Root Herald
+		3 Moth's Yearning
+		3 Acolyte of Agony
+		3 The Allure's Light
+		3 Drowning Cyprian
+		3 Roost Augur
+		3 Spirit of Defiance
+		3 Jekadu, Hooded Prince
+		3 Wildfires of War
+		3 Wound the World
+		3 Horomachist Ending
+		3 Ritual Daggar
+		3 Skycombing Nyctodromist
+		3 Vengeful Restorer
+		3 Inhabit Nowhere
+		3 Secluded Courtyard
 	[A]
 		2 Nowhere Wormhost
 		2 Names of the Dead

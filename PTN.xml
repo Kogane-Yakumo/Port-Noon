@@ -429,7 +429,7 @@ Induct (Create a 0/1 Cleric creature token with “Sacrifice two other Clerics: 
       </prop>
       <tablerow>1</tablerow>
       <text>Enchant creature you don’t control
-When enchanted creature dies, put target creature card from a graveyard onto the battlefield under your control.</text>
+When enchanted creature dies, put target creature card with mana value X from a graveyard onto the battlefield under your control, where X is two plus enchanted creature’s mana value.</text>
     </card>
     <card>
       <name>Roost Messengers</name>
@@ -699,7 +699,7 @@ When Angel of the True Sun enters or whenever a Sanctuary you control is put int
         <cmc>4</cmc>
         <type>Creature - Angel Demon </type>
         <maintype>Creature</maintype>
-        <pt>2/3</pt>
+        <pt>2/2</pt>
       </prop>
       <tablerow>2</tablerow>
       <text>Flying
@@ -935,7 +935,7 @@ When Sky-Scar Angel enters, choose one —
         <cmc>4</cmc>
         <type>Legendary Creature - Insect God </type>
         <maintype>Creature</maintype>
-        <pt>3/4</pt>
+        <pt>3/3</pt>
       </prop>
       <tablerow>2</tablerow>
       <text>Whenever The Vagabond attacks, draw a card.
@@ -976,13 +976,13 @@ Foretell {U} (During your turn, you may pay {2} and exile this card from your ha
       <set rarity="rare">PTN</set>
       <prop>
         <colors>U</colors>
-        <manacost>2UU</manacost>
-        <cmc>4</cmc>
+        <manacost>2U</manacost>
+        <cmc>3</cmc>
         <type>Kindred Enchantment - God </type>
         <maintype>Enchantment</maintype>
       </prop>
       <tablerow>1</tablerow>
-      <text>When Legacy of the Wheel enters, exile all the cards in your hand face down, then draw that many cards plus two.
+      <text>When Legacy of the Wheel enters, exile all the cards in your hand face down, then draw that many cards plus one.
 Sacrifice Legacy of the Wheel: Shuffle your hand into your library, then return the exiled cards to their owner’s hand.</text>
     </card>
     <card>
@@ -1053,11 +1053,11 @@ Whenever Opener of Realities deals combat damage to a player, you get a Scar. (I
         <cmc>3</cmc>
         <type>Creature - Human Rogue </type>
         <maintype>Creature</maintype>
-        <pt>2/2</pt>
+        <pt>3/2</pt>
       </prop>
       <tablerow>2</tablerow>
       <text>Menace
-Whenever Opener of Glass becomes blocked by one or more creatures, it deals 2 damage to a creature blocking Opener of Glass.</text>
+Whenever Opener of Glass becomes blocked by one or more creatures, it deals 2 damage to target creature blocking Opener of Glass.</text>
     </card>
     <card>
       <name>Subverting Insurgent</name>
@@ -1573,7 +1573,7 @@ Exile target creature or enchantment.</text>
         <pt>3/3</pt>
       </prop>
       <tablerow>2</tablerow>
-      <text>At the beginning of combat on your turn, target creature you control gets +1/+0 and gains first strike until end of turn.</text>
+      <text>At the beginning of combat on your turn, target creature you control gets +2/+0 and gains first strike until end of turn.</text>
     </card>
     <card>
       <name>Glassgarden Prophet</name>
@@ -1610,13 +1610,13 @@ Enchanted creature gets +1/+1 and has vigilance.</text>
       <set rarity="common">PTN</set>
       <prop>
         <colors>W</colors>
-        <manacost>1WW</manacost>
-        <cmc>3</cmc>
+        <manacost>2WW</manacost>
+        <cmc>4</cmc>
         <type>Sorcery</type>
         <maintype>Sorcery</maintype>
       </prop>
       <tablerow>3</tablerow>
-      <text>Creatures you control get +2/+1 until end of turn.
+      <text>Creatures you control get +2/+2 until end of turn.
 As long as you control a God, you may cast Verse Illuminate from your graveyard. Then exile it.</text>
     </card>
     <card>
@@ -1741,7 +1741,7 @@ Foretell 1U (During your turn, you may pay {2} and exile this card from your han
       </prop>
       <tablerow>2</tablerow>
       <text>When Ancient Translator enters, if it was cast from exile, return target instant or sorcery card from your graveyard to your hand. 
-Foretell 2U (During your turn, you may pay {2} and exile this card from your hand face down. Play it on a later turn for its foretell cost.)</text>
+Foretell 1U (During your turn, you may pay {2} and exile this card from your hand face down. Play it on a later turn for its foretell cost.)</text>
     </card>
     <card>
       <name>Prison of Glass</name>
@@ -1916,7 +1916,7 @@ Target creature you control fights up to one target creature you don’t control
         <maintype>Sorcery</maintype>
       </prop>
       <tablerow>3</tablerow>
-      <text>Target creature must be blocked this turn if able. Put a +1/+1 counter on it.
+      <text>Target creature gets +1/+1 until end of turn and must be blocked this turn if able.
 As long as you control a God, you may cast Verse Aggress from your graveyard. Then exile it.</text>
     </card>
     <card>
@@ -2046,7 +2046,7 @@ Foretell 1B (During your turn, you may pay {2} and exile this card from your han
       </prop>
       <tablerow>2</tablerow>
       <text>Menace
-When Indulgent Cyprian enters induct. (Create a 0/1 Cleric creature token with “Sacrifice two other Clerics: Transform this creature.” It transforms into a 4/4 God Horror creature token that can’t block.)</text>
+When Indulgent Cyprian enters, induct. (Create a 0/1 Cleric creature token with “Sacrifice two other Clerics: Transform this creature.” It transforms into a 4/4 God Horror creature token that can’t block.)</text>
     </card>
     <card>
       <name>High Cyprian</name>
@@ -2060,7 +2060,7 @@ When Indulgent Cyprian enters induct. (Create a 0/1 Cleric creature token with �
         <pt>4/3</pt>
       </prop>
       <tablerow>2</tablerow>
-      <text>When High Cyprian enters, if an opponent lost life this turn, induct. (Create a 0/1 Cleric creature token with “Sacrifice two other Clerics: Transform this creature.” It transforms into a 4/4 God Horror creature token that can’t block.)</text>
+      <text>When High Cyprian enters, if a player lost life this turn, induct. (Create a 0/1 Cleric creature token with “Sacrifice two other Clerics: Transform this creature.” It transforms into a 4/4 God Horror creature token that can’t block.)</text>
     </card>
     <card>
       <name>Seaside Smuggler</name>
@@ -2141,7 +2141,7 @@ Whenever Dreamway Key deals combat damage to a player, untap up to one target cr
         <cmc>3</cmc>
         <type>Creature - Skeleton Insect </type>
         <maintype>Creature</maintype>
-        <pt>3/2</pt>
+        <pt>3/1</pt>
       </prop>
       <tablerow>2</tablerow>
       <text>When Carapace Scavenger enters, mill three cards.
@@ -2226,8 +2226,8 @@ As long as you control a God, you may cast Verse Change from your graveyard. The
         <colors>R</colors>
         <manacost>R</manacost>
         <cmc>1</cmc>
-        <type>Instant</type>
-        <maintype>Instant</maintype>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
       </prop>
       <tablerow>3</tablerow>
       <text>Exile the top card of your library. Until the end of your next turn, you may play that card.
@@ -2312,12 +2312,13 @@ Whenever Wood’s Devourer attacks, if you own a boon, put a +1/+1 counter on Wo
         <colors>G</colors>
         <manacost>2G</manacost>
         <cmc>3</cmc>
-        <type>Creature - Wolf </type>
+        <type>Creature - Wolf Spirit </type>
         <maintype>Creature</maintype>
-        <pt>2/2</pt>
+        <pt>1/1</pt>
       </prop>
       <tablerow>2</tablerow>
-      <text>When Wolf-Splinter dies, if it was attacking, create a 2/2 green Wolf creature token.</text>
+      <text>When Wolf-Splinter enters, create a 2/2 green Wolf creature token.
+Whenever Wolf-Splinter attacks, target attacking creature you control gains trample until end of turn.</text>
     </card>
     <card>
       <name>Faceless Apprentice</name>
@@ -2360,7 +2361,8 @@ When you cast The Horned-Axe, until your next turn, your life total can’t chan
         <pt>2/2</pt>
       </prop>
       <tablerow>2</tablerow>
-      <text>Whenever a nonbasic land enters under an opponent’s control, put a +1/+1 counter on Mirrored Wolf. It gains menace until your next end step. </text>
+      <text>Menace
+When Mirrored Wolf enters, if target opponent controls two or more nonbasic lands, put a +1/+1 counter on Mirrored Wolf.</text>
     </card>
     <card>
       <name>Misguiding Lighthouse</name>
@@ -2389,8 +2391,8 @@ When Misguiding Lighthouse enters, destroy target tapped artifact or creature an
       </prop>
       <tablerow>1</tablerow>
       <text>As Planar Lockdown enters, choose a card name.
-{3}: Counter target activated ability from a source with the chosen name.
-Players can’t cast planeswalker spells.</text>
+Activated abilities of sources with the chosen name cost {2} more to activate.
+Planeswalker spells cost {2} more to cast.</text>
     </card>
     <card>
       <name>Horomachist Sacrifice</name>
@@ -2404,8 +2406,8 @@ Players can’t cast planeswalker spells.</text>
         <pt>1/2</pt>
       </prop>
       <tablerow>2</tablerow>
-      <text>When Horomachist Sacrifice dies, you gain 3 life.
-{W}, Sacrifice Horomachist Sacrifice: Exile target noncreature artifact or noncreature enchantment.</text>
+      <text>When Horomachist Sacrifice dies, scry 1.
+1W, {T}, Sacrifice Horomachist Sacrifice: Destroy target noncreature artifact or noncreature enchantment.</text>
     </card>
     <card>
       <name>Banisher Priest</name>
@@ -2469,13 +2471,13 @@ Gods you control have vigilance.</text>
       <set rarity="rare">PTN</set>
       <prop>
         <colors>W</colors>
-        <manacost>2WW</manacost>
-        <cmc>4</cmc>
+        <manacost>2W</manacost>
+        <cmc>3</cmc>
         <type>Kindred Enchantment - God </type>
         <maintype>Enchantment</maintype>
       </prop>
       <tablerow>1</tablerow>
-      <text>At the beginning of your upkeep, you gain 2 life, then exile target card in a graveyard, you may have it become foretold. (Their foretell costs are their mana costs if they aren’t already specified.)</text>
+      <text>At the beginning of your end step, if a permanent you controlled left the battlefield this turn, exile target card in a graveyard, you may have it become foretold. (Their foretell costs are their mana costs if they aren’t already specified.)</text>
     </card>
     <card>
       <name>Merciless Illumination</name>
@@ -2765,11 +2767,11 @@ When The Crowned Growth dies, up to one target creature you control becomes a co
         <cmc>4</cmc>
         <type>Creature - Angel Cleric </type>
         <maintype>Creature</maintype>
-        <pt>2/3</pt>
+        <pt>2/2</pt>
       </prop>
       <tablerow>2</tablerow>
       <text>Flying
-Whenever Angel of Eclipse attacks, attacking Angels get +1/+1 until end of turn.</text>
+Whenever Angel of Eclipse attacks, other Angels you control get +1/+1 until end of turn.</text>
     </card>
     <card>
       <name>Cyprian Haemomancer</name>
@@ -2819,22 +2821,21 @@ Destroy target creature or planeswalker.</text>
       <set rarity="rare">PTN</set>
       <prop>
         <colors>B</colors>
-        <manacost>2BB</manacost>
-        <cmc>4</cmc>
+        <manacost>2B</manacost>
+        <cmc>3</cmc>
         <type>Kindred Enchantment - God </type>
         <maintype>Enchantment</maintype>
       </prop>
       <tablerow>1</tablerow>
-      <text>Whenever an opponent loses life, you may return target creature card with mana value less than or equal to the life lost from your graveyard to your hand. Do this only once during each of your turns.
-Whenever a creature you control dies, you gain 1 life.</text>
+      <text>Whenever an opponent loses life, you may return target creature card with mana value less than or equal to the life lost from your graveyard to your hand. Do this only once during each of your turns.</text>
     </card>
     <card>
       <name>Monument of Rags</name>
       <set rarity="uncommon">PTN</set>
       <prop>
         <colors>B</colors>
-        <manacost>3BB</manacost>
-        <cmc>5</cmc>
+        <manacost>2BB</manacost>
+        <cmc>4</cmc>
         <type>Artifact</type>
         <maintype>Artifact</maintype>
       </prop>
@@ -2958,7 +2959,7 @@ Whenever one or more creatures you control become blocked, you may cast a spell 
         <colors>R</colors>
         <manacost>2RR</manacost>
         <cmc>4</cmc>
-        <type>Legendary Artifact Creature - Human Cleric Wall </type>
+        <type>Legendary Artifact Creature - Cleric Wall </type>
         <maintype>Creature</maintype>
         <pt>1/4</pt>
       </prop>
@@ -3027,13 +3028,13 @@ Other creatures you control have “Ward—Pay 2 life.”</text>
       <set rarity="rare">PTN</set>
       <prop>
         <colors>R</colors>
-        <manacost>2RR</manacost>
-        <cmc>4</cmc>
+        <manacost>2R</manacost>
+        <cmc>3</cmc>
         <type>Kindred Enchantment - God </type>
         <maintype>Enchantment</maintype>
       </prop>
       <tablerow>1</tablerow>
-      <text>Whenever you attack, exile the top card of your library. Until end of turn, you may play that card.</text>
+      <text>Whenever one or more creatures you control deal combat damage to a player, exile the top card of your library. Until end of turn, you may play that card.</text>
     </card>
     <card>
       <name>Malleary Smelter</name>
@@ -3070,11 +3071,11 @@ Whenever Malleary-Forged Yew or a God you control attacks, it deals 1 damage to 
       <set rarity="uncommon">PTN</set>
       <prop>
         <colors>R</colors>
-        <manacost>2R</manacost>
+        <manacost>1RR</manacost>
         <cmc>3</cmc>
         <type>Creature - Skeleton </type>
         <maintype>Creature</maintype>
-        <pt>3/3</pt>
+        <pt>3/2</pt>
       </prop>
       <tablerow>2</tablerow>
       <text>Haste
@@ -3161,10 +3162,10 @@ You may cast this spell from your graveyard if you exiled one or more cards this
         <cmc>4</cmc>
         <type>Creature - Insect Warrior </type>
         <maintype>Creature</maintype>
-        <pt>3/3</pt>
+        <pt>4/3</pt>
       </prop>
       <tablerow>2</tablerow>
-      <text>At the beginning of your end step, if a creature card was put into your graveyard from anywhere this turn, put a +1/+1 counter on Carapace Crusader.</text>
+      <text>When Carapace Crusader enters, if a creature card was put into your graveyard from anywhere this turn, put a +1/+1 counter on Carapace Crusader.</text>
     </card>
     <card>
       <name>Carapace Disciple</name>
@@ -3303,13 +3304,13 @@ When you sacrifice Ordeal of Defiance, you may have target creature you control 
       <set rarity="rare">PTN</set>
       <prop>
         <colors>G</colors>
-        <manacost>2G</manacost>
-        <cmc>3</cmc>
+        <manacost>1G</manacost>
+        <cmc>2</cmc>
         <type>Enchantment</type>
         <maintype>Enchantment</maintype>
       </prop>
       <tablerow>1</tablerow>
-      <text>Whenever a creature enters under your control, if it has the same name as a creature card in your graveyard, draw a card. Otherwise, mill a card.</text>
+      <text>Whenever a creature enters under your control, if it has the same name as a creature card in your graveyard, draw a card. Otherwise, you may mill a card.</text>
     </card>
     <card>
       <name>Yew-Horned Carapace</name>
@@ -3378,15 +3379,15 @@ Boons you own trigger an additional time.</text>
       <set rarity="rare">PTN</set>
       <prop>
         <colors>G</colors>
-        <manacost>2GG</manacost>
-        <cmc>4</cmc>
+        <manacost>2G</manacost>
+        <cmc>3</cmc>
         <type>Kindred Enchantment - God </type>
         <maintype>Enchantment</maintype>
       </prop>
       <tablerow>1</tablerow>
       <text>At the beginning of combat on your turn, choose one —
-• Target creature gets +3/+3 until end of turn.
-• Creatures you control gain vigilance and trample until end of turn.</text>
+• Target creature gets +2/+2 until end of turn.
+• Creatures you control gain trample until end of turn.</text>
     </card>
     <card>
       <name>Life&apos;s Legacy</name>
@@ -3652,7 +3653,7 @@ Whenever an opponent loses 3 or more life, create an X/X God Horror creature tok
       </prop>
       <tablerow>2</tablerow>
       <text>Flying
-If you would draw a card, instead exile the top card of your library face down, it becomes foretold. (Its foretell cost is its mana cost if it isn’t already specified.)</text>
+If you would draw a card, you may instead exile the top card of your library face down, it becomes foretold. (Its foretell cost is its mana cost if it isn’t already specified.)</text>
     </card>
     <card>
       <name>Spirit of Defiance</name>
@@ -3858,7 +3859,8 @@ Equip—Discard a card.</text>
         <maintype>Artifact</maintype>
       </prop>
       <tablerow>1</tablerow>
-      <text>{T}: Add {C}. If that mana is spent on a creature spell, create a token that’s a copy of it except it’s a 1/1.</text>
+      <text>Spells your opponents cast from exile cost {2} more to cast.
+{T}: Add {C}. Induct. (Create a 0/1 Cleric creature token with “Sacrifice two other Clerics: Transform this creature.” It transforms into a 4/4 God Horror creature token that can’t block.)</text>
     </card>
     <card>
       <name>Ritual Daggar</name>
@@ -4018,7 +4020,8 @@ Whenever Seven-Coil’s Successor attacks for the first time each turn, untap an
         <pt>3/5</pt>
       </prop>
       <tablerow>2</tablerow>
-      <text>Whenever you sacrifice a Cleric, draw a card.</text>
+      <text>Whenever you sacrifice a Cleric, draw a card.
+{3}, Sacrifice a creature: Herald of Nowhere gets +1/+1 until end of turn.</text>
     </card>
     <card>
       <name>Malleary Augmenter</name>
