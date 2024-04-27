@@ -1662,7 +1662,7 @@
 	    {
 	        "name": "Legacy of Amber",
 	        "rarity": "rare",
-	        "mana_cost": "{2}{W}{W}",
+	        "mana_cost": "{2}{W}",
 	        "type": "Kindred Enchantment — God ",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/Kogane-Yakumo/Port-Noon/main/PTN-files/Legacy%20of%20Amber.png"
@@ -1878,7 +1878,7 @@
 	    {
 	        "name": "Legacy of Tides",
 	        "rarity": "rare",
-	        "mana_cost": "{2}{B}{B}",
+	        "mana_cost": "{2}{B}",
 	        "type": "Kindred Enchantment — God ",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/Kogane-Yakumo/Port-Noon/main/PTN-files/Legacy%20of%20Tides.png"
@@ -1887,7 +1887,7 @@
 	    {
 	        "name": "Monument of Rags",
 	        "rarity": "uncommon",
-	        "mana_cost": "{3}{B}{B}",
+	        "mana_cost": "{2}{B}{B}",
 	        "type": "Artifact",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/Kogane-Yakumo/Port-Noon/main/PTN-files/Monument%20of%20Rags.png"
@@ -2013,7 +2013,7 @@
 	    {
 	        "name": "Legacy of Flint",
 	        "rarity": "rare",
-	        "mana_cost": "{2}{R}{R}",
+	        "mana_cost": "{2}{R}",
 	        "type": "Kindred Enchantment — God ",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/Kogane-Yakumo/Port-Noon/main/PTN-files/Legacy%20of%20Flint.png"
@@ -2204,7 +2204,7 @@
 	    {
 	        "name": "Sendings of the Skin",
 	        "rarity": "rare",
-	        "mana_cost": "{2}{G}",
+	        "mana_cost": "{1}{G}",
 	        "type": "Enchantment",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/Kogane-Yakumo/Port-Noon/main/PTN-files/Sendings%20of%20the%20Skin.png"
@@ -2269,7 +2269,7 @@
 	    {
 	        "name": "Legacy of Coils",
 	        "rarity": "rare",
-	        "mana_cost": "{2}{G}{G}",
+	        "mana_cost": "{2}{G}",
 	        "type": "Kindred Enchantment — God ",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/Kogane-Yakumo/Port-Noon/main/PTN-files/Legacy%20of%20Coils.png"
@@ -2313,12 +2313,12 @@
 		}
 	    },
 	    {
-	        "name": "Skaptodon Cub",
+	        "name": "Splinter-Blossom",
 	        "rarity": "uncommon",
 	        "mana_cost": "{2}{G}",
-	        "type": "Creature — Cat ",
+	        "type": "Creature — Wolf Spirit",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Kogane-Yakumo/Port-Noon/main/PTN-files/Skaptodon%20Cub.png"
+	            "en": "https://raw.githubusercontent.com/Kogane-Yakumo/Port-Noon/main/PTN-files/Splinter-Blossom.png"
 	        }
 	    },
 	    {
@@ -2396,7 +2396,7 @@
 	    {
 	        "name": "Ezeem, the Second Thirstly",
 	        "rarity": "rare",
-	        "mana_cost": "{3}{B}{R}",
+	        "mana_cost": "{2}{B}{R}",
 	        "type": "Legendary Creature — Vampire God ",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/Kogane-Yakumo/Port-Noon/main/PTN-files/Ezeem%2c%20the%20Second%20Thirstly.png"
@@ -2450,7 +2450,7 @@
 	    {
 	        "name": "Spirit of Defiance",
 	        "rarity": "uncommon",
-	        "mana_cost": "{3}{R}{G}",
+	        "mana_cost": "{2}{R}{G}",
 	        "type": "Creature — Elemental Elk Horror ",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/Kogane-Yakumo/Port-Noon/main/PTN-files/Spirit%20of%20Defiance.png"
@@ -2477,7 +2477,7 @@
 	    {
 	        "name": "The Thunderskin",
 	        "rarity": "mythic",
-	        "mana_cost": "{4}{G}{W}",
+	        "mana_cost": "{2}{G}{W}",
 	        "type": "Legendary Creature — Human God ",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/Kogane-Yakumo/Port-Noon/main/PTN-files/The%20Thunderskin.png"
@@ -2663,7 +2663,7 @@
 	    {
 	        "name": "Apostle Entheate",
 	        "rarity": "rare",
-	        "mana_cost": "{4}{W}",
+	        "mana_cost": "{2}{W}{W}",
 	        "type": "Creature — Angel Cleric ",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/Kogane-Yakumo/Port-Noon/main/PTN-files/Apostle%20Entheate.png"
@@ -2672,7 +2672,7 @@
 	    {
 	        "name": "Seven-Coil's Successor",
 	        "rarity": "rare",
-	        "mana_cost": "{2}{R}{R}{G}",
+	        "mana_cost": "{2}{R}{G}",
 	        "type": "Legendary Creature — Hydra Serpent ",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/Kogane-Yakumo/Port-Noon/main/PTN-files/Seven-Coil%27s%20Successor.png"
@@ -2892,7 +2892,7 @@
 		3 Self-Snipping Dapple
 		3 Debilitated Tragulari
 		3 Ravenous Unmaker
-		3 Skaptodon Cub
+		3 Splinter-Blossom
 		3 Carapace Root Herald
 		3 Moth's Yearning
 		3 Acolyte of Agony
