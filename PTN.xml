@@ -1837,12 +1837,11 @@ As long as you control a God, you may cast Verse Reshape from your graveyard. Th
         <colors>R</colors>
         <manacost>1R</manacost>
         <cmc>2</cmc>
-        <type>Sorcery</type>
-        <maintype>Sorcery</maintype>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
       </prop>
       <tablerow>3</tablerow>
-      <text>This spell has flash as long as it’s foretold.
-Subvert the Light deals 3 damage to target creature or planeswalker.
+      <text>Subvert the Light deals 3 damage to any target. If this spell was cast from exile, it deals 4 damage instead.
 Foretell {R} (During your turn, you may pay {2} and exile this card from your hand face down. Play it on a later turn for its foretell cost.)</text>
     </card>
     <card>
