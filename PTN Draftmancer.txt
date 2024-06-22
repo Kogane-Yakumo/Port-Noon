@@ -816,6 +816,7 @@
 	        }
 	    },
 	    {
+	        "name": "Burgeoning Risen",
 	        "rarity": "common",
 	        "mana_cost": "{2}",
 	        "type": "Creature — Treefolk Zombie ",
