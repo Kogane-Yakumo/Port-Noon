@@ -3,7 +3,7 @@
 	        "name": "Dry-Soul Angel",
 	        "rarity": "uncommon",
 	        "mana_cost": "{2}{B}",
-	        "type": "Creature — Angel ",
+	        "type": "Creature — Skeleton Angel ",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/Kogane-Yakumo/Port-Noon/main/PTN-files/Dry-Soul%20Angel.png"
 	        }
@@ -345,7 +345,7 @@
 	    {
 	        "name": "The Ring-Yew",
 	        "rarity": "rare",
-	        "mana_cost": "{2}{G}{W}",
+	        "mana_cost": "{1}{G}{W}",
 	        "type": "Legendary Creature — Plant God ",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/Kogane-Yakumo/Port-Noon/main/PTN-files/The%20Ring-Yew.png"
@@ -388,12 +388,12 @@
 	        }
 	    },
 	    {
-	        "name": "Occult Relocation",
+	        "name": "Thyrsine Bindings",
 	        "rarity": "uncommon",
 	        "mana_cost": "{2}{G}",
 	        "type": "Enchantment — Aura ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Kogane-Yakumo/Port-Noon/main/PTN-files/Occult%20Relocation.png"
+	            "en": "https://raw.githubusercontent.com/Kogane-Yakumo/Port-Noon/main/PTN-files/Thyrsine%20Bindings.png"
 	        }
 	    },
 	    {
@@ -409,7 +409,7 @@
 	        "name": "Thyrsine Tracker",
 	        "rarity": "common",
 	        "mana_cost": "{1}{G}",
-	        "type": "Creature — Human Ranger ",
+	        "type": "Creature — Human Ranger Cleric ",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/Kogane-Yakumo/Port-Noon/main/PTN-files/Thyrsine%20Tracker.png"
 	        }
@@ -620,7 +620,7 @@
 	        "name": "Mountain of Evidence",
 	        "rarity": "common",
 	        "mana_cost": "{2}",
-	        "type": "Artifact Creature — Wall ",
+	        "type": "Artifact Creature — Wall Clue ",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/Kogane-Yakumo/Port-Noon/main/PTN-files/Mountain%20of%20Evidence.png"
 	        }
@@ -637,7 +637,7 @@
 	    {
 	        "name": "Legacy of the Wheel",
 	        "rarity": "rare",
-	        "mana_cost": "{2}{U}{U}",
+	        "mana_cost": "{2}{U}",
 	        "type": "Kindred Enchantment — God ",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/Kogane-Yakumo/Port-Noon/main/PTN-files/Legacy%20of%20the%20Wheel.png"
@@ -816,12 +816,11 @@
 	        }
 	    },
 	    {
-	        "name": "Shattered Risen",
 	        "rarity": "common",
 	        "mana_cost": "{2}",
-	        "type": "Creature — Zombie ",
+	        "type": "Creature — Treefolk Zombie ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Kogane-Yakumo/Port-Noon/main/PTN-files/Shattered%20Risen.png"
+	            "en": "https://raw.githubusercontent.com/Kogane-Yakumo/Port-Noon/main/PTN-files/Burgeoning%20Risen.png"
 	        }
 	    },
 	    {
@@ -1052,7 +1051,7 @@
 	    {
 	        "name": "Verse Illuminate",
 	        "rarity": "common",
-	        "mana_cost": "{1}{W}{W}",
+	        "mana_cost": "{2}{W}{W}",
 	        "type": "Sorcery",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/Kogane-Yakumo/Port-Noon/main/PTN-files/Verse%20Illuminate.png"
@@ -1089,7 +1088,7 @@
 	        "name": "Seven-Coil Shipbreaker",
 	        "rarity": "common",
 	        "mana_cost": "{4}{U}{U}",
-	        "type": "Creature — Elemental Serpent ",
+	        "type": "Creature — Serpent Horror ",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/Kogane-Yakumo/Port-Noon/main/PTN-files/Seven-Coil%20Shipbreaker.png"
 	        }
@@ -1207,7 +1206,7 @@
 	        "name": "Subvert the Light",
 	        "rarity": "common",
 	        "mana_cost": "{1}{R}",
-	        "type": "Sorcery",
+	        "type": "Instant",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/Kogane-Yakumo/Port-Noon/main/PTN-files/Subvert%20the%20Light.png"
 	        }
@@ -1373,7 +1372,7 @@
 	        "name": "Indulgent Cyprian",
 	        "rarity": "common",
 	        "mana_cost": "{2}{B}",
-	        "type": "Creature — Vampire Rogue ",
+	        "type": "Creature — Vampire Cleric ",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/Kogane-Yakumo/Port-Noon/main/PTN-files/Indulgent%20Cyprian.png"
 	        }
@@ -1409,7 +1408,7 @@
 	        "name": "Dreamway Key",
 	        "rarity": "common",
 	        "mana_cost": "{2}{U}",
-	        "type": "Creature — Spirit Cleric Shaman ",
+	        "type": "Creature — Bird Spirit ",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/Kogane-Yakumo/Port-Noon/main/PTN-files/Dreamway%20Key.png"
 	        }
@@ -1479,12 +1478,12 @@
 	        }
 	    },
 	    {
-	        "name": "Wandering Immolator",
+	        "name": "Wandering Unmaker",
 	        "rarity": "common",
 	        "mana_cost": "{2}{R}",
-	        "type": "Creature — Cat Cleric Shaman ",
+	        "type": "Creature — Shapeshifter Cleric ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Kogane-Yakumo/Port-Noon/main/PTN-files/Wandering%20Immolator.png"
+	            "en": "https://raw.githubusercontent.com/Kogane-Yakumo/Port-Noon/main/PTN-files/Wandering%20Unmaker.png"
 	        }
 	    },
 	    {
@@ -1500,7 +1499,7 @@
 	        "name": "Open the Self",
 	        "rarity": "common",
 	        "mana_cost": "{R}",
-	        "type": "Instant",
+	        "type": "Sorcery",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/Kogane-Yakumo/Port-Noon/main/PTN-files/Open%20the%20Self.png"
 	        },
@@ -1564,7 +1563,7 @@
 	        "name": "Wolf-Splinter",
 	        "rarity": "common",
 	        "mana_cost": "{2}{G}",
-	        "type": "Creature — Wolf ",
+	        "type": "Creature — Wolf Spirit ",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/Kogane-Yakumo/Port-Noon/main/PTN-files/Wolf-Splinter.png"
 	        }
@@ -1608,7 +1607,7 @@
 	    {
 	        "name": "Planar Lockdown",
 	        "rarity": "rare",
-	        "mana_cost": "{1}",
+	        "mana_cost": "{2}",
 	        "type": "Enchantment",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/Kogane-Yakumo/Port-Noon/main/PTN-files/Planar%20Lockdown.png"
@@ -1671,7 +1670,7 @@
 	    {
 	        "name": "Merciless Illumination",
 	        "rarity": "rare",
-	        "mana_cost": "{3}{W}{W}",
+	        "mana_cost": "{4}{W}{W}",
 	        "type": "Sorcery",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/Kogane-Yakumo/Port-Noon/main/PTN-files/Merciless%20Illumination.png"
@@ -1779,11 +1778,21 @@
 	    {
 	        "name": "Seven-Coil's Scion",
 	        "rarity": "rare",
-	        "mana_cost": "{5}{U}{U}",
+	        "mana_cost": "{3}{U}{U}",
 	        "type": "Creature — Leviathan Serpent ",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/Kogane-Yakumo/Port-Noon/main/PTN-files/Seven-Coil%27s%20Scion.png"
-	        }
+	        },
+            "back": {
+            "name": "Scar Boon",
+            "image_uris": {
+                "en": "https://raw.githubusercontent.com/Kogane-Yakumo/Port-Noon/main/PTN-files/Scar%20Boon.png"
+            },
+            "type": "Boon",
+            "subtypes": [
+                ""
+            ]
+		}
 	    },
 	    {
 	        "name": "Skin's Division",
@@ -1813,13 +1822,23 @@
 	        }
 	    },
 	    {
-	        "name": "Zulfiya, Carapace Toxifier",
+	        "name": "Nowhere Stygian",
 	        "rarity": "rare",
-	        "mana_cost": "{2}{B}{B}",
-	        "type": "Legendary Creature — Insect Warrior ",
+	        "mana_cost": "{3}{B}",
+	        "type": "Creature — Skeleton Wizard ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Kogane-Yakumo/Port-Noon/main/PTN-files/Zulfiya%2c%20Carapace%20Toxifier.png"
-	        }
+	            "en": "https://raw.githubusercontent.com/Kogane-Yakumo/Port-Noon/main/PTN-files/Nowhere%20Stygian.png"
+	        },
+            "back": {
+            "name": "Scar Boon",
+            "image_uris": {
+                "en": "https://raw.githubusercontent.com/Kogane-Yakumo/Port-Noon/main/PTN-files/Scar%20Boon.png"
+            },
+            "type": "Boon",
+            "subtypes": [
+                ""
+            ]
+		}
 	    },
 	    {
 	        "name": "Crowned Ghoul",
@@ -1840,18 +1859,18 @@
 	        }
 	    },
 	    {
-	        "name": "Angel of Eclipse",
+	        "name": "Tenacious Illuminator",
 	        "rarity": "uncommon",
 	        "mana_cost": "{3}{B}",
 	        "type": "Creature — Angel Cleric ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Kogane-Yakumo/Port-Noon/main/PTN-files/Angel%20of%20Eclipse.png"
+	            "en": "https://raw.githubusercontent.com/Kogane-Yakumo/Port-Noon/main/PTN-files/Tenacious%20Illuminator.png"
 	        }
 	    },
 	    {
 	        "name": "Cyprian Haemomancer",
 	        "rarity": "uncommon",
-	        "mana_cost": "{1}{B}",
+	        "mana_cost": "{B}",
 	        "type": "Creature — Vampire Cleric Wizard ",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/Kogane-Yakumo/Port-Noon/main/PTN-files/Cyprian%20Haemomancer.png"
@@ -1869,7 +1888,7 @@
 	    {
 	        "name": "Flesh Asunder",
 	        "rarity": "uncommon",
-	        "mana_cost": "{1}{B}{B}",
+	        "mana_cost": "{1}{B}",
 	        "type": "Instant",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/Kogane-Yakumo/Port-Noon/main/PTN-files/Flesh%20Asunder.png"
@@ -1969,7 +1988,7 @@
 	        "name": "Ghirbi, the Gatekeeper",
 	        "rarity": "rare",
 	        "mana_cost": "{2}{R}{R}",
-	        "type": "Legendary Artifact Creature — Human Cleric Wall ",
+	        "type": "Legendary Artifact Creature — Cleric Wall ",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/Kogane-Yakumo/Port-Noon/main/PTN-files/Ghirbi%2c%20the%20Gatekeeper.png"
 	        }
@@ -2029,18 +2048,18 @@
 	        }
 	    },
 	    {
-	        "name": "Malleary-Forged Yew",
+	        "name": "Malleary Reforged",
 	        "rarity": "uncommon",
 	        "mana_cost": "{3}{R}{R}",
-	        "type": "Creature — Treefolk Elemental ",
+	        "type": "Creature — Elemental Cleric ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Kogane-Yakumo/Port-Noon/main/PTN-files/Malleary-Forged%20Yew.png"
+	            "en": "https://raw.githubusercontent.com/Kogane-Yakumo/Port-Noon/main/PTN-files/Malleary%20Reforged.png"
 	        }
 	    },
 	    {
 	        "name": "Nowhere Razer",
 	        "rarity": "uncommon",
-	        "mana_cost": "{2}{R}",
+	        "mana_cost": "{1}{R}{R}",
 	        "type": "Creature — Skeleton ",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/Kogane-Yakumo/Port-Noon/main/PTN-files/Nowhere%20Razer.png"
@@ -2211,12 +2230,12 @@
 	        }
 	    },
 	    {
-	        "name": "Yew-Horned Carapace",
+	        "name": "Yew-Maw Cultivator",
 	        "rarity": "rare",
-	        "mana_cost": "{2}{G}",
-	        "type": "Creature — Insect Treefolk ",
+	        "mana_cost": "{2}{G}{G}",
+	        "type": "Creature — Treefolk Beast ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Kogane-Yakumo/Port-Noon/main/PTN-files/Yew-Horned%20Carapace.png"
+	            "en": "https://raw.githubusercontent.com/Kogane-Yakumo/Port-Noon/main/PTN-files/Yew-Maw%20Cultivator.png"
 	        }
 	    },
 	    {
@@ -2316,7 +2335,7 @@
 	        "name": "Splinter-Blossom",
 	        "rarity": "uncommon",
 	        "mana_cost": "{2}{G}",
-	        "type": "Creature — Wolf Spirit",
+	        "type": "Creature — Wolf Spirit ",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/Kogane-Yakumo/Port-Noon/main/PTN-files/Splinter-Blossom.png"
 	        }
@@ -2325,7 +2344,7 @@
 	        "name": "Carapace Root Herald",
 	        "rarity": "uncommon",
 	        "mana_cost": "{2}{B}{G}",
-	        "type": "Creature — Insect ",
+	        "type": "Creature — Insect Druid ",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/Kogane-Yakumo/Port-Noon/main/PTN-files/Carapace%20Root%20Herald.png"
 	        }
@@ -2451,7 +2470,7 @@
 	        "name": "Spirit of Defiance",
 	        "rarity": "uncommon",
 	        "mana_cost": "{2}{R}{G}",
-	        "type": "Creature — Elemental Elk Horror ",
+	        "type": "Creature — Elemental Wolf Horror ",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/Kogane-Yakumo/Port-Noon/main/PTN-files/Spirit%20of%20Defiance.png"
 	        }
@@ -2468,8 +2487,8 @@
 	    {
 	        "name": "Teferi's Banishment",
 	        "rarity": "mythic",
-	        "mana_cost": "{1}{W}{U}",
-	        "type": "Instant",
+	        "mana_cost": "{W}{U}",
+	        "type": "Enchantment",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/Kogane-Yakumo/Port-Noon/main/PTN-files/Teferi%27s%20Banishment.png"
 	        }
@@ -2508,7 +2527,17 @@
 	        "type": "Enchantment",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/Kogane-Yakumo/Port-Noon/main/PTN-files/Wildfires%20of%20War.png"
-	        }
+	        },
+            "back": {
+            "name": "Scar Boon",
+            "image_uris": {
+                "en": "https://raw.githubusercontent.com/Kogane-Yakumo/Port-Noon/main/PTN-files/Scar%20Boon.png"
+            },
+            "type": "Boon",
+            "subtypes": [
+                ""
+            ]
+		}
 	    },
 	    {
 	        "name": "The Witch-and-Sister",
@@ -2777,7 +2806,7 @@
 		2 Mirrorwing Sphinx
 		2 Rite of Twins' Union
 		2 Seven-Coil's Scion
-		2 Zulfiya, Carapace Toxifier
+		2 Nowhere Stygian
 		2 Crowned Ghoul
 		2 Dream Whisperer
 		2 Legacy of Tides
@@ -2790,7 +2819,7 @@
 		2 Legacy of Flint
 		2 Reshaping Phoenix
 		2 Sendings of the Skin
-		2 Yew-Horned Carapace
+		2 Yew-Maw Cultivator
 		2 The Chiliarch
 		2 Carapace Voyager
 		2 Legacy of Coils
@@ -2837,7 +2866,7 @@
 		3 Percussigant
 		3 Places of Peace
 		3 Sanctuary of Mysteries
-		3 Occult Relocation
+		3 Thyrsine Bindings
 		3 Thyrsine Hunter
 		3 Ragged Sun's Angel
 		3 Sunshard Protector
@@ -2871,7 +2900,7 @@
 		3 Skin's Division
 		3 Carapace Ancestor
 		3 Carapace Guardian
-		3 Angel of Eclipse
+		3 Tenacious Illuminator
 		3 Cyprian Haemomancer
 		3 Flesh Asunder
 		3 Monument of Rags
@@ -2881,7 +2910,7 @@
 		3 Cyprian Sacristan
 		3 Foul Alteration
 		3 Malleary Smelter
-		3 Malleary-Forged Yew
+		3 Malleary Reforged
 		3 Nowhere Razer
 		3 Preemptive Purge
 		3 Smoldering Pack
@@ -2998,14 +3027,14 @@
 		2 Entry Consultant
 		2 Malleary Novice
 		2 Stained Silver
-		2 Wandering Immolator
+		2 Wandering Unmaker
 		2 Carapace Crusader
 		2 Cartographed Risen
 		2 Seven-Coil Ambusher
 		2 Unceasing Initiation
 		2 Lost Seraph
 		2 Roost Messengers
-		2 Shattered Risen
+		2 Burgeoning Risen
 		2 Mountain of Evidence
 		2 Society Headquarters
 	[AC2]
@@ -3128,14 +3157,14 @@
 		3 Entry Consultant
 		3 Malleary Novice
 		3 Stained Silver
-		3 Wandering Immolator
+		3 Wandering Unmaker
 		3 Carapace Crusader
 		3 Cartographed Risen
 		3 Seven-Coil Ambusher
 		3 Unceasing Initiation
 		3 Lost Seraph
 		3 Roost Messengers
-		3 Shattered Risen
+		3 Burgeoning Risen
 		3 Mountain of Evidence
 		3 Society Headquarters
 	[BC2]
@@ -3197,14 +3226,14 @@
 		2 Entry Consultant
 		2 Malleary Novice
 		2 Stained Silver
-		2 Wandering Immolator
+		2 Wandering Unmaker
 		2 Carapace Crusader
 		2 Cartographed Risen
 		2 Seven-Coil Ambusher
 		2 Unceasing Initiation
 		2 Lost Seraph
 		2 Roost Messengers
-		2 Shattered Risen
+		2 Burgeoning Risen
 		2 Mountain of Evidence
 		2 Society Headquarters
 	[C2]
