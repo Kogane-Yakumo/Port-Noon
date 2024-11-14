@@ -102,7 +102,7 @@
 	    {
 	        "name": "The Vagabond",
 	        "rarity": "rare",
-	        "mana_cost": "{2}{G}{U}",
+	        "mana_cost": "{X}{1}{G}{U}",
 	        "type": "Legendary Creature — Insect God ",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/Kogane-Yakumo/Port-Noon/main/PTN-files/The%20Vagabond.png"
@@ -538,12 +538,12 @@
 	        }
 	    },
 	    {
-	        "name": "PTN Iron Verdict",
+	        "name": "Iron Verdict",
 	        "rarity": "common",
 	        "mana_cost": "{2}{W}",
 	        "type": "Instant",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Kogane-Yakumo/Port-Noon/main/PTN-files/PTN%20Iron%20Verdict.png"
+	            "en": "https://raw.githubusercontent.com/Kogane-Yakumo/Port-Noon/main/PTN-files/Iron%20Verdict.png"
 	        }
 	    },
 	    {
@@ -747,7 +747,7 @@
 	    {
 	        "name": "The Museum of Worms",
 	        "rarity": "mythic",
-	        "mana_cost": "{1}{B}{B}",
+	        "mana_cost": "{1}{B}",
 	        "type": "Legendary Artifact",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/Kogane-Yakumo/Port-Noon/main/PTN-files/The%20Museum%20of%20Worms.png"
@@ -1145,7 +1145,7 @@
 	    {
 	        "name": "The Chiliarch",
 	        "rarity": "mythic",
-	        "mana_cost": "{4}{G}{U}",
+	        "mana_cost": "{2}{G}{U}",
 	        "type": "Legendary Creature — Human God ",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/Kogane-Yakumo/Port-Noon/main/PTN-files/The%20Chiliarch.png"
@@ -1164,7 +1164,7 @@
 	    {
 	        "name": "The Lionsmith",
 	        "rarity": "rare",
-	        "mana_cost": "{2}{G}{G}",
+	        "mana_cost": "{2}{R}{R}",
 	        "type": "Legendary Creature — Cat God ",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/Kogane-Yakumo/Port-Noon/main/PTN-files/The%20Lionsmith.png"
@@ -1191,7 +1191,7 @@
 	    {
 	        "name": "The Watchman",
 	        "rarity": "rare",
-	        "mana_cost": "{2}{W}{U}",
+	        "mana_cost": "{1}{W}{U}",
 	        "type": "Legendary Creature — Human God ",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/Kogane-Yakumo/Port-Noon/main/PTN-files/The%20Watchman.png"
@@ -1466,7 +1466,7 @@
 	    {
 	        "name": "The Allure's Light",
 	        "rarity": "uncommon",
-	        "mana_cost": "{2}{W}{U}",
+	        "mana_cost": "{W}{U}",
 	        "type": "Enchantment",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/Kogane-Yakumo/Port-Noon/main/PTN-files/The%20Allure%27s%20Light.png"
@@ -1627,21 +1627,21 @@
 	        }
 	    },
 	    {
-	        "name": "Mirrorwing Sphinx",
+	        "name": "Evening Isles Gravemouth",
 	        "rarity": "rare",
-	        "mana_cost": "{1}{U}{U}",
-	        "type": "Creature — Sphinx ",
+	        "mana_cost": "{3}{U}",
+	        "type": "Creature — Human Cleric Shaman ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Kogane-Yakumo/Port-Noon/main/PTN-files/Mirrorwing%20Sphinx.png"
+	            "en": "https://raw.githubusercontent.com/Kogane-Yakumo/Port-Noon/main/PTN-files/Evening%20Isles%20Gravemouth.png"
 	        }
 	    },
 	    {
-	        "name": "PTN Augury Raven",
+	        "name": "Augury Raven",
 	        "rarity": "common",
 	        "mana_cost": "{3}{U}",
 	        "type": "Creature — Bird ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Kogane-Yakumo/Port-Noon/main/PTN-files/PTN%20Augury%20Raven.png"
+	            "en": "https://raw.githubusercontent.com/Kogane-Yakumo/Port-Noon/main/PTN-files/Augury%20Raven.png"
 	        }
 	    },
 	    {
@@ -1683,7 +1683,7 @@
 	    {
 	        "name": "Map's Edge Monstrosity",
 	        "rarity": "uncommon",
-	        "mana_cost": "{7}{U}",
+	        "mana_cost": "{6}{U}{U}",
 	        "type": "Creature — Kraken Horror ",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/Kogane-Yakumo/Port-Noon/main/PTN-files/Map%27s%20Edge%20Monstrosity.png"
@@ -1819,12 +1819,12 @@
 	        }
 	    },
 	    {
-	        "name": "Skycombing Nyctodromist",
+	        "name": "Evening Isles Skycomber",
 	        "rarity": "uncommon",
 	        "mana_cost": "{1}{U}",
 	        "type": "Creature — Human Cleric Wizard ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Kogane-Yakumo/Port-Noon/main/PTN-files/Skycombing%20Nyctodromist.png"
+	            "en": "https://raw.githubusercontent.com/Kogane-Yakumo/Port-Noon/main/PTN-files/Evening%20Isles%20Skycomber.png"
 	        }
 	    },
 	    {
@@ -1927,12 +1927,12 @@
 	        }
 	    },
 	    {
-	        "name": "Herald of Nowhere",
+	        "name": "Dyad's Dance",
 	        "rarity": "rare",
-	        "mana_cost": "{4}{B}",
-	        "type": "Creature — Skeleton Cleric Warrior ",
+	        "mana_cost": "{2}{G}",
+	        "type": "Sorcery ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Kogane-Yakumo/Port-Noon/main/PTN-files/Herald%20of%20Nowhere.png"
+	            "en": "https://raw.githubusercontent.com/Kogane-Yakumo/Port-Noon/main/PTN-files/Dyad's%20Dance.png"
 	        }
 	    },
 	    {
@@ -2066,7 +2066,7 @@
 	    {
 	        "name": "Entry Consultant",
 	        "rarity": "common",
-	        "mana_cost": "{4}{R}{R}",
+	        "mana_cost": "{5}{R}",
 	        "type": "Creature — Human Wizard ",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/Kogane-Yakumo/Port-Noon/main/PTN-files/Entry%20Consultant.png"
@@ -2275,7 +2275,7 @@
 	    {
 	        "name": "Debilitated Tragulari",
 	        "rarity": "uncommon",
-	        "mana_cost": "{1}{G}",
+	        "mana_cost": "{2}{G}",
 	        "type": "Creature — Cat Warrior ",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/Kogane-Yakumo/Port-Noon/main/PTN-files/Debilitated%20Tragulari.png"
@@ -2348,21 +2348,21 @@
 		}
 	    },
 	    {
-	        "name": "Self-Snipping Dapple",
+	        "name": "Dappled Wing-Clippers",
 	        "rarity": "uncommon",
 	        "mana_cost": "{1}{G}",
 	        "type": "Creature — Insect Cleric ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Kogane-Yakumo/Port-Noon/main/PTN-files/Self-Snipping%20Dapple.png"
+	            "en": "https://raw.githubusercontent.com/Kogane-Yakumo/Port-Noon/main/PTN-files/Dappled%20Wing-Clippers.png"
 	        }
 	    },
 	    {
-	        "name": "Sendings of the Skin",
+	        "name": "Musician's Remnant",
 	        "rarity": "rare",
-	        "mana_cost": "{2}{G}",
+	        "mana_cost": "{2}{G}{G}",
 	        "type": "Enchantment",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Kogane-Yakumo/Port-Noon/main/PTN-files/Sendings%20of%20the%20Skin.png"
+	            "en": "https://raw.githubusercontent.com/Kogane-Yakumo/Port-Noon/main/PTN-files/Musician's%20Remnant.png"
 	        }
 	    },
 	    {
@@ -2377,19 +2377,19 @@
 	    {
 	        "name": "Splinter-Blossom",
 	        "rarity": "uncommon",
-	        "mana_cost": "{2}{G}",
+	        "mana_cost": "{1}{G}",
 	        "type": "Creature — Wolf Spirit ",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/Kogane-Yakumo/Port-Noon/main/PTN-files/Splinter-Blossom.png"
 	        }
 	    },
 	    {
-	        "name": "Student of Defiance",
+	        "name": "Pupil of Defiance",
 	        "rarity": "common",
 	        "mana_cost": "{2}{G}",
 	        "type": "Creature — Cat Cleric Monk ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Kogane-Yakumo/Port-Noon/main/PTN-files/Student%20of%20Defiance.png"
+	            "en": "https://raw.githubusercontent.com/Kogane-Yakumo/Port-Noon/main/PTN-files/Pupil%20of%20Defiance.png"
 	        }
 	    },
 	    {
@@ -2465,12 +2465,12 @@
 	        }
 	    },
 	    {
-	        "name": "Yew-Maw Cultivator",
+	        "name": "Territorial Yew-Maw",
 	        "rarity": "rare",
 	        "mana_cost": "{2}{G}{G}",
 	        "type": "Creature — Treefolk Beast ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Kogane-Yakumo/Port-Noon/main/PTN-files/Yew-Maw%20Cultivator.png"
+	            "en": "https://raw.githubusercontent.com/Kogane-Yakumo/Port-Noon/main/PTN-files/Territorial%20Yew-Maw.png"
 	        }
 	    },
 	    {
@@ -2503,7 +2503,7 @@
 	    {
 	        "name": "Breaching Vespera",
 	        "rarity": "mythic",
-	        "mana_cost": "{2}{U}{B}{B}",
+	        "mana_cost": "{3}{U}{B}",
 	        "type": "Sorcery",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/Kogane-Yakumo/Port-Noon/main/PTN-files/Breaching%20Vespera.png"
@@ -2744,13 +2744,13 @@
 		2 Apostle Entheate
 		2 Cat o'lic Priests
 		2 Merciless Illumination
-		2 Mirrorwing Sphinx
+		2 Evening Isles Gravemouth
 		2 Devoured Messenger
 		2 Ophidian Soul
-		2 Roost Nyctodromist
+		2 Painted Distorter
 		2 Seven-Coil's Scion
 		2 Dream Whisperer
-		2 Herald of Nowhere
+		2 Dyad's Dance
 		2 Nowhere Stygian
 		2 Rite of Watchman's Sorrow
 		2 Forces of Opening
@@ -2758,9 +2758,9 @@
 		2 Ironsmoke Caligine
 		2 Malleary Augmenter
 		2 Carapace Voyager
-		2 Sendings of the Skin
+		2 Musician's Remnant
 		2 Wildest Dreams
-		2 Yew-Maw Cultivator
+		2 Territorial Yew-Maw
 		2 Seven-Coil's Successor
 		1 The Horned-Axe
 		1 The Crowned Growth
@@ -2771,7 +2771,7 @@
 		1 The Witch-and-Sister
 		1 The Wolf Divided
 		1 The Frangiclave
-		1 The Museum of Worms
+		2 The Museum of Worms
 		1 Rite Intercalate
 		1 The Moth
 		1 The Chiliarch
@@ -2816,13 +2816,13 @@
 		3 Seven-Coil Glider
 		3 Expose Mortality
 		3 Eyes Everywhere
-		3 Painted Distorter
+		3 Roost Nyctodromist
 		3 Map's Edge Monstrosity
 		3 Moonlit Augury
 		3 Nowhere Soul Collector
 		3 Opener of Realities
 		3 Silent Drowner
-		3 Skycombing Nyctodromist
+		3 Evening Isles Skycomber
 		3 Carapace Guardian
 		3 Cyprian Haemomancer
 		3 Monument of Rags
@@ -2839,7 +2839,7 @@
 		3 Flesh Weaver
 		3 Ordeal of Defiance
 		3 Ravenous Unmaker
-		3 Self-Snipping Dapple
+		3 Dappled Wing-Clippers
 		3 Splinter-Blossom
 		3 Thyrsine Hunter
 		3 Tireless Recruiter
@@ -2891,7 +2891,7 @@
 		2 Map's Edge Explorer
 		2 The Old Forms
 		2 Ring-Yew's Chosen
-		2 Student of Defiance
+		2 Pupil of Defiance
 		2 Thyrsine Tracker
 		2 Verse Aggress
 		2 Way to the Wood
@@ -2928,7 +2928,7 @@
 		2 Map's Edge Explorer
 		2 The Old Forms
 		2 Ring-Yew's Chosen
-		2 Student of Defiance
+		2 Pupil of Defiance
 		2 Thyrsine Tracker
 		2 Verse Aggress
 		2 Way to the Wood
@@ -2989,7 +2989,7 @@
 		2 Map's Edge Explorer
 		2 The Old Forms
 		2 Ring-Yew's Chosen
-		2 Student of Defiance
+		2 Pupil of Defiance
 		2 Thyrsine Tracker
 		2 Verse Aggress
 		2 Way to the Wood
@@ -2997,8 +2997,8 @@
 		2 Wolf-Splinter
 		2 Bringer of Glory
 		2 Unscarred Wolf
-		2 PTN Iron Verdict
-		2 PTN Augury Raven
+		2 Iron Verdict
+		2 Augury Raven
 		2 Sea's Feasting
 		2 Seven-Coil Shipbreaker
 		2 Sky-Scar Angel
@@ -3114,8 +3114,8 @@
 		3 Wood's Deceiver
 		3 Bringer of Glory
 		3 Unscarred Wolf
-		3 PTN Iron Verdict
-		3 PTN Augury Raven
+		3 Iron Verdict
+		3 Augury Raven
 		3 Sea's Feasting
 		3 Seven-Coil Shipbreaker
 		3 Sky-Scar Angel
@@ -3158,8 +3158,8 @@
 	[C2]
 		3 Bringer of Glory
 		3 Unscarred Wolf
-		3 PTN Iron Verdict
-		3 PTN Augury Raven
+		3 Iron Verdict
+		3 Augury Raven
 		3 Sea's Feasting
 		3 Seven-Coil Shipbreaker
 		3 Sky-Scar Angel
