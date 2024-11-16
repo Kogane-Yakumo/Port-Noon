@@ -2510,12 +2510,12 @@
 	        }
 	    },
 	    {
-	        "name": "Carapace Root Herald",
+	        "name": "Carapace Shell-Burster",
 	        "rarity": "uncommon",
 	        "mana_cost": "{2}{B}{G}",
 	        "type": "Creature — Insect Druid ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Kogane-Yakumo/Port-Noon/main/PTN-files/Carapace%20Root%20Herald.png"
+	            "en": "https://raw.githubusercontent.com/Kogane-Yakumo/Port-Noon/main/PTN-files/Carapace%20Shell-Burster.png"
 	        }
 	    },
 	    {
@@ -2845,7 +2845,7 @@
 		3 Tireless Recruiter
 		3 Yew Colossus
 		3 Study the Histories
-		3 Carapace Root Herald
+		3 Carapace Shell-Burster
 		3 Drowning Cyprian
 		3 Horomachist Ending
 		3 Lorescale Coatl
