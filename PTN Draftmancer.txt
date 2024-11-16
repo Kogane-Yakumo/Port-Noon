@@ -1723,17 +1723,7 @@
 	        "type": "Creature — Skeleton ",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/Kogane-Yakumo/Port-Noon/main/PTN-files/Nowhere%20Wormhost.png"
-	        },
-            "back": {
-            "name": "Scar Boon",
-            "image_uris": {
-                "en": "https://raw.githubusercontent.com/Kogane-Yakumo/Port-Noon/main/PTN-files/Scar%20Boon.png"
-            },
-            "type": "Boon",
-            "subtypes": [
-                ""
-            ]
-		}
+	        }
 	    },
 	    {
 	        "name": "Opener of Realities",
