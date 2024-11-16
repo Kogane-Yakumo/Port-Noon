@@ -2457,7 +2457,7 @@
 	    {
 	        "name": "Territorial Yew-Maw",
 	        "rarity": "rare",
-	        "mana_cost": "{2}{G}{G}",
+	        "mana_cost": "{1}{G}{G}",
 	        "type": "Creature — Treefolk Beast ",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/Kogane-Yakumo/Port-Noon/main/PTN-files/Territorial%20Yew-Maw.png"

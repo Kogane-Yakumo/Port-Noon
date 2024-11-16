@@ -796,10 +796,10 @@ Enchanted creature can’t attack, block, or be sacrificed.</text>
         <cmc>4</cmc>
         <type>Creature - Human Artificer </type>
         <maintype>Creature</maintype>
-        <pt>3/3</pt>
+        <pt>2/4</pt>
       </prop>
       <tablerow>2</tablerow>
-      <text>At the beginning of combat on your turn, target creature you control gets +2/+0 and gains first strike until end of turn.</text>
+      <text>Whenever Forge Secretkeeper attacks, target creature you control gets +1/+0 and gains first strike until end of turn.</text>
     </card>
     <card>
       <name>Glass Guardian</name>
@@ -3360,7 +3360,7 @@ When Debilitated Tragulari enters, choose two target creatures controlled by dif
         <colors>G</colors>
         <manacost>2GG</manacost>
         <cmc>4</cmc>
-        <type>Creature - Elk Horror </type>
+        <type>Creature - Insect </type>
         <maintype>Creature</maintype>
         <pt>4/4</pt>
       </prop>
@@ -3380,7 +3380,7 @@ Whenever Flesh Weaver attacks, you gain 1 life, surveil 1.
         <maintype>Instant</maintype>
       </prop>
       <tablerow>3</tablerow>
-      <text>Until end of turn, target creature gets +3/+3 and gains “Whenever this creature attacks, you get a Scar.” (It’s a boon with “When a creature you control dies, you may pay {1}. If you do, draw a card.”)</text>
+      <text>Until end of turn, target creature gets +3/+3 and gains “Whenever this creature is dealt damage while its tapped, you get a Scar.” (It’s a boon with “When a creature you control dies, you may pay {1}. If you do, draw a card.”)</text>
     </card>
     <card>
       <name>Ordeal of Defiance</name>
@@ -3455,7 +3455,7 @@ Whenever Ravenous Unmaker attacks or a boon you own triggers, creatures you cont
       </prop>
       <tablerow>2</tablerow>
       <text>Deathtouch
-Whenever Seven-Coil Ambusher attacks, you may have it lose deathtouch until end of turn. If you do, target creature gains deathtouch until end of turn.</text>
+Whenever Seven-Coil Ambusher attacks, you may have it lose deathtouch until end of turn. If you do, target creature gains deathtouch and “This creature can’t be blocked by token Clerics” until end of turn.</text>
     </card>
     <card>
       <name>Splinter-Blossom</name>
@@ -3674,19 +3674,19 @@ Whenever a boon you own triggers double the number of +1/+1 counters on Seven-Co
       <text>Exile all creatures and planeswalkers with mana value 3 or less, then each opponent returns a permanent to its owner’s hand with the highest mana value among permanents they control.</text>
     </card>
     <card>
-      <name>Carapace Root Herald</name>
+      <name>Carapace Shell-Burster</name>
       <set rarity="uncommon">PTN</set>
       <prop>
         <colors>BG</colors>
         <manacost>2BG</manacost>
         <cmc>4</cmc>
-        <type>Creature - Insect Druid </type>
+        <type>Creature - Insect Warrior </type>
         <maintype>Creature</maintype>
         <pt>3/2</pt>
       </prop>
       <tablerow>2</tablerow>
       <text>Trample
-Carapace Root Herald enters the battlefield with a +1/+1 counter on it for each creature card that was put into your graveyard this turn.</text>
+Carapace Shell-Burster enters the battlefield with a +1/+1 counter on it for each creature card that was put into your graveyard this turn.</text>
     </card>
     <card>
       <name>Drowning Cyprian</name>
@@ -3929,11 +3929,11 @@ Whenever Tenacious Illuminator or another Angel you control dies, each opponent 
         <cmc>4</cmc>
         <type>Creature - Horror </type>
         <maintype>Creature</maintype>
-        <pt>4/3</pt>
+        <pt>4/4</pt>
       </prop>
       <tablerow>2</tablerow>
       <text>Haste
-Musician’s Remnant can’t block
+Musician’s Remnant can’t block.
 When you draw your third card in a turn, you may discard a card. If you do, return Musician’s Remnant from your graveyard to the battlefield.</text>
     </card>
 
