@@ -1272,7 +1272,7 @@ Equip 1R</text>
         <maintype>Instant</maintype>
       </prop>
       <tablerow>3</tablerow>
-      <text>Subvert the Light deals 3 damage to any target. If this spell was cast from exile, it deals 4 damage instead.
+      <text>Subvert the Light deals 3 damage to any nonplayer target. If this spell was cast from exile, it deals 4 damage instead.
 Foretell {R} (During your turn, you may pay {2} and exile this card from your hand face down. Play it on a later turn for its foretell cost.)</text>
     </card>
     <card>
@@ -2556,7 +2556,7 @@ When you sacrifice Nowhere Soul Collector, draw a card.</text>
         <pt>1/1</pt>
       </prop>
       <tablerow>2</tablerow>
-      <text>When Nowhere Wormhost enters, target permanent you control becomes a 3/3 Skeleton. Sacrifice that permanent when Nowhere Wormhost leaves the battlefield.</text>
+      <text>When Nowhere Wormhost enters, target permanent you control becomes a 3/2 Skeleton. Sacrifice that permanent when Nowhere Wormhost leaves the battlefield.</text>
     </card>
     <card>
       <name>Opener of Realities</name>

@@ -1673,7 +1673,7 @@
 	    },
 	    {
 	        "name": "Painted Distorter",
-	        "rarity": "uncommon",
+	        "rarity": "rare",
 	        "mana_cost": "{5}{U}",
 	        "type": "Creature — Merfolk Demon ",
 	        "image_uris": {
@@ -1764,7 +1764,7 @@
 	    },
 	    {
 	        "name": "Roost Nyctodromist",
-	        "rarity": "rare",
+	        "rarity": "uncommon",
 	        "mana_cost": "{2}{U}",
 	        "type": "Creature — Bird Cleric ",
 	        "image_uris": {
