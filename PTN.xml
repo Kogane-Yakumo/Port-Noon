@@ -854,7 +854,7 @@ Foretell {W} (During your turn, you may pay {2} and exile this card from your ha
       </prop>
       <tablerow>1</tablerow>
       <text>When Legacy of the Wheel enters, exile all the cards in your hand face down, then draw that many cards plus one.
-Sacrifice Legacy of the Wheel: Shuffle your hand into your library, then return the exiled cards to their owner’s hand.</text>
+When Legacy of the Wheel is put into a graveyard from the battlefield, shuffle your hand into your library, then return the exiled cards to their owner’s hand.</text>
     </card>
     <card>
       <name>Legacy of Tides</name>
@@ -1148,7 +1148,7 @@ When Herald of Loss enters, each opponent sends a foretold card to the graveyard
       </prop>
       <tablerow>1</tablerow>
       <text>Whenever a creature dies, put an omen counter on The Museum of Worms.
-Remove twice X omen counters from The Museum of Worms and sacrifice it: Create X 1/1 black Worm creature tokens with deathtouch and infect. Activate only as a sorcery.</text>
+Remove twice X omen counters from The Museum of Worms and sacrifice it: Create X 1/1 black Worm creature tokens with deathtouch and infect. Activate only as a sorcery. (That creature deals damage to creatures in the form of -1/-1 counters and to players in the form of poison counters.)</text>
     </card>
     <card>
       <name>Skintwist</name>
@@ -1231,7 +1231,8 @@ At the beginning of your upkeep, each opponent loses 1 life and you gain 1 life.
         <maintype>Sorcery</maintype>
       </prop>
       <tablerow>3</tablerow>
-      <text>If you own 21 or more cards in exile you win the game. Otherwise, Rite Intercalate deals 6 damage to target creature.</text>
+      <text>As an additional cost to cast this spell, exile any number of permanents you control.
+If you own 36 or more cards in exile you win the game. Otherwise, Rite Intercalate deals 6 damage to target creature.</text>
     </card>
     <card>
       <name>Foul Alteration</name>
@@ -2441,7 +2442,7 @@ Foretell 1U (During your turn, you may pay {2} and exile this card from your han
       </prop>
       <tablerow>2</tablerow>
       <text>Flying
-When you sacrifice Devoured Messenger, you may cast a noncreature spell with mana value 4 or less from your hand or graveyard without paying its mana cost.</text>
+When you sacrifice Devoured Messenger, you may exile it. When you do, you may cast target noncreature spell with mana value 4 or less from your hand or graveyard without paying its mana cost.</text>
     </card>
     <card>
       <name>Expose Mortality</name>
@@ -2556,7 +2557,7 @@ When you sacrifice Nowhere Soul Collector, draw a card.</text>
         <pt>1/1</pt>
       </prop>
       <tablerow>2</tablerow>
-      <text>When Nowhere Wormhost enters, target permanent you control becomes a 3/2 Skeleton. Sacrifice that permanent when Nowhere Wormhost leaves the battlefield.</text>
+      <text>When Nowhere Wormhost enters, target permanent you control becomes a 3/2 Skeleton creature. Sacrifice that permanent when Nowhere Wormhost leaves the battlefield.</text>
     </card>
     <card>
       <name>Opener of Realities</name>
@@ -2737,7 +2738,7 @@ When White Reaper dies, tap target creature you don’t control. Put a stun coun
       </prop>
       <tablerow>2</tablerow>
       <text>Deathtouch
-When Cyprian Ophiomancer enters, if you control a Sanctuary or God. Each opponent loses 2 life and you gain 2 life.</text>
+When Cyprian Ophiomancer enters, if you control a Sanctuary or God, each opponent loses 2 life and you gain 2 life.</text>
     </card>
     <card>
       <name>Dream Whisperer</name>
@@ -3686,7 +3687,7 @@ Whenever a boon you own triggers double the number of +1/+1 counters on Seven-Co
       </prop>
       <tablerow>2</tablerow>
       <text>Trample
-Carapace Shell-Burster enters the battlefield with a +1/+1 counter on it for each creature card that was put into your graveyard this turn.</text>
+Carapace Shell-Burster enters the battlefield with a +1/+1 counter on it for each creature card that was put into your graveyard from anywhere this turn.</text>
     </card>
     <card>
       <name>Drowning Cyprian</name>
@@ -3929,7 +3930,7 @@ Whenever Tenacious Illuminator or another Angel you control dies, each opponent 
         <cmc>4</cmc>
         <type>Creature - Horror </type>
         <maintype>Creature</maintype>
-        <pt>4/4</pt>
+        <pt>4/3</pt>
       </prop>
       <tablerow>2</tablerow>
       <text>Haste
