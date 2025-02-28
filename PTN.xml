@@ -893,8 +893,8 @@ When Legacy of the Wheel is put into a graveyard from the battlefield, shuffle y
         <maintype>Enchantment</maintype>
       </prop>
       <tablerow>1</tablerow>
-      <text>Whenever a creature you control is dealt damage, put a +1/+1 counter on it. (It must survive the damage to get the counters.)
-Whenever you attack, you may pay {G}. If you do Legacy of Coils deals 1 damage to target attacking creature.</text>
+      <text>Whenever a creature you control is dealt damage, put a +1/+1 counter on it. (It must survive the damage to get the counter.)
+Whenever you attack, you may have Legacy of Coils deals 1 damage to target attacking creature.</text>
     </card>
     <card>
       <name>Subverted Cyprian</name>
@@ -1647,9 +1647,8 @@ Whenever Angel of the True Sun enters or a Sanctuary you control is put into a g
         <pt>2/3</pt>
       </prop>
       <tablerow>2</tablerow>
-      <text>Vigilance
-When Rarefied Illuminator enters, if it was cast from exile, exile target non-Human card with a foretell ability from your graveyard. It becomes foretold. (Its foretell cost is its mana cost if it isn’t already specified.)
-Foretell 1W (During your turn, you may pay {2} and exile this card from your hand face down. Play it on a later turn for its foretell cost.)</text>
+      <text>When Rarefied Illuminator enters, look at the top three cards of your library. You may exile a creature card with mana value 3 or less from among them. It becomes foretold. Put the rest on the bottom of your library in any order. (Its foretell cost is its mana cost if it isn’t already specified.)
+Foretell {W} (During your turn, you may pay {2} and exile this card from your hand face down. Play it on a later turn for its foretell cost.)</text>
     </card>
     <card>
       <name>Sunshard Protector</name>
@@ -1811,8 +1810,9 @@ If you would draw a card while your library has no cards in it, each opponent lo
         <pt>2/3</pt>
       </prop>
       <tablerow>2</tablerow>
-      <text>Ward {1}
-Whenever you cast a foretold spell, put a +1/+1 counter on The Watchman. Scry a number of cards equal to the number of counters on The Watchman, then draw a card.</text>
+      <text>Vigilance, ward {1}
+Whenever a card you own becomes foretold, put a +1/+1 counter on The Watchman. 
+{T}: Scry a number of cards equal to The Watchman power, then draw a card. Activate only if you own a foretold card in exile.</text>
     </card>
     <card>
       <name>Preemptive Purge</name>
@@ -2170,16 +2170,13 @@ Foretell {G} (During your turn, you may pay {2} and exile this card from your ha
       <set rarity="uncommon">PTN</set>
       <prop>
         <colors>WU</colors>
-        <manacost>WU</manacost>
-        <cmc>2</cmc>
+        <manacost>1WU</manacost>
+        <cmc>3</cmc>
         <type>Enchantment</type>
         <maintype>Enchantment</maintype>
       </prop>
       <tablerow>1</tablerow>
-      <text>Creatures you control enter from exile with an additional +1/+1 counter on them.
-Whenever a card you own becomes foretold, choose one that hasn’t been chosen this turn —
-• You gain 2 life.
-• Exile target creature you control, then return that card to the battlefield under your control.</text>
+      <text>At the beginning of your end step, if you haven’t cast a spell from your hand this turn, you may pay {1}. If you do, exile the top card of your library face down. It becomes foretold. (Its foretell cost is its mana cost if it isn’t already specified.)</text>
     </card>
     <card>
       <name>The Sky, The Soul</name>
@@ -2397,7 +2394,7 @@ Enchanted creature gets +1/+1 and has vigilance.</text>
         <maintype>Instant</maintype>
       </prop>
       <tablerow>3</tablerow>
-      <text>Return target creature or enchantment card with mana value 3 or less from your graveyard to the battlefield tapped. If it’s an Angel card. You get a Scar. (It’s a boon with “When a creature you control dies, you may pay {1}. If you do, draw a card.”)</text>
+      <text>Return target creature or enchantment card with mana value 3 or less from your graveyard to the battlefield tapped. If it’s an Angel card, you get a Scar. (It’s a boon with “When a creature you control dies, you may pay {1}. If you do, draw a card.”)</text>
     </card>
     <card>
       <name>Seven-Coil Glider</name>
@@ -2408,11 +2405,11 @@ Enchanted creature gets +1/+1 and has vigilance.</text>
         <cmc>3</cmc>
         <type>Creature - Angel Serpent </type>
         <maintype>Creature</maintype>
-        <pt>2/2</pt>
+        <pt>2/1</pt>
       </prop>
       <tablerow>2</tablerow>
       <text>Flying
-Whenever you play a card from exile, put a +1/+1 counter on Seven-Coil Glider.</text>
+During your turn, as long as you’ve exiled a card this turn, Seven-Coil Glider gets +2/+2.</text>
     </card>
     <card>
       <name>Augury Raven</name>
@@ -2912,8 +2909,8 @@ When Nowhere Ascender enters, you may sacrifice a creature. If you do, put a +1/
       </prop>
       <tablerow>2</tablerow>
       <text>Menace
-When Nowhere Stygian enters, each opponent sends a foretold card to the graveyard or discards a card.
-Whenever a player discards one or more cards, you get a Scar. This ability triggers only once each turn. (It’s a boon with “When a creature you control dies, you may pay {1}. If you do, draw a card.”)</text>
+When Nowhere Stygian enters, each opponent sends a foretold card to their graveyard or discards a card.
+Whenever a player discards one or more cards, you get a Scar. (It’s a boon with “When a creature you control dies, you may pay {1}. If you do, draw a card.”)</text>
     </card>
     <card>
       <name>Rite of Watchman&apos;s Sorrow</name>
@@ -3096,7 +3093,7 @@ Other creatures you control have “Ward—Pay 2 life.”</text>
         <cmc>2</cmc>
         <type>Creature - Elemental Cleric </type>
         <maintype>Creature</maintype>
-        <pt>2/1</pt>
+        <pt>1/2</pt>
       </prop>
       <tablerow>2</tablerow>
       <text>Haste
