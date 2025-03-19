@@ -3050,7 +3050,7 @@ When Entry Consultant enters, it deals 1 damage to each creature, then creatures
         <maintype>Enchantment</maintype>
       </prop>
       <tablerow>1</tablerow>
-      <text>Whenever a creature you control deals damage combat damage to a player, exile the top card of that player’s library.
+      <text>Whenever a creature you control deals combat damage to a player, exile the top card of that player’s library.
 Whenever one or more creatures you control become blocked, you may cast a spell from among cards exiled with Forces of Opening without paying its mana cost.</text>
     </card>
     <card>
