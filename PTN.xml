@@ -1405,7 +1405,7 @@ Whenever you attack, you may deal 1 damage to target attacking creature. If you 
         <maintype>Artifact</maintype>
       </prop>
       <tablerow>1</tablerow>
-      <text>{T}, Sacrifice True Blood of Saint Janus: Until end of turn, target creature you control gain lifelink and “When this creature leaves the battlefield, you may exile it. If you do, it becomes foretold.” (Its foretell cost is its mana cost if it isn’t already specified.)</text>
+      <text>{T}, Sacrifice True Blood of Saint Janus: Until end of turn, target creature you control gains lifelink and “When this creature leaves the battlefield, you may exile it and up to three other cards in graveyards. If you do, this card becomes foretold.” (Its foretell cost is its mana cost if it isn’t already specified.)</text>
     </card>
     <card>
       <name>House of the Moon</name>
@@ -1611,8 +1611,8 @@ When Misguiding Lighthouse enters, destroy target tapped artifact or creature an
       <set rarity="rare">PTN</set>
       <prop>
         <colors></colors>
-        <manacost>2</manacost>
-        <cmc>2</cmc>
+        <manacost>1</manacost>
+        <cmc>1</cmc>
         <type>Enchantment</type>
         <maintype>Enchantment</maintype>
       </prop>
@@ -2265,7 +2265,8 @@ Your opponents can’t cast spells with the same name as the exiled card.</text>
       </prop>
       <tablerow>2</tablerow>
       <text>Flash
-Whenever an opponent draws their second, fourth, or sixth card each turn, you draw a card.</text>
+Whenever an opponent draws their second, fourth, or sixth card each turn, you draw a card.
+Exile Cat o’lic Priests: Exile all graveyards. Activate only as a sorcery.</text>
     </card>
     <card>
       <name>Echoing Charger</name>
@@ -3364,7 +3365,7 @@ When Debilitated Tragulari enters, choose two target creatures controlled by dif
       </prop>
       <tablerow>2</tablerow>
       <text>Haste
-Whenever Flesh Weaver attacks, you gain 1 life, surveil 1.
+Whenever Flesh Weaver attacks, you gain 1 life, surveil 1. Then exile a card from a graveyard.
 1G, Exile two creature cards from your graveyard: Induct (Create a 0/1 Cleric creature token with “Sacrifice two other Clerics: Transform this creature.” It transforms into a 4/4 God Horror creature token that can’t block.)</text>
     </card>
     <card>
