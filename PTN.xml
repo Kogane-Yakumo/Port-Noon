@@ -65,8 +65,8 @@ You get a Scar.  (It’s a boon with “When a creature you control dies, you ma
         <pt>3/4</pt>
       </prop>
       <tablerow>2</tablerow>
-      <text>Sacrifice an unblocked attacking creature you control: Put Mother of Ants from your hand onto the battlefield tapped and attacking.
-At the beginning of each of your postcombat main phases, add {R} for each 2 life your opponents have lost this turn.</text>
+      <text>UR, Sacrifice a creature that dealt combat damage to an opponent this turn: Put Mother of Ants from your hand onto the battlefield tapped.
+At the beginning of each of your postcombat main phase, add {R} for each 2 life your opponents have lost this turn.</text>
     </card>
     <card>
       <name>The Elegiast</name>
@@ -1184,8 +1184,8 @@ When enchanted creature dies, put target creature card with mana value X or less
         <colors>R</colors>
         <manacost>1R</manacost>
         <cmc>2</cmc>
-        <type>Sorcery</type>
-        <maintype>Sorcery</maintype>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
       </prop>
       <tablerow>3</tablerow>
       <text>Choose one —
@@ -1211,13 +1211,13 @@ Until the end of your next turn, you may play the exiled card.</text>
       <set rarity="uncommon">PTN</set>
       <prop>
         <colors>B</colors>
-        <manacost>3B</manacost>
-        <cmc>4</cmc>
+        <manacost>2B</manacost>
+        <cmc>3</cmc>
         <type>Enchantment</type>
         <maintype>Enchantment</maintype>
       </prop>
       <tablerow>1</tablerow>
-      <text>This spell costs {2} less to cast if an opponent lost life this turn.
+      <text>This spell costs {1} less to cast if an opponent lost life this turn.
 At the beginning of your upkeep, each opponent loses 1 life and you gain 1 life.</text>
     </card>
     <card>
@@ -1273,7 +1273,7 @@ Equip 1R</text>
         <maintype>Instant</maintype>
       </prop>
       <tablerow>3</tablerow>
-      <text>Subvert the Light deals 3 damage to any nonplayer target. If this spell was cast from exile, it deals 4 damage instead.
+      <text>Subvert the Light deals 3 damage to any  target. If this spell was cast from exile, it deals 4 damage instead.
 Foretell {R} (During your turn, you may pay {2} and exile this card from your hand face down. Play it on a later turn for its foretell cost.)</text>
     </card>
     <card>
@@ -1405,7 +1405,8 @@ Whenever you attack, you may deal 1 damage to target attacking creature. If you 
         <maintype>Artifact</maintype>
       </prop>
       <tablerow>1</tablerow>
-      <text>{T}, Sacrifice True Blood of Saint Janus: Until end of turn, target creature you control gains lifelink and “When this creature leaves the battlefield, you may exile it and up to three other cards in graveyards. If you do, this card becomes foretold.” (Its foretell cost is its mana cost if it isn’t already specified.)</text>
+      <text>{T}: Exile target card from a graveyard.
+{5}, {T}, Exile True Blood of Saint Janus: Each player shuffles their graveyard into their library. You may cast a copy of a card exiled by True Blood of Saint Janus without paying its mana cost. Activate only as a sorcery.</text>
     </card>
     <card>
       <name>House of the Moon</name>
@@ -1664,7 +1665,7 @@ Foretell {W} (During your turn, you may pay {2} and exile this card from your ha
       <tablerow>2</tablerow>
       <text>Flash
 Flying
-When Sunshard Protector or another Angel enters under your control, put a +1/+1 counter on target creature.</text>
+When Sunshard Protector or another Angel you control enters, put a +1/+1 counter on target creature.</text>
     </card>
     <card>
       <name>Crowned Ghoul</name>
@@ -1871,7 +1872,7 @@ You may cast this spell from your graveyard if you exiled one or more cards this
       </prop>
       <tablerow>1</tablerow>
       <text>Spells your opponents cast from exile cost {1} more to cast.
-{T}: Add {C}. Induct. (Create a 0/1 Cleric creature token with “Sacrifice two other Clerics: Transform this creature.” It transforms into a 4/4 God Horror creature token that can’t block.)</text>
+{T}: Induct. When you do, add {C}. (Create a 0/1 Cleric creature token with “Sacrifice two other Clerics: Transform this creature.” It transforms into a 4/4 God Horror creature token that can’t block.)</text>
     </card>
     <card>
       <name>Discover the Stone Gods</name>
@@ -1930,7 +1931,7 @@ Forged Conflagration deals 2 damage to any target.</text>
       <tablerow>2</tablerow>
       <text>Haste
 Whenever Nowhere Razer attacks, put a devastation counter on target nonbasic land. 
-Lands your opponents control with a devastation counter on it are Mountains.</text>
+Lands your opponents control with counters on them are Mountains.</text>
     </card>
     <card>
       <name>Wildwood Containment</name>
@@ -2218,7 +2219,7 @@ When Roost Messengers enters, you may search your library for a basic land or Sa
         <pt>4/3</pt>
       </prop>
       <tablerow>2</tablerow>
-      <text>Whenever Glassgarden Watcheye or another Cleric enters under your control, target creature gets +1/+1 and gains vigilance until end of turn.
+      <text>Whenever Glassgarden Watcheye or another Cleric you control enters, target creature gets +1/+1 and gains vigilance until end of turn.
 1W: Induct. Activate only as a sorcery. (Create a 0/1 Cleric creature token with “Sacrifice two other Clerics: Transform this creature.” It transforms into a 4/4 God Horror creature token that can’t block.)</text>
     </card>
     <card>
@@ -2616,9 +2617,9 @@ When River Drowner enters, you may sacrifice a creature. If you do, return targe
       </prop>
       <tablerow>2</tablerow>
       <text>Flying
-Whenever a Cleric enters under your control, untap Roost Nyctodromist.
-{T}: Draw a card, then discard a card.
-{U}, {T}: Target creature you control gets +1/+1 and gains flying until end of turn.</text>
+Whenever a Cleric you control enters, untap Roost Nyctodromist.
+{T}: Target creature you control gets +1/+1 and gains flying until end of turn.
+{U}, {T}: Draw a card, then discard a card.</text>
     </card>
     <card>
       <name>Seaside Smuggler</name>
@@ -2848,11 +2849,11 @@ When Carapace Scavenger dies, put a +1/+1 counter on target creature you control
         <cmc>4</cmc>
         <type>Creature - Human Cleric Shaman </type>
         <maintype>Creature</maintype>
-        <pt>3/3</pt>
+        <pt>3/4</pt>
       </prop>
       <tablerow>2</tablerow>
-      <text>Ward {1}
-Whenever you sacrifice another nontoken creature, you may pay 1U. If you do, create a tapped token that’s a copy of that creature, except it’s a 2/2 and has “When this creature becomes that target of a spell or ability, exile it.”</text>
+      <text>Ward—Put a stun counter on three nonenchantment permanents you control. 
+Whenever you sacrifice another nontoken creature, you may pay {U}. If you do, create a tapped token that’s a copy of that creature, except it’s a 2/2 and has “When this creature becomes that target of a spell or ability, exile it.”</text>
     </card>
     <card>
       <name>Indulgent Cyprian</name>
@@ -3045,8 +3046,8 @@ When Entry Consultant enters, it deals 1 damage to each creature, then creatures
       <set rarity="rare">PTN</set>
       <prop>
         <colors>R</colors>
-        <manacost>2R</manacost>
-        <cmc>3</cmc>
+        <manacost>1R</manacost>
+        <cmc>2</cmc>
         <type>Enchantment</type>
         <maintype>Enchantment</maintype>
       </prop>
@@ -3094,11 +3095,11 @@ Other creatures you control have “Ward—Pay 2 life.”</text>
         <cmc>2</cmc>
         <type>Creature - Elemental Cleric </type>
         <maintype>Creature</maintype>
-        <pt>1/2</pt>
+        <pt>2/2</pt>
       </prop>
       <tablerow>2</tablerow>
       <text>Haste
-Whenever Malleary Augmenter or another Cleric enters under your control, Cleric creatures you control get +1/+0 until end of turn.</text>
+Whenever Malleary Augmenter or another Cleric you control enters, you may pay {R}. If you do, Cleric creatures you control get +1/+0 until end of turn.</text>
     </card>
     <card>
       <name>Malleary Novice</name>
@@ -3302,7 +3303,7 @@ When Carapace Threadbearer enters, if there are three or more creature cards in 
         <pt>1/1</pt>
       </prop>
       <tablerow>2</tablerow>
-      <text>Whenever another Cleric enters under your control, choose one that hasn’t been chosen this turn —
+      <text>Whenever another Cleric you control enters, choose one that hasn’t been chosen this turn —
 • Each opponent sacrifices an artifact unless they pay {1}.
 • Put a +1/+1 counter on Carapace Voyager.
 • Surveil 1.</text>
@@ -3527,7 +3528,7 @@ When Thyrsine Hunter enters, if you control a Sanctuary or there is a Sanctuary 
         <pt>3/2</pt>
       </prop>
       <tablerow>2</tablerow>
-      <text>Landfall — Whenever a land enters under your control, induct. (Create a 0/1 Cleric creature token with “Sacrifice two other Clerics: Transform this creature.” It transforms into a 4/4 God Horror creature token that can’t block.)</text>
+      <text>Landfall — Whenever a land you control enters, induct. (Create a 0/1 Cleric creature token with “Sacrifice two other Clerics: Transform this creature.” It transforms into a 4/4 God Horror creature token that can’t block.)</text>
     </card>
     <card>
       <name>Unceasing Initiation</name>
@@ -3615,7 +3616,7 @@ Ward {2} (Whenever this creature becomes the target of a spell or ability an opp
       </prop>
       <tablerow>2</tablerow>
       <text>When Territorial Yew-Maw enters you may have it deal 2 damage to itself.
-Whenever Territorial Yew-Maw is dealt damage during your turn, destroy up to one target artifact or enchantment.</text>
+Whenever Territorial Yew-Maw is dealt damage during your turn, destroy up to one target artifact or enchantment if you control Territorial Yew-Maw.</text>
     </card>
     <card>
       <name>Study the Histories</name>
@@ -3785,7 +3786,7 @@ Activated abilities of Sanctuaries you control cost {1} less to activate.</text>
         <maintype>Artifact</maintype>
       </prop>
       <tablerow>1</tablerow>
-      <text>Whenever a Sanctuary enters under your control, add one mana that a Sanctuary you control could produce.
+      <text>Whenever a Sanctuary you control enters, add one mana that a Sanctuary you control could produce.
 Whenever a Sanctuary card is put into your graveyard from the battlefield, you gain 1 life and draw a card.</text>
     </card>
     <card>
@@ -4070,7 +4071,7 @@ When a creature you control dies, you may pay {1}. If you do, draw a card.</text
         <pt>0/1</pt>
       </prop>
       <tablerow>2</tablerow>
-      <text>Sacrifice two Clerics: Transform this creature. Activate only as a sorcery.</text>
+      <text>Sacrifice two other Clerics: Transform this creature. Activate only as a sorcery.</text>
       <token>1</token>
       <related attach="transform">God Horror Token</related>
       <reverse-related>Burgeoning Risen</reverse-related>
