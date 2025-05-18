@@ -792,7 +792,7 @@
 	    {
 	        "name": "The Vitulation",
 	        "rarity": "uncommon",
-	        "mana_cost": "{3}{B}",
+	        "mana_cost": "{2}{B}",
 	        "type": "Enchantment",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/Kogane-Yakumo/Port-Noon/main/PTN-files/The%20Vitulation.png"
@@ -1466,7 +1466,7 @@
 	    {
 	        "name": "The Allure's Light",
 	        "rarity": "uncommon",
-	        "mana_cost": "{W}{U}",
+	        "mana_cost": "{1}{W}{U}",
 	        "type": "Enchantment",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/Kogane-Yakumo/Port-Noon/main/PTN-files/The%20Allure%27s%20Light.png"
@@ -2065,7 +2065,7 @@
 	    {
 	        "name": "Forces of Opening",
 	        "rarity": "rare",
-	        "mana_cost": "{2}{R}",
+	        "mana_cost": "{1}{R}",
 	        "type": "Enchantment",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/Kogane-Yakumo/Port-Noon/main/PTN-files/Forces%20of%20Opening.png"
@@ -2430,7 +2430,7 @@
 	    {
 	        "name": "Wolf-Splinter",
 	        "rarity": "common",
-	        "mana_cost": "{2}{G}",
+	        "mana_cost": "{1}{G}",
 	        "type": "Creature — Wolf Spirit ",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/Kogane-Yakumo/Port-Noon/main/PTN-files/Wolf-Splinter.png"
