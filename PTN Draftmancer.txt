@@ -502,12 +502,12 @@
 		}
 	    },
 	    {
-	        "name": "Brought Back",
+	        "name": "Ambitions of Ascension",
 	        "rarity": "rare",
-	        "mana_cost": "{W}{W}",
-	        "type": "Instant",
+	        "mana_cost": "{3}{W}",
+	        "type": "Enchantment — Saga",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Kogane-Yakumo/Port-Noon/main/PTN-files/Brought%20Back.png"
+	            "en": "https://raw.githubusercontent.com/Kogane-Yakumo/Port-Noon/main/PTN-files/Ambitions%20of%20Ascension.png"
 	        }
 	    },
 	    {
@@ -783,7 +783,7 @@
 	    {
 	        "name": "Ascent from Snakes",
 	        "rarity": "uncommon",
-	        "mana_cost": "{1}{G}{G}",
+	        "mana_cost": "{1}{G}",
 	        "type": "Instant",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/Kogane-Yakumo/Port-Noon/main/PTN-files/Ascent%20from%20Snakes.png"
@@ -2340,7 +2340,7 @@
 	    {
 	        "name": "Dappled Wing-Clippers",
 	        "rarity": "uncommon",
-	        "mana_cost": "{1}{G}",
+	        "mana_cost": "{2}{G}",
 	        "type": "Creature — Insect Cleric ",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/Kogane-Yakumo/Port-Noon/main/PTN-files/Dappled%20Wing-Clippers.png"
@@ -2383,12 +2383,12 @@
 	        }
 	    },
 	    {
-	        "name": "Wildest Dreams",
+	        "name": "Buzzings in the World",
 	        "rarity": "rare",
-	        "mana_cost": "{X}{X}{G}",
+	        "mana_cost": "{X}{G}{G}",
 	        "type": "Sorcery",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Kogane-Yakumo/Port-Noon/main/PTN-files/Wildest%20Dreams.png"
+	            "en": "https://raw.githubusercontent.com/Kogane-Yakumo/Port-Noon/main/PTN-files/Buzzings%20in%20the%20World.png"
 	        }
 	    },
 	    {
@@ -2706,7 +2706,7 @@
 		2 The Elegiast
 		2 The Sun-In-Rags
 		2 The Vagabond
-		2 Brought Back
+		2 Ambitions of Ascension
 		2 Legacy of Amber
 		2 Legacy of the Wheel
 		2 Legacy of Tides
@@ -2749,7 +2749,7 @@
 		2 Malleary Augmenter
 		2 Carapace Voyager
 		2 Musician's Remnant
-		2 Wildest Dreams
+		2 Buzzings in the World
 		2 Territorial Yew-Maw
 		2 Seven-Coil's Successor
 		1 The Horned-Axe
@@ -2829,7 +2829,7 @@
 		3 Flesh Weaver
 		3 Ordeal of Defiance
 		3 Ravenous Unmaker
-		3 Dappled Wing-Clippers
+		3 Wolf-Splinter
 		3 Splinter-Blossom
 		3 Thyrsine Hunter
 		3 Tireless Recruiter
@@ -2886,7 +2886,7 @@
 		2 Verse Aggress
 		2 Way to the Wood
 		2 Wildwood Containment
-		2 Wolf-Splinter
+		2 Dappled Wing-Clippers
 	[AC1]
 		2 Nowhere Wormhost
 		2 Names of the Dead
@@ -2923,7 +2923,7 @@
 		2 Verse Aggress
 		2 Way to the Wood
 		2 Wildwood Containment
-		2 Wolf-Splinter
+		2 Dappled Wing-Clippers
 		2 Bars Across the Sun
 		2 Forge Secretkeeper
 		2 Glassgarden Seer
@@ -2984,7 +2984,7 @@
 		2 Verse Aggress
 		2 Way to the Wood
 		2 Wildwood Containment
-		2 Wolf-Splinter
+		2 Dappled Wing-Clippers
 		2 Bringer of Glory
 		2 Unscarred Wolf
 		2 Iron Verdict
